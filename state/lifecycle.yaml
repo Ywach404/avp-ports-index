@@ -198,6 +198,16 @@ ship-of-harkinian:
   status: listed
   submitted_by: edgytoast
   submitted_by_id: 146565462
+sm64coopdx:
+  by: merge
+  changed_at: '2026-11-14T21:28:00Z'
+  listed_at: '2026-11-14T21:28:00Z'
+  owner_approved: true
+  repo: https://github.com/edgytoast/sm64coopdx-ios
+  repo_id: 1406325644
+  status: listed
+  submitted_by: edgytoast
+  submitted_by_id: 146565462
 spaghettikart:
   by: merge
   changed_at: '2026-11-14T02:29:32Z'

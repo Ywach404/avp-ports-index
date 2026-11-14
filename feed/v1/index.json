@@ -2,7 +2,7 @@
   "$schema": "https://raw.githubusercontent.com/edgytoast/avp-ports-index/main/schema/feed-v1.schema.json",
   "schema_version": "1.5.0",
   "identifier": "com.trevorbilt.avp-ports-index",
-  "generated_at": "2026-11-14T21:15:27Z",
+  "generated_at": "2026-11-14T21:28:04Z",
   "publisher": {
     "name": "trevorbilt",
     "curator": "Trevor \"Toast\"",
@@ -280,6 +280,163 @@
           ]
         },
         "screenshots": []
+      }
+    },
+    {
+      "id": "sm64coopdx",
+      "name": "Super Mario 64 Co-op Deluxe",
+      "game": {
+        "title": "Super Mario 64",
+        "original_platform": "n64",
+        "original_release_year": 1996
+      },
+      "repo_url": "https://github.com/edgytoast/sm64coopdx-ios",
+      "source_ref": null,
+      "source_url": "https://github.com/edgytoast/sm64coopdx-ios/tree/05fe583f6163c08f36041352115dab0d863a2627",
+      "install_doc_url": "https://github.com/edgytoast/sm64coopdx-ios/blob/05fe583f6163c08f36041352115dab0d863a2627/AVP-INSTALL.md",
+      "developer": {
+        "name": null,
+        "github": "rebelancap",
+        "url": null,
+        "github_verified": false
+      },
+      "credits": [
+        {
+          "name": "rebelancap",
+          "role": "The iOS and visionOS port",
+          "url": "https://github.com/rebelancap/sm64coopdx-ios"
+        },
+        {
+          "name": "Trevorbilt",
+          "role": "Install guide and AVP Ports Index listing",
+          "url": "https://trevorbilt.com"
+        },
+        {
+          "name": "Coop Deluxe Team",
+          "role": "sm64coopdx, the port this is built on",
+          "url": "https://github.com/coop-deluxe/sm64coopdx"
+        },
+        {
+          "name": "djoslin0",
+          "role": "sm64ex-coop, which sm64coopdx continues",
+          "url": "https://github.com/djoslin0/sm64ex-coop"
+        },
+        {
+          "name": "LeoManrique",
+          "role": "iOS groundwork (sm64coopdx-ios), forked by this port",
+          "url": "https://github.com/LeoManrique/sm64coopdx-ios"
+        },
+        {
+          "name": "RaYRoD",
+          "role": "Quest VR port of sm64coopdx that shaped the VR mode",
+          "url": null
+        },
+        {
+          "name": "Nintendo",
+          "role": "Original game",
+          "url": null
+        }
+      ],
+      "upstream": [
+        "https://github.com/rebelancap/sm64coopdx-ios",
+        "https://github.com/coop-deluxe/sm64coopdx",
+        "https://github.com/LeoManrique/sm64coopdx-ios"
+      ],
+      "self_reported_status": "working",
+      "status_notes": null,
+      "owner_verified": {
+        "verified": false,
+        "verified_on": null,
+        "verified_commit": null
+      },
+      "trust_tier": "working",
+      "curator_own": false,
+      "health": {
+        "status": "ok",
+        "failing_since": null
+      },
+      "scanned_commit": "05fe583f6163c08f36041352115dab0d863a2627",
+      "scanned_at": "2026-11-14T21:28:00Z",
+      "scan_kind": "automated",
+      "commits_since_scan": 0,
+      "scan_state": "current",
+      "archived": false,
+      "last_commit_date": "2026-11-13T23:20:39Z",
+      "license": {
+        "kind": "none",
+        "spdx": null
+      },
+      "visionos_min": "2.0",
+      "input": [
+        "game-controller"
+      ],
+      "experiences": [
+        "2d",
+        "3d-immersive",
+        "6dof-immersive"
+      ],
+      "install": [
+        "build",
+        "sideload"
+      ],
+      "tags": [
+        "mario",
+        "super-mario-64",
+        "n64",
+        "platformer",
+        "co-op",
+        "multiplayer",
+        "vr",
+        "stereo-3d"
+      ],
+      "description": "Super Mario 64 Co-op Deluxe on Apple Vision Pro with online co-op: a 2D window, a stereoscopic 3D screen in your room, or VR as a diorama on your floor, in third person or in first person at life size. Bring your own Super Mario 64 (US) ROM. Listed from a copy with an install guide.",
+      "page_url": "https://github.com/edgytoast/avp-ports-index/blob/main/ports/sm64coopdx.md",
+      "media": {
+        "commit": "05fe583f6163c08f36041352115dab0d863a2627",
+        "source": "readme",
+        "icon": {
+          "kind": "layered",
+          "layers": [
+            {
+              "bytes": 39738,
+              "format": "png",
+              "height": 1024,
+              "layer": "back",
+              "sha256": "a07b1d1d7932d49dbd19671b674f812790a72db6cda3b973cbbd05b8fd37780e",
+              "url": "https://raw.githubusercontent.com/edgytoast/sm64coopdx-ios/05fe583f6163c08f36041352115dab0d863a2627/app/ios/Assets-visionos.xcassets/AppIcon.solidimagestack/Back.solidimagestacklayer/Content.imageset/back.png",
+              "width": 1024
+            },
+            {
+              "bytes": 4144,
+              "format": "png",
+              "height": 1024,
+              "layer": "middle",
+              "sha256": "265149d454822c2c808720c61f5a4317c0bfda56fc96598ea7b19b6ea52c5dd1",
+              "url": "https://raw.githubusercontent.com/edgytoast/sm64coopdx-ios/05fe583f6163c08f36041352115dab0d863a2627/app/ios/Assets-visionos.xcassets/AppIcon.solidimagestack/Middle.solidimagestacklayer/Content.imageset/clear.png",
+              "width": 1024
+            },
+            {
+              "bytes": 578577,
+              "format": "png",
+              "height": 1024,
+              "layer": "front",
+              "sha256": "e1b451b511409ca54f52ad830195a0f2a0a5c6365e1a2af112fd9e7f4e89601a",
+              "url": "https://raw.githubusercontent.com/edgytoast/sm64coopdx-ios/05fe583f6163c08f36041352115dab0d863a2627/app/ios/Assets-visionos.xcassets/AppIcon.solidimagestack/Front.solidimagestacklayer/Content.imageset/front.png",
+              "width": 1024
+            }
+          ]
+        },
+        "screenshots": [
+          {
+            "alt": "sm64coopdx in a visionOS window",
+            "bytes": 2881499,
+            "format": "png",
+            "height": 1237,
+            "sha256": "8fab636e5bc6720147f24ba7e3b383e5f267457acf3737c01fede1cd3b3a395a",
+            "url": "https://raw.githubusercontent.com/edgytoast/sm64coopdx-ios/05fe583f6163c08f36041352115dab0d863a2627/docs/screenshots/visionos-window.png",
+            "width": 2200
+          }
+        ]
       }
     },
     {

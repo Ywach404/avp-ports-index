@@ -701,6 +701,44 @@ ship-of-harkinian:
     width: 2560
   skipped: []
   source: readme
+sm64coopdx:
+  choice: null
+  collected_at: '2026-11-14T21:28:03Z'
+  commit: 05fe583f6163c08f36041352115dab0d863a2627
+  icon:
+    kind: layered
+    layers:
+    - bytes: 39738
+      format: png
+      height: 1024
+      layer: back
+      sha256: a07b1d1d7932d49dbd19671b674f812790a72db6cda3b973cbbd05b8fd37780e
+      url: https://raw.githubusercontent.com/edgytoast/sm64coopdx-ios/05fe583f6163c08f36041352115dab0d863a2627/app/ios/Assets-visionos.xcassets/AppIcon.solidimagestack/Back.solidimagestacklayer/Content.imageset/back.png
+      width: 1024
+    - bytes: 4144
+      format: png
+      height: 1024
+      layer: middle
+      sha256: 265149d454822c2c808720c61f5a4317c0bfda56fc96598ea7b19b6ea52c5dd1
+      url: https://raw.githubusercontent.com/edgytoast/sm64coopdx-ios/05fe583f6163c08f36041352115dab0d863a2627/app/ios/Assets-visionos.xcassets/AppIcon.solidimagestack/Middle.solidimagestacklayer/Content.imageset/clear.png
+      width: 1024
+    - bytes: 578577
+      format: png
+      height: 1024
+      layer: front
+      sha256: e1b451b511409ca54f52ad830195a0f2a0a5c6365e1a2af112fd9e7f4e89601a
+      url: https://raw.githubusercontent.com/edgytoast/sm64coopdx-ios/05fe583f6163c08f36041352115dab0d863a2627/app/ios/Assets-visionos.xcassets/AppIcon.solidimagestack/Front.solidimagestacklayer/Content.imageset/front.png
+      width: 1024
+  screenshots:
+  - alt: sm64coopdx in a visionOS window
+    bytes: 2881499
+    format: png
+    height: 1237
+    sha256: 8fab636e5bc6720147f24ba7e3b383e5f267457acf3737c01fede1cd3b3a395a
+    url: https://raw.githubusercontent.com/edgytoast/sm64coopdx-ios/05fe583f6163c08f36041352115dab0d863a2627/docs/screenshots/visionos-window.png
+    width: 2200
+  skipped: []
+  source: readme
 spaghettikart:
   choice: null
   collected_at: '2026-11-14T02:29:35Z'
