@@ -43,6 +43,44 @@
     width: 1280
   skipped: []
   source: readme
+2ship2harkinian:
+  choice: null
+  collected_at: '2026-11-14T21:15:27Z'
+  commit: a2ee3158f5a0edf5c1882db161c9186e81f216b3
+  icon:
+    kind: layered
+    layers:
+    - bytes: 68028
+      format: png
+      height: 1024
+      layer: back
+      sha256: 64aff1d06018bfeb36f1d6167300f82d21d631eb4fbb01f8c3b74b64864dc2f5
+      url: https://raw.githubusercontent.com/edgytoast/2ship2harkinian-ios/a2ee3158f5a0edf5c1882db161c9186e81f216b3/app/ios/Assets.xcassets/AppIcon.solidimagestack/Back.solidimagestacklayer/Content.imageset/layer-back-1024.png
+      width: 1024
+    - bytes: 64947
+      format: png
+      height: 1024
+      layer: middle
+      sha256: 31cd459d39e50f87a261a9c53f27dced050dc8fb5b6f9f418f6aabce766fbe93
+      url: https://raw.githubusercontent.com/edgytoast/2ship2harkinian-ios/a2ee3158f5a0edf5c1882db161c9186e81f216b3/app/ios/Assets.xcassets/AppIcon.solidimagestack/Middle.solidimagestacklayer/Content.imageset/layer-middle-1024.png
+      width: 1024
+    - bytes: 132200
+      format: png
+      height: 1024
+      layer: front
+      sha256: 5fa23456d2fef4848c66165b6aea766d896565f0a7fdd3157c21eb29df15a0b4
+      url: https://raw.githubusercontent.com/edgytoast/2ship2harkinian-ios/a2ee3158f5a0edf5c1882db161c9186e81f216b3/app/ios/Assets.xcassets/AppIcon.solidimagestack/Front.solidimagestacklayer/Content.imageset/layer-front-1024.png
+      width: 1024
+  screenshots:
+  - alt: 'The Legend of Zelda: Majora''s Mask on Apple Vision Pro'
+    bytes: 444066
+    format: jpeg
+    height: 1440
+    sha256: 565350151f3fcd6e9a86698e40a24fdb795c21c0b540e1ba271ae9d8abdfc948
+    url: https://raw.githubusercontent.com/edgytoast/2ship2harkinian-ios/a2ee3158f5a0edf5c1882db161c9186e81f216b3/docs/screenshots/visionos-window.jpg
+    width: 2560
+  skipped: []
+  source: readme
 animal-crossing-vr:
   choice: null
   collected_at: '2026-10-10T15:56:05Z'

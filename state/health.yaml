@@ -29,6 +29,36 @@
   scanned_at: '2026-10-30T08:19:26Z'
   scanned_commit: ab3dad0f33c6175f391ed5ed27556a8706832b62
   warnings: []
+2ship2harkinian:
+  archived: false
+  commits_since_scan: 0
+  consecutive_failures: 0
+  curator_own: false
+  decay_reset_at: '2026-11-14T21:15:23Z'
+  failing_since: null
+  failures: []
+  flagged_commit: null
+  flagged_files: []
+  github_verified: false
+  health: ok
+  last_checked: null
+  last_commit_date: '2026-11-13T23:08:38Z'
+  license:
+    kind: open-source
+    spdx: MIT
+  outreach_issue_url: null
+  outreach_opened_at: null
+  rescan_after: null
+  rescan_hold: false
+  routes: []
+  scan_confidence: 96
+  scan_declines: 0
+  scan_kind: automated
+  scan_refused: false
+  scan_state: current
+  scanned_at: '2026-11-14T21:15:23Z'
+  scanned_commit: a2ee3158f5a0edf5c1882db161c9186e81f216b3
+  warnings: []
 animal-crossing-vr:
   archived: false
   commits_since_scan: 0
