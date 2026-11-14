@@ -1,0 +1,142 @@
+{
+ "2026-10-31": {
+  "views": {
+   "count": 30,
+   "uniques": 17
+  },
+  "clones": {
+   "count": 181,
+   "uniques": 55
+  }
+ },
+ "2026-11-01": {
+  "views": {
+   "count": 29,
+   "uniques": 20
+  },
+  "clones": {
+   "count": 191,
+   "uniques": 61
+  }
+ },
+ "2026-11-02": {
+  "views": {
+   "count": 22,
+   "uniques": 13
+  },
+  "clones": {
+   "count": 86,
+   "uniques": 21
+  }
+ },
+ "2026-11-03": {
+  "views": {
+   "count": 20,
+   "uniques": 7
+  },
+  "clones": {
+   "count": 114,
+   "uniques": 33
+  }
+ },
+ "2026-11-04": {
+  "views": {
+   "count": 9,
+   "uniques": 7
+  },
+  "clones": {
+   "count": 51,
+   "uniques": 16
+  }
+ },
+ "2026-11-05": {
+  "views": {
+   "count": 15,
+   "uniques": 12
+  },
+  "clones": {
+   "count": 64,
+   "uniques": 17
+  }
+ },
+ "2026-11-06": {
+  "views": {
+   "count": 13,
+   "uniques": 4
+  },
+  "clones": {
+   "count": 30,
+   "uniques": 3
+  }
+ },
+ "2026-11-07": {
+  "views": {
+   "count": 16,
+   "uniques": 7
+  },
+  "clones": {
+   "count": 49,
+   "uniques": 14
+  }
+ },
+ "2026-11-08": {
+  "views": {
+   "count": 16,
+   "uniques": 9
+  },
+  "clones": {
+   "count": 53,
+   "uniques": 13
+  }
+ },
+ "2026-11-09": {
+  "views": {
+   "count": 14,
+   "uniques": 5
+  },
+  "clones": {
+   "count": 65,
+   "uniques": 18
+  }
+ },
+ "2026-11-10": {
+  "views": {
+   "count": 11,
+   "uniques": 4
+  },
+  "clones": {
+   "count": 42,
+   "uniques": 9
+  }
+ },
+ "2026-11-11": {
+  "views": {
+   "count": 8,
+   "uniques": 5
+  },
+  "clones": {
+   "count": 59,
+   "uniques": 18
+  }
+ },
+ "2026-11-12": {
+  "views": {
+   "count": 11,
+   "uniques": 8
+  },
+  "clones": {
+   "count": 45,
+   "uniques": 13
+  }
+ },
+ "2026-11-13": {
+  "views": {
+   "count": 45,
+   "uniques": 9
+  },
+  "clones": {
+   "count": 171,
+   "uniques": 30
+  }
+ }
+}
