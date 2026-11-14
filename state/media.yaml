@@ -928,6 +928,58 @@ voxelnative:
   - reason: not this repo's file or a GitHub attachment
     src: https://img.shields.io/badge/TestFlight-Join_the_beta-0D96F6?style=for-the-badge&logo=apple&logoColor=white
   source: readme
+wiicompiled-vr:
+  choice: null
+  collected_at: '2026-11-14T21:32:25Z'
+  commit: 87c18efa00ceca1706321a1b0d87254a92afbdc7
+  icon:
+    kind: layered
+    layers:
+    - bytes: 253691
+      format: png
+      height: 1024
+      layer: back
+      sha256: 41b9bcea04bbdef6f1d19cf5f8eddcbb69ed38b29f9189f9d0b1c6d9dc4286a0
+      url: https://raw.githubusercontent.com/edgytoast/wiicompiled_vr-avp-index/87c18efa00ceca1706321a1b0d87254a92afbdc7/visionos/App/Assets.xcassets/AppIcon.solidimagestack/Back.solidimagestacklayer/Content.imageset/Back.png
+      width: 1024
+    - bytes: 176793
+      format: png
+      height: 1024
+      layer: middle
+      sha256: 060a7a5052f86fdf1197a06cfb620c32178ff7117edce35dfe8f938d47e98e03
+      url: https://raw.githubusercontent.com/edgytoast/wiicompiled_vr-avp-index/87c18efa00ceca1706321a1b0d87254a92afbdc7/visionos/App/Assets.xcassets/AppIcon.solidimagestack/Middle.solidimagestacklayer/Content.imageset/Middle.png
+      width: 1024
+    - bytes: 125847
+      format: png
+      height: 1024
+      layer: front
+      sha256: 82e8514c1ef50f441942b49c0a5d6a5126e69248d917525ff5b044957895ecfc
+      url: https://raw.githubusercontent.com/edgytoast/wiicompiled_vr-avp-index/87c18efa00ceca1706321a1b0d87254a92afbdc7/visionos/App/Assets.xcassets/AppIcon.solidimagestack/Front.solidimagestacklayer/Content.imageset/Front.png
+      width: 1024
+  screenshots:
+  - alt: Mario Kart WiiCompiled VR logo (logo by Inkwreck)
+    bytes: 2528072
+    format: png
+    height: 2464
+    sha256: 8c4c7ab51ac2ebbcf803f82e366e226a59ce8af0fcfef6b6517cf5e6747e8668
+    url: https://raw.githubusercontent.com/edgytoast/wiicompiled_vr-avp-index/87c18efa00ceca1706321a1b0d87254a92afbdc7/docs/images/wiicompiled-vr-logo.png
+    width: 4190
+  skipped:
+  - reason: not this repo's file or a GitHub attachment
+    src: https://img.shields.io/badge/Windows-10%20%2F%2011%20%C2%B7%20x64-0078D4
+  - reason: not this repo's file or a GitHub attachment
+    src: https://img.shields.io/badge/Linux-x64%20%2F%20ARM64-FCC624?logo=linux&amp;logoColor=white
+  - reason: not this repo's file or a GitHub attachment
+    src: https://img.shields.io/badge/macOS-14%2B%20%C2%B7%20Apple%20Silicon-0A84FF?logo=apple&amp;logoColor=white
+  - reason: not this repo's file or a GitHub attachment
+    src: https://img.shields.io/badge/PowerPC-static%20recompilation-FF9F0A
+  - reason: not this repo's file or a GitHub attachment
+    src: https://img.shields.io/badge/Retro%20Rewind-supported-FF375F
+  - reason: not this repo's file or a GitHub attachment
+    src: https://img.shields.io/badge/install%20with-Wheel%20Wizard-8B5CF6
+  - reason: not this repo's file or a GitHub attachment
+    src: https://img.shields.io/badge/license-GPLv3-2EA44F?logo=gnu&amp;logoColor=white
+  source: readme
 wind-waker-vr:
   choice: null
   collected_at: '2026-10-29T22:31:03Z'

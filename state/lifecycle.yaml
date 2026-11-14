@@ -258,6 +258,16 @@ voxelnative:
   status: listed
   submitted_by: edgytoast
   submitted_by_id: 146565462
+wiicompiled-vr:
+  by: merge
+  changed_at: '2026-11-14T21:32:22Z'
+  listed_at: '2026-11-14T21:32:22Z'
+  owner_approved: true
+  repo: https://github.com/edgytoast/wiicompiled_vr-avp-index
+  repo_id: 1406544398
+  status: listed
+  submitted_by: edgytoast
+  submitted_by_id: 146565462
 wind-waker-vr:
   by: merge
   changed_at: '2026-10-29T22:30:59Z'
