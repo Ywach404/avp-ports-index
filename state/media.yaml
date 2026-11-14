@@ -394,6 +394,37 @@ luigis-mansion-vr:
   - reason: not this repo's file or a GitHub attachment
     src: https://img.shields.io/badge/AVP_Ports_Index-listed-0A84FF
   source: readme
+perfect-dark:
+  choice: null
+  collected_at: '2026-11-14T18:28:53Z'
+  commit: 906f3f676d8e3a21d3e226d719137c32ffc02674
+  icon:
+    kind: layered
+    layers:
+    - bytes: 6489
+      format: png
+      height: 1024
+      layer: back
+      sha256: cd35d58f304b8d8fad68411d5b2fb0f210d656a61d07c87f3b62086981ec2bec
+      url: https://raw.githubusercontent.com/edgytoast/perfect-dark-ios/906f3f676d8e3a21d3e226d719137c32ffc02674/app/ios/Assets-visionos.xcassets/AppIcon.solidimagestack/Back.solidimagestacklayer/Content.imageset/img.png
+      width: 1024
+    - bytes: 176421
+      format: png
+      height: 1024
+      layer: front
+      sha256: caf8c14e1c24936f3fd449db79e5758953d72d13f60bbb9d91c6644c3c514bc8
+      url: https://raw.githubusercontent.com/edgytoast/perfect-dark-ios/906f3f676d8e3a21d3e226d719137c32ffc02674/app/ios/Assets-visionos.xcassets/AppIcon.solidimagestack/Front.solidimagestacklayer/Content.imageset/img.png
+      width: 1024
+  screenshots:
+  - alt: Perfect Dark on Apple Vision Pro — Air Base, XBLA art
+    bytes: 312480
+    format: jpeg
+    height: 1080
+    sha256: da78a15556401ef1bccf64c8b37581ac48699681b8922b9ccb86b96ee23724bd
+    url: https://raw.githubusercontent.com/edgytoast/perfect-dark-ios/906f3f676d8e3a21d3e226d719137c32ffc02674/docs/screenshots/vision-pro-airbase-xbla.jpg
+    width: 1920
+  skipped: []
+  source: readme
 pokemon-gen1recomp:
   choice: null
   collected_at: '2026-11-13T22:49:59Z'

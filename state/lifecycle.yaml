@@ -118,6 +118,16 @@ luigis-mansion-vr:
   status: listed
   submitted_by: edgytoast
   submitted_by_id: 146565462
+perfect-dark:
+  by: merge
+  changed_at: '2026-11-14T18:28:51Z'
+  listed_at: '2026-11-14T18:28:51Z'
+  owner_approved: true
+  repo: https://github.com/edgytoast/perfect-dark-ios
+  repo_id: 1406327380
+  status: listed
+  submitted_by: edgytoast
+  submitted_by_id: 146565462
 pokemon-gen1recomp:
   by: merge
   changed_at: '2026-11-13T22:49:54Z'

@@ -2,7 +2,7 @@
   "$schema": "https://raw.githubusercontent.com/edgytoast/avp-ports-index/main/schema/feed-v1.schema.json",
   "schema_version": "1.5.0",
   "identifier": "com.trevorbilt.avp-ports-index",
-  "generated_at": "2026-11-14T18:14:34Z",
+  "generated_at": "2026-11-14T18:28:53Z",
   "publisher": {
     "name": "trevorbilt",
     "curator": "Trevor \"Toast\"",
@@ -280,6 +280,158 @@
           ]
         },
         "screenshots": []
+      }
+    },
+    {
+      "id": "perfect-dark",
+      "name": "Perfect Dark",
+      "game": {
+        "title": "Perfect Dark",
+        "original_platform": "n64",
+        "original_release_year": 2000
+      },
+      "repo_url": "https://github.com/edgytoast/perfect-dark-ios",
+      "source_ref": null,
+      "source_url": "https://github.com/edgytoast/perfect-dark-ios/tree/906f3f676d8e3a21d3e226d719137c32ffc02674",
+      "install_doc_url": "https://github.com/edgytoast/perfect-dark-ios/blob/906f3f676d8e3a21d3e226d719137c32ffc02674/AVP-INSTALL.md",
+      "developer": {
+        "name": null,
+        "github": "rebelancap",
+        "url": null,
+        "github_verified": false
+      },
+      "credits": [
+        {
+          "name": "rebelancap",
+          "role": "The iOS and visionOS port",
+          "url": "https://github.com/rebelancap/perfect-dark-ios"
+        },
+        {
+          "name": "Trevorbilt",
+          "role": "Install guide and AVP Ports Index listing",
+          "url": "https://trevorbilt.com"
+        },
+        {
+          "name": "DabDavis",
+          "role": "Dab's Mod, the fork this port is built on",
+          "url": "https://github.com/DabDavis/perfect-dark-dabs-mod"
+        },
+        {
+          "name": "Perfect Dark PC port",
+          "role": "Platform layer, Fast3D renderer and CLI",
+          "url": "https://github.com/perfect-dark-pc-port/perfect_dark"
+        },
+        {
+          "name": "n64decomp",
+          "role": "Perfect Dark decompilation",
+          "url": "https://github.com/n64decomp/perfect_dark"
+        },
+        {
+          "name": "ANGLE",
+          "role": "OpenGL ES on Metal",
+          "url": "https://chromium.googlesource.com/angle/angle"
+        },
+        {
+          "name": "SDL2",
+          "role": "Windowing, input and audio",
+          "url": "https://libsdl.org"
+        },
+        {
+          "name": "Rare / Microsoft",
+          "role": "Original game",
+          "url": null
+        }
+      ],
+      "upstream": [
+        "https://github.com/rebelancap/perfect-dark-ios",
+        "https://github.com/DabDavis/perfect-dark-dabs-mod",
+        "https://github.com/perfect-dark-pc-port/perfect_dark",
+        "https://github.com/n64decomp/perfect_dark"
+      ],
+      "self_reported_status": "working",
+      "status_notes": null,
+      "owner_verified": {
+        "verified": false,
+        "verified_on": null,
+        "verified_commit": null
+      },
+      "trust_tier": "working",
+      "curator_own": false,
+      "health": {
+        "status": "ok",
+        "failing_since": null
+      },
+      "scanned_commit": "906f3f676d8e3a21d3e226d719137c32ffc02674",
+      "scanned_at": "2026-11-14T18:28:50Z",
+      "scan_kind": "automated",
+      "commits_since_scan": 0,
+      "scan_state": "current",
+      "archived": false,
+      "last_commit_date": "2026-11-13T23:08:27Z",
+      "license": {
+        "kind": "custom",
+        "spdx": null
+      },
+      "visionos_min": "26.0",
+      "input": [
+        "game-controller"
+      ],
+      "experiences": [
+        "2d",
+        "3d-immersive"
+      ],
+      "install": [
+        "build",
+        "sideload"
+      ],
+      "tags": [
+        "fps",
+        "first-person",
+        "n64",
+        "decompilation",
+        "stereo-3d",
+        "dabs-mod",
+        "xbla"
+      ],
+      "description": "Perfect Dark on Apple Vision Pro: the decompilation through the PC port and Dab's Mod, on Metal. A 2D window or a stereoscopic 3D screen in your room, with optional Xbox 360 (XBLA) art and GoldenEye 007 (GE Plus) from your own copies. Bring your own ROM. Listed from a copy with an install guide.",
+      "page_url": "https://github.com/edgytoast/avp-ports-index/blob/main/ports/perfect-dark.md",
+      "media": {
+        "commit": "906f3f676d8e3a21d3e226d719137c32ffc02674",
+        "source": "readme",
+        "icon": {
+          "kind": "layered",
+          "layers": [
+            {
+              "bytes": 6489,
+              "format": "png",
+              "height": 1024,
+              "layer": "back",
+              "sha256": "cd35d58f304b8d8fad68411d5b2fb0f210d656a61d07c87f3b62086981ec2bec",
+              "url": "https://raw.githubusercontent.com/edgytoast/perfect-dark-ios/906f3f676d8e3a21d3e226d719137c32ffc02674/app/ios/Assets-visionos.xcassets/AppIcon.solidimagestack/Back.solidimagestacklayer/Content.imageset/img.png",
+              "width": 1024
+            },
+            {
+              "bytes": 176421,
+              "format": "png",
+              "height": 1024,
+              "layer": "front",
+              "sha256": "caf8c14e1c24936f3fd449db79e5758953d72d13f60bbb9d91c6644c3c514bc8",
+              "url": "https://raw.githubusercontent.com/edgytoast/perfect-dark-ios/906f3f676d8e3a21d3e226d719137c32ffc02674/app/ios/Assets-visionos.xcassets/AppIcon.solidimagestack/Front.solidimagestacklayer/Content.imageset/img.png",
+              "width": 1024
+            }
+          ]
+        },
+        "screenshots": [
+          {
+            "alt": "Perfect Dark on Apple Vision Pro — Air Base, XBLA art",
+            "bytes": 312480,
+            "format": "jpeg",
+            "height": 1080,
+            "sha256": "da78a15556401ef1bccf64c8b37581ac48699681b8922b9ccb86b96ee23724bd",
+            "url": "https://raw.githubusercontent.com/edgytoast/perfect-dark-ios/906f3f676d8e3a21d3e226d719137c32ffc02674/docs/screenshots/vision-pro-airbase-xbla.jpg",
+            "width": 1920
+          }
+        ]
       }
     },
     {
