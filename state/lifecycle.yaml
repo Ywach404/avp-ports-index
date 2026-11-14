@@ -68,6 +68,16 @@ galaxyvision:
   status: listed
   submitted_by: edgytoast
   submitted_by_id: 146565462
+goldeneye-xbla:
+  by: merge
+  changed_at: '2026-11-14T18:14:30Z'
+  listed_at: '2026-11-14T18:14:30Z'
+  owner_approved: true
+  repo: https://github.com/edgytoast/GoldenEye-Recomp-ios
+  repo_id: 1406327720
+  status: listed
+  submitted_by: edgytoast
+  submitted_by_id: 146565462
 half-life-alyx:
   by: merge
   changed_at: '2026-10-29T21:32:35Z'

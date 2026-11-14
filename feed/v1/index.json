@@ -2,7 +2,7 @@
   "$schema": "https://raw.githubusercontent.com/edgytoast/avp-ports-index/main/schema/feed-v1.schema.json",
   "schema_version": "1.5.0",
   "identifier": "com.trevorbilt.avp-ports-index",
-  "generated_at": "2026-11-14T17:30:15Z",
+  "generated_at": "2026-11-14T18:14:34Z",
   "publisher": {
     "name": "trevorbilt",
     "curator": "Trevor \"Toast\"",
@@ -280,6 +280,136 @@
           ]
         },
         "screenshots": []
+      }
+    },
+    {
+      "id": "goldeneye-xbla",
+      "name": "GoldenEye 007",
+      "game": {
+        "title": "GoldenEye 007",
+        "original_platform": "other",
+        "original_release_year": null
+      },
+      "repo_url": "https://github.com/edgytoast/GoldenEye-Recomp-ios",
+      "source_ref": null,
+      "source_url": "https://github.com/edgytoast/GoldenEye-Recomp-ios/tree/95bcd76b08da5111d6e6f420e19d44e1237fe119",
+      "install_doc_url": "https://github.com/edgytoast/GoldenEye-Recomp-ios/blob/95bcd76b08da5111d6e6f420e19d44e1237fe119/AVP-INSTALL.md",
+      "developer": {
+        "name": null,
+        "github": "rebelancap",
+        "url": null,
+        "github_verified": false
+      },
+      "credits": [
+        {
+          "name": "rebelancap",
+          "role": "The iOS and visionOS port",
+          "url": "https://github.com/rebelancap/GoldenEye-Recomp-ios"
+        },
+        {
+          "name": "Trevorbilt",
+          "role": "Install guide and AVP Ports Index listing",
+          "url": "https://trevorbilt.com"
+        },
+        {
+          "name": "SunJaycy",
+          "role": "GoldenEye-Recomp, the PC recompilation this port is built on",
+          "url": "https://github.com/SunJaycy/GoldenEye-Recomp"
+        },
+        {
+          "name": "ReXGlue SDK",
+          "role": "PowerPC to C++ recompiler and Xbox 360 runtime",
+          "url": "https://github.com/rexglue/rexglue-sdk"
+        },
+        {
+          "name": "Xenia",
+          "role": "GPU, kernel/XAM and XMA audio work that ReXGlue's runtime derives from",
+          "url": "https://xenia.jp"
+        },
+        {
+          "name": "BeanTools Community Edition",
+          "role": "Door, portal, near-clip and audio fixes, and 3D-positioned sound",
+          "url": null
+        },
+        {
+          "name": "MoltenVK",
+          "role": "Vulkan on Metal",
+          "url": "https://github.com/KhronosGroup/MoltenVK"
+        },
+        {
+          "name": "Rare / Nintendo / MGM / Danjaq",
+          "role": "Original game",
+          "url": null
+        }
+      ],
+      "upstream": [
+        "https://github.com/rebelancap/GoldenEye-Recomp-ios",
+        "https://github.com/SunJaycy/GoldenEye-Recomp",
+        "https://github.com/rexglue/rexglue-sdk",
+        "https://github.com/SunJaycy/GoldenEye-Recomp-rexglue"
+      ],
+      "self_reported_status": "working",
+      "status_notes": null,
+      "owner_verified": {
+        "verified": false,
+        "verified_on": null,
+        "verified_commit": null
+      },
+      "trust_tier": "working",
+      "curator_own": false,
+      "health": {
+        "status": "ok",
+        "failing_since": null
+      },
+      "scanned_commit": "95bcd76b08da5111d6e6f420e19d44e1237fe119",
+      "scanned_at": "2026-11-14T18:14:30Z",
+      "scan_kind": "automated",
+      "commits_since_scan": 0,
+      "scan_state": "current",
+      "archived": false,
+      "last_commit_date": "2026-11-13T23:08:15Z",
+      "license": {
+        "kind": "open-source",
+        "spdx": "Unlicense"
+      },
+      "visionos_min": "26.0",
+      "input": [
+        "game-controller"
+      ],
+      "experiences": [
+        "2d"
+      ],
+      "install": [
+        "build",
+        "sideload"
+      ],
+      "tags": [
+        "goldeneye",
+        "fps",
+        "first-person",
+        "xbox-360",
+        "xbla",
+        "static-recompilation",
+        "rexglue",
+        "remaster"
+      ],
+      "description": "GoldenEye 007 on Apple Vision Pro: Rare's unreleased 2007 Xbox 360 remaster, statically recompiled through GoldenEye-Recomp and the ReXGlue SDK. A 2D window, with a flip between remastered and original N64 graphics. Bring your own copy of the game files. Listed from a copy with an install guide.",
+      "page_url": "https://github.com/edgytoast/avp-ports-index/blob/main/ports/goldeneye-xbla.md",
+      "media": {
+        "commit": "95bcd76b08da5111d6e6f420e19d44e1237fe119",
+        "source": "readme",
+        "icon": null,
+        "screenshots": [
+          {
+            "alt": "GoldenEye on Apple Vision Pro",
+            "bytes": 363008,
+            "format": "jpeg",
+            "height": 1080,
+            "sha256": "2d67515a6f07381ee059786454adc4fbcc6df13f4220b75ee01065a624e26a72",
+            "url": "https://raw.githubusercontent.com/edgytoast/GoldenEye-Recomp-ios/95bcd76b08da5111d6e6f420e19d44e1237fe119/docs/screenshots/vision-pro-dam-remaster.jpg",
+            "width": 1920
+          }
+        ]
       }
     },
     {

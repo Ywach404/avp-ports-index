@@ -260,6 +260,21 @@ galaxyvision:
   screenshots: []
   skipped: []
   source: readme
+goldeneye-xbla:
+  choice: null
+  collected_at: '2026-11-14T18:14:33Z'
+  commit: 95bcd76b08da5111d6e6f420e19d44e1237fe119
+  icon: null
+  screenshots:
+  - alt: GoldenEye on Apple Vision Pro
+    bytes: 363008
+    format: jpeg
+    height: 1080
+    sha256: 2d67515a6f07381ee059786454adc4fbcc6df13f4220b75ee01065a624e26a72
+    url: https://raw.githubusercontent.com/edgytoast/GoldenEye-Recomp-ios/95bcd76b08da5111d6e6f420e19d44e1237fe119/docs/screenshots/vision-pro-dam-remaster.jpg
+    width: 1920
+  skipped: []
+  source: readme
 half-life-alyx:
   choice: null
   collected_at: '2026-10-14T06:44:27Z'
