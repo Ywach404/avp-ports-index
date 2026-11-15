@@ -598,6 +598,36 @@ ship-of-harkinian:
   scanned_at: '2026-11-14T00:40:28Z'
   scanned_commit: a61edd238439f0fd81ef1e49694731e8cfca334c
   warnings: []
+skyrim-vr:
+  archived: false
+  commits_since_scan: 14
+  consecutive_failures: 0
+  curator_own: false
+  decay_reset_at: '2026-11-15T16:31:18Z'
+  failing_since: null
+  failures: []
+  flagged_commit: null
+  flagged_files: []
+  github_verified: true
+  health: ok
+  last_checked: null
+  last_commit_date: '2026-11-15T16:27:16Z'
+  license:
+    kind: open-source
+    spdx: MIT
+  outreach_issue_url: null
+  outreach_opened_at: null
+  rescan_after: null
+  rescan_hold: false
+  routes: []
+  scan_confidence: 95
+  scan_declines: 0
+  scan_kind: automated
+  scan_refused: false
+  scan_state: behind
+  scanned_at: '2026-11-15T16:31:17Z'
+  scanned_commit: c036b4e4b3580c5ee5442540f0d14b912153c584
+  warnings: []
 sm64coopdx:
   archived: false
   commits_since_scan: 0
