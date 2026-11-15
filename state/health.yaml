@@ -751,7 +751,7 @@ visr:
   warnings: []
 voxelnative:
   archived: false
-  commits_since_scan: 4
+  commits_since_scan: 0
   consecutive_failures: 0
   curator_own: false
   decay_reset_at: '2026-11-14T02:35:02Z'
@@ -771,13 +771,13 @@ voxelnative:
   rescan_after: null
   rescan_hold: false
   routes: []
-  scan_confidence: 98
+  scan_confidence: 95
   scan_declines: 0
   scan_kind: automated
   scan_refused: false
-  scan_state: behind
-  scanned_at: '2026-11-15T06:35:03Z'
-  scanned_commit: 17d180164c90bc9399ae3968c9d56d01cff9b60d
+  scan_state: current
+  scanned_at: '2026-11-15T06:39:19Z'
+  scanned_commit: 4e83af388f9461075d41ab2d7e49be47f2e33303
   warnings: []
 wiicompiled-vr:
   archived: false
