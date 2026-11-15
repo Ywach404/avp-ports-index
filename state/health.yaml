@@ -10,7 +10,7 @@
   flagged_files: []
   github_verified: true
   health: ok
-  last_checked: '2026-11-14T06:26:49Z'
+  last_checked: '2026-11-15T06:27:37Z'
   last_commit_date: '2026-10-30T05:17:18Z'
   license:
     kind: open-source
@@ -41,7 +41,7 @@
   flagged_files: []
   github_verified: false
   health: ok
-  last_checked: null
+  last_checked: '2026-11-15T06:27:37Z'
   last_commit_date: '2026-11-13T23:08:38Z'
   license:
     kind: open-source
@@ -71,7 +71,7 @@ animal-crossing-vr:
   flagged_files: []
   github_verified: true
   health: ok
-  last_checked: '2026-11-14T06:26:49Z'
+  last_checked: '2026-11-15T06:27:37Z'
   last_commit_date: '2026-10-10T05:22:45Z'
   license:
     kind: custom
@@ -99,7 +99,7 @@ apotris:
   flagged_files: []
   github_verified: false
   health: ok
-  last_checked: '2026-11-14T06:26:49Z'
+  last_checked: '2026-11-15T06:27:37Z'
   last_commit_date: '2026-11-13T23:08:03Z'
   license:
     kind: open-source
@@ -129,7 +129,7 @@ avp-craft:
   flagged_files: []
   github_verified: true
   health: ok
-  last_checked: '2026-11-14T06:26:49Z'
+  last_checked: '2026-11-15T06:27:37Z'
   last_commit_date: '2026-11-01T09:22:39Z'
   license:
     kind: open-source
@@ -159,7 +159,7 @@ ctrpad:
   flagged_files: []
   github_verified: false
   health: ok
-  last_checked: null
+  last_checked: '2026-11-15T06:27:37Z'
   last_commit_date: '2026-11-13T23:07:28Z'
   license:
     kind: custom
@@ -189,7 +189,7 @@ dark-eco:
   flagged_files: []
   github_verified: true
   health: ok
-  last_checked: '2026-11-14T06:26:49Z'
+  last_checked: '2026-11-15T06:27:37Z'
   last_commit_date: '2026-11-02T03:07:20Z'
   license:
     kind: none
@@ -220,7 +220,7 @@ galaxyvision:
   flagged_files: []
   github_verified: true
   health: ok
-  last_checked: '2026-11-14T06:26:49Z'
+  last_checked: '2026-11-15T06:27:37Z'
   last_commit_date: '2026-10-26T06:55:06Z'
   license:
     kind: open-source
@@ -250,7 +250,7 @@ goldeneye-xbla:
   flagged_files: []
   github_verified: false
   health: ok
-  last_checked: null
+  last_checked: '2026-11-15T06:27:37Z'
   last_commit_date: '2026-11-13T23:08:15Z'
   license:
     kind: open-source
@@ -280,7 +280,7 @@ half-life-alyx:
   flagged_files: []
   github_verified: false
   health: ok
-  last_checked: '2026-11-14T06:26:49Z'
+  last_checked: '2026-11-15T06:27:37Z'
   last_commit_date: '2026-10-13T06:52:59Z'
   license:
     kind: custom
@@ -309,7 +309,7 @@ half-life-vr:
   flagged_files: []
   github_verified: true
   health: ok
-  last_checked: '2026-11-14T06:26:49Z'
+  last_checked: '2026-11-15T06:27:37Z'
   last_commit_date: '2026-11-02T14:51:47Z'
   license:
     kind: open-source
@@ -340,7 +340,7 @@ lighthouse:
   flagged_files: []
   github_verified: false
   health: ok
-  last_checked: '2026-11-14T06:26:49Z'
+  last_checked: '2026-11-15T06:27:37Z'
   last_commit_date: '2026-11-13T22:49:27Z'
   license:
     kind: open-source
@@ -370,7 +370,7 @@ luigis-mansion-vr:
   flagged_files: []
   github_verified: true
   health: ok
-  last_checked: '2026-11-14T06:26:49Z'
+  last_checked: '2026-11-15T06:27:37Z'
   last_commit_date: '2026-11-02T21:37:42Z'
   license:
     kind: none
@@ -401,7 +401,7 @@ perfect-dark:
   flagged_files: []
   github_verified: false
   health: ok
-  last_checked: null
+  last_checked: '2026-11-15T06:27:37Z'
   last_commit_date: '2026-11-13T23:08:27Z'
   license:
     kind: custom
@@ -431,7 +431,7 @@ pokemon-gen1recomp:
   flagged_files: []
   github_verified: false
   health: ok
-  last_checked: '2026-11-14T06:26:49Z'
+  last_checked: '2026-11-15T06:27:37Z'
   last_commit_date: '2026-11-13T22:42:26Z'
   license:
     kind: open-source
@@ -461,7 +461,7 @@ revc-visionos:
   flagged_files: []
   github_verified: true
   health: ok
-  last_checked: '2026-11-14T06:26:49Z'
+  last_checked: '2026-11-15T06:27:37Z'
   last_commit_date: '2026-10-31T14:17:15Z'
   license:
     kind: custom
@@ -492,7 +492,7 @@ rtcw-avp:
   flagged_files: []
   github_verified: false
   health: ok
-  last_checked: '2026-11-14T06:26:49Z'
+  last_checked: '2026-11-15T06:27:37Z'
   last_commit_date: '2026-11-13T23:07:14Z'
   license:
     kind: open-source
@@ -522,7 +522,7 @@ santosvision:
   flagged_files: []
   github_verified: true
   health: ok
-  last_checked: '2026-11-14T06:26:49Z'
+  last_checked: '2026-11-15T06:27:37Z'
   last_commit_date: '2026-11-01T10:23:24Z'
   license:
     kind: open-source
@@ -552,7 +552,7 @@ shar-visionos:
   flagged_commit: null
   github_verified: true
   health: ok
-  last_checked: '2026-11-14T06:26:49Z'
+  last_checked: '2026-11-15T06:27:37Z'
   last_commit_date: '2026-10-08T20:53:28Z'
   license:
     kind: open-source
@@ -580,7 +580,7 @@ ship-of-harkinian:
   flagged_files: []
   github_verified: false
   health: ok
-  last_checked: '2026-11-14T06:26:49Z'
+  last_checked: '2026-11-15T06:27:37Z'
   last_commit_date: '2026-11-13T22:49:41Z'
   license:
     kind: open-source
@@ -610,7 +610,7 @@ sm64coopdx:
   flagged_files: []
   github_verified: false
   health: ok
-  last_checked: null
+  last_checked: '2026-11-15T06:27:37Z'
   last_commit_date: '2026-11-13T23:20:39Z'
   license:
     kind: none
@@ -640,7 +640,7 @@ spaghettikart:
   flagged_files: []
   github_verified: false
   health: ok
-  last_checked: '2026-11-14T06:26:49Z'
+  last_checked: '2026-11-15T06:27:37Z'
   last_commit_date: '2026-11-13T23:07:39Z'
   license:
     kind: open-source
@@ -670,7 +670,7 @@ starship:
   flagged_files: []
   github_verified: false
   health: ok
-  last_checked: '2026-11-14T06:26:49Z'
+  last_checked: '2026-11-15T06:27:37Z'
   last_commit_date: '2026-11-13T22:49:52Z'
   license:
     kind: open-source
@@ -700,7 +700,7 @@ twilight-princess-vr:
   flagged_files: []
   github_verified: true
   health: ok
-  last_checked: '2026-11-14T06:26:49Z'
+  last_checked: '2026-11-15T06:27:37Z'
   last_commit_date: '2026-10-17T20:57:34Z'
   license:
     kind: open-source
@@ -719,7 +719,7 @@ twilight-princess-vr:
   warnings: []
 visr:
   archived: false
-  commits_since_scan: 5
+  commits_since_scan: 157
   consecutive_failures: 0
   curator_own: false
   decay_reset_at: '2026-11-13T19:53:01Z'
@@ -729,8 +729,8 @@ visr:
   flagged_files: []
   github_verified: false
   health: ok
-  last_checked: '2026-11-14T06:26:49Z'
-  last_commit_date: '2026-11-14T05:38:48Z'
+  last_checked: '2026-11-15T06:27:37Z'
+  last_commit_date: '2026-11-15T04:19:26Z'
   license:
     kind: open-source
     spdx: Apache-2.0
@@ -751,7 +751,7 @@ visr:
   warnings: []
 voxelnative:
   archived: false
-  commits_since_scan: 0
+  commits_since_scan: 4
   consecutive_failures: 0
   curator_own: false
   decay_reset_at: '2026-11-14T02:35:02Z'
@@ -761,8 +761,8 @@ voxelnative:
   flagged_files: []
   github_verified: false
   health: ok
-  last_checked: '2026-11-14T06:26:49Z'
-  last_commit_date: '2026-11-13T23:07:52Z'
+  last_checked: '2026-11-15T06:27:37Z'
+  last_commit_date: '2026-11-14T06:32:12Z'
   license:
     kind: custom
     spdx: null
@@ -775,7 +775,7 @@ voxelnative:
   scan_declines: 0
   scan_kind: automated
   scan_refused: false
-  scan_state: current
+  scan_state: behind
   scanned_at: '2026-11-14T02:35:01Z'
   scanned_commit: f8aca2d1efe4f8ab20dcb13ea786e755dc90bf17
   warnings: []
@@ -791,7 +791,7 @@ wiicompiled-vr:
   flagged_files: []
   github_verified: false
   health: ok
-  last_checked: null
+  last_checked: '2026-11-15T06:27:37Z'
   last_commit_date: '2026-11-13T23:21:44Z'
   license:
     kind: open-source
@@ -821,7 +821,7 @@ wind-waker-vr:
   flagged_files: []
   github_verified: true
   health: ok
-  last_checked: '2026-11-14T06:26:49Z'
+  last_checked: '2026-11-15T06:27:37Z'
   last_commit_date: '2026-10-29T22:08:53Z'
   license:
     kind: open-source

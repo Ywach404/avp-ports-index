@@ -17,12 +17,12 @@ Then follow the [install guide](https://github.com/edgytoast/voxelnative/blob/f8
 | Status | Working: Joining a server and playing works in the headset, with VoxeLibre as the daily driver. The README calls it a work in progress, rough in places. |
 | Plays as | 6DoF immersive |
 | Health | OK |
-| Scan | Scanned 2026-11-14 · 0 commits since |
+| Scan | Scanned 2026-11-14 · 4 commits since |
 | Source (scanned) | [edgytoast/voxelnative at f8aca2d1efe4](https://github.com/edgytoast/voxelnative/tree/f8aca2d1efe4f8ab20dcb13ea786e755dc90bf17) |
 | Install guide | [AVP-INSTALL.md at f8aca2d1efe4](https://github.com/edgytoast/voxelnative/blob/f8aca2d1efe4f8ab20dcb13ea786e755dc90bf17/AVP-INSTALL.md) |
 | Repo | [edgytoast/voxelnative](https://github.com/edgytoast/voxelnative) |
 | License | Custom license |
-| Last commit | 2026-11-13 |
+| Last commit | 2026-11-14 |
 | visionOS | 26.0 or later |
 | Input | game controller |
 | Tags | luanti, minetest, voxelibre, voxel, sandbox, vr, 6dof |
