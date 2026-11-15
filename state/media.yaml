@@ -541,6 +541,14 @@ pokemon-gen1recomp:
   - reason: not this repo's file or a GitHub attachment
     src: https://raw.githubusercontent.com/bryanthaboi/gen1recomp/refs/heads/dev/assets/logo/bcg.png
   source: readme
+portal-2-vr:
+  choice: null
+  collected_at: '2026-11-15T17:29:52Z'
+  commit: b5f1fc29b707daacf88a86bb50f228626586e893
+  icon: null
+  screenshots: []
+  skipped: []
+  source: readme
 revc-visionos:
   choice: ab060d8c909256ae
   collected_at: '2026-11-02T22:41:32Z'
