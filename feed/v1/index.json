@@ -2,7 +2,7 @@
   "$schema": "https://raw.githubusercontent.com/edgytoast/avp-ports-index/main/schema/feed-v1.schema.json",
   "schema_version": "1.5.0",
   "identifier": "com.trevorbilt.avp-ports-index",
-  "generated_at": "2026-11-16T00:45:52Z",
+  "generated_at": "2026-11-16T02:41:25Z",
   "publisher": {
     "name": "trevorbilt",
     "curator": "Trevor \"Toast\"",
@@ -275,6 +275,116 @@
               "layer": "front",
               "sha256": "c94912d2d5fa53dbd1303b16c26f9b4d0e47eba4506c2c9b46e58f1679c561a9",
               "url": "https://raw.githubusercontent.com/LowRiderXR/revc-visionos-app/c0ddb43a395beb14ffd195cfe9f98bb8aa5c874c/AvpViceCity/Assets.xcassets/AppIcon.solidimagestack/Front.solidimagestacklayer/Content.imageset/Front.png",
+              "width": 1024
+            }
+          ]
+        },
+        "screenshots": []
+      }
+    },
+    {
+      "id": "jkxr",
+      "name": "JKXR for Apple Vision Pro",
+      "game": {
+        "title": "Jedi Outcast and Jedi Academy",
+        "original_platform": "pc",
+        "original_release_year": 2002
+      },
+      "repo_url": "https://github.com/myMartek/JKXR",
+      "source_ref": null,
+      "source_url": "https://github.com/myMartek/JKXR/tree/a94c94603d06295956d3b5c100e4d8a836a5b0c8",
+      "install_doc_url": "https://github.com/myMartek/JKXR/blob/a94c94603d06295956d3b5c100e4d8a836a5b0c8/AVP-INSTALL.md",
+      "developer": {
+        "name": null,
+        "github": "myMartek",
+        "url": null,
+        "github_verified": true
+      },
+      "credits": [
+        {
+          "name": "JKXR by Team Beef",
+          "role": "VR port the visionOS version is based on",
+          "url": "https://github.com/Team-Beef-Studios/JKXR"
+        },
+        {
+          "name": "OpenJK",
+          "role": "Open-source engine",
+          "url": "https://github.com/JACoders/OpenJK"
+        },
+        {
+          "name": "gl4es",
+          "role": "OpenGL translation layer",
+          "url": "https://github.com/ptitSeb/gl4es"
+        },
+        {
+          "name": "ANGLE",
+          "role": "OpenGL ES on Metal",
+          "url": "https://chromium.googlesource.com/angle/angle"
+        }
+      ],
+      "upstream": [
+        "https://github.com/Team-Beef-Studios/JKXR",
+        "https://github.com/JACoders/OpenJK"
+      ],
+      "self_reported_status": "working",
+      "status_notes": "Both games play fully immersive with PS VR2 Sense controllers or a gamepad. Loading a level shows a black view for a while.",
+      "owner_verified": {
+        "verified": false,
+        "verified_on": null,
+        "verified_commit": null
+      },
+      "trust_tier": "working",
+      "curator_own": false,
+      "health": {
+        "status": "ok",
+        "failing_since": null
+      },
+      "scanned_commit": "a94c94603d06295956d3b5c100e4d8a836a5b0c8",
+      "scanned_at": "2026-11-16T02:41:20Z",
+      "scan_kind": "curator-reviewed",
+      "commits_since_scan": 0,
+      "scan_state": "current",
+      "archived": false,
+      "last_commit_date": "2026-11-16T01:55:32Z",
+      "license": {
+        "kind": "open-source",
+        "spdx": "GPL-2.0"
+      },
+      "visionos_min": "26.4",
+      "input": [
+        "game-controller"
+      ],
+      "experiences": [
+        "6dof-immersive"
+      ],
+      "install": [
+        "build"
+      ],
+      "tags": [],
+      "description": "Team Beef's open-source VR engine for two first-person action classics of the early 2000s, native on visionOS: fully immersive, foveated, with tracked Sense controllers and room-scale play. Bring your own game files; AVP Play can fetch them from Steam.",
+      "page_url": "https://github.com/edgytoast/avp-ports-index/blob/main/ports/jkxr.md",
+      "media": {
+        "commit": "a94c94603d06295956d3b5c100e4d8a836a5b0c8",
+        "source": "readme",
+        "icon": {
+          "kind": "layered",
+          "layers": [
+            {
+              "bytes": 844615,
+              "format": "png",
+              "height": 1024,
+              "layer": "back",
+              "sha256": "954ee4104194961a11353812b1d315579e11cd32d772a325e073f991a1ab0825",
+              "url": "https://raw.githubusercontent.com/myMartek/JKXR/a94c94603d06295956d3b5c100e4d8a836a5b0c8/visionos/App/Sources/Resources/Assets.xcassets/AppIcon.solidimagestack/Back.solidimagestacklayer/Content.imageset/back.png",
+              "width": 1024
+            },
+            {
+              "bytes": 1017256,
+              "format": "png",
+              "height": 1024,
+              "layer": "front",
+              "sha256": "1ce7f832e5d6ca9d527610a66165c0ec3002bb897acc4139f1ad976bba4237b7",
+              "url": "https://raw.githubusercontent.com/myMartek/JKXR/a94c94603d06295956d3b5c100e4d8a836a5b0c8/visionos/App/Sources/Resources/Assets.xcassets/AppIcon.solidimagestack/Front.solidimagestacklayer/Content.imageset/front.png",
               "width": 1024
             }
           ]

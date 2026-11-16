@@ -366,6 +366,30 @@ half-life-vr:
     width: 1920
   skipped: []
   source: readme
+jkxr:
+  choice: null
+  collected_at: '2026-11-16T02:41:24Z'
+  commit: a94c94603d06295956d3b5c100e4d8a836a5b0c8
+  icon:
+    kind: layered
+    layers:
+    - bytes: 844615
+      format: png
+      height: 1024
+      layer: back
+      sha256: 954ee4104194961a11353812b1d315579e11cd32d772a325e073f991a1ab0825
+      url: https://raw.githubusercontent.com/myMartek/JKXR/a94c94603d06295956d3b5c100e4d8a836a5b0c8/visionos/App/Sources/Resources/Assets.xcassets/AppIcon.solidimagestack/Back.solidimagestacklayer/Content.imageset/back.png
+      width: 1024
+    - bytes: 1017256
+      format: png
+      height: 1024
+      layer: front
+      sha256: 1ce7f832e5d6ca9d527610a66165c0ec3002bb897acc4139f1ad976bba4237b7
+      url: https://raw.githubusercontent.com/myMartek/JKXR/a94c94603d06295956d3b5c100e4d8a836a5b0c8/visionos/App/Sources/Resources/Assets.xcassets/AppIcon.solidimagestack/Front.solidimagestacklayer/Content.imageset/front.png
+      width: 1024
+  screenshots: []
+  skipped: []
+  source: readme
 lighthouse:
   choice: null
   collected_at: '2026-11-14T00:36:44Z'

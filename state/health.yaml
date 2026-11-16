@@ -328,6 +328,36 @@ half-life-vr:
   scanned_at: '2026-11-13T19:52:40Z'
   scanned_commit: d7555089b164ac6004cc02111ef2b122321dc11f
   warnings: []
+jkxr:
+  archived: false
+  commits_since_scan: 0
+  consecutive_failures: 0
+  curator_own: false
+  decay_reset_at: '2026-11-16T02:41:21Z'
+  failing_since: null
+  failures: []
+  flagged_commit: null
+  flagged_files: []
+  github_verified: true
+  health: ok
+  last_checked: null
+  last_commit_date: '2026-11-16T01:55:32Z'
+  license:
+    kind: open-source
+    spdx: GPL-2.0
+  outreach_issue_url: null
+  outreach_opened_at: null
+  rescan_after: null
+  rescan_hold: false
+  routes: []
+  scan_confidence: null
+  scan_declines: 0
+  scan_kind: curator-reviewed
+  scan_refused: false
+  scan_state: current
+  scanned_at: '2026-11-16T02:41:20Z'
+  scanned_commit: a94c94603d06295956d3b5c100e4d8a836a5b0c8
+  warnings: []
 lighthouse:
   archived: false
   commits_since_scan: 0
