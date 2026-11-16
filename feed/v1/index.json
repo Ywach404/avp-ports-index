@@ -2,7 +2,7 @@
   "$schema": "https://raw.githubusercontent.com/edgytoast/avp-ports-index/main/schema/feed-v1.schema.json",
   "schema_version": "1.6.0",
   "identifier": "com.trevorbilt.avp-ports-index",
-  "generated_at": "2026-11-16T23:38:13Z",
+  "generated_at": "2026-11-16T23:58:24Z",
   "publisher": {
     "name": "trevorbilt",
     "curator": "Trevor \"Toast\"",
@@ -163,8 +163,8 @@
       },
       "repo_url": "https://github.com/LowRiderXR/revc-visionos-app",
       "source_ref": null,
-      "source_url": "https://github.com/LowRiderXR/revc-visionos-app/tree/e1810d7c63c0275ce72269803bf850b9ed5c93dc",
-      "install_doc_url": "https://github.com/LowRiderXR/revc-visionos-app/blob/e1810d7c63c0275ce72269803bf850b9ed5c93dc/AVP-INSTALL.md",
+      "source_url": "https://github.com/LowRiderXR/revc-visionos-app/tree/762925082b7f2eb90f4e6ff02e2e15500c4efc84",
+      "install_doc_url": "https://github.com/LowRiderXR/revc-visionos-app/blob/762925082b7f2eb90f4e6ff02e2e15500c4efc84/AVP-INSTALL.md",
       "install_guide": "AVP-INSTALL.md",
       "developer": {
         "name": null,
@@ -217,11 +217,11 @@
         "status": "ok",
         "failing_since": null
       },
-      "scanned_commit": "e1810d7c63c0275ce72269803bf850b9ed5c93dc",
-      "scanned_at": "2026-11-16T07:14:47Z",
+      "scanned_commit": "762925082b7f2eb90f4e6ff02e2e15500c4efc84",
+      "scanned_at": "2026-11-16T23:58:23Z",
       "scan_kind": "automated",
-      "commits_since_scan": 1,
-      "scan_state": "behind",
+      "commits_since_scan": 0,
+      "scan_state": "current",
       "archived": false,
       "last_commit_date": "2026-11-16T18:05:05Z",
       "license": {

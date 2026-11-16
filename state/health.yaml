@@ -596,7 +596,7 @@ portal-2-vr:
   warnings: []
 revc-visionos:
   archived: false
-  commits_since_scan: 1
+  commits_since_scan: 0
   consecutive_failures: 0
   curator_own: false
   decay_reset_at: '2026-11-02T22:41:26Z'
@@ -617,13 +617,13 @@ revc-visionos:
   rescan_hold: false
   routes:
   - S1-11d
-  scan_confidence: 96
+  scan_confidence: 95
   scan_declines: 0
   scan_kind: automated
   scan_refused: false
-  scan_state: behind
-  scanned_at: '2026-11-16T07:14:47Z'
-  scanned_commit: e1810d7c63c0275ce72269803bf850b9ed5c93dc
+  scan_state: current
+  scanned_at: '2026-11-16T23:58:23Z'
+  scanned_commit: 762925082b7f2eb90f4e6ff02e2e15500c4efc84
   testflight: null
   warnings: []
 rtcw-avp:
