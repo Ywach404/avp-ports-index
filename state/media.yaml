@@ -238,8 +238,8 @@ ctrpad:
   source: readme
 dark-eco:
   choice: null
-  collected_at: '2026-11-02T22:41:31Z'
-  commit: 6e28cce750406037c4a325ce7fc18c377b575e97
+  collected_at: '2026-11-16T20:27:24Z'
+  commit: f4be973817c26257ff638a1ebd43ede23f96f8a7
   icon:
     kind: layered
     layers:
@@ -248,14 +248,14 @@ dark-eco:
       height: 1024
       layer: back
       sha256: cc602a0aefc0506d3010c4b3dd73592caa1f2da96f9e440c9294fc568d6da192
-      url: https://raw.githubusercontent.com/zschwendi/dark-eco/6e28cce750406037c4a325ce7fc18c377b575e97/GOALPad/Assets.xcassets/AppIcon.solidimagestack/Back.solidimagestacklayer/Content.imageset/AppIcon-build134-visionOS-1024.png
+      url: https://raw.githubusercontent.com/zschwendi/dark-eco/f4be973817c26257ff638a1ebd43ede23f96f8a7/GOALPad/Assets.xcassets/AppIcon.solidimagestack/Back.solidimagestacklayer/Content.imageset/AppIcon-build134-visionOS-1024.png
       width: 1024
     - bytes: 448
       format: png
       height: 1024
       layer: front
       sha256: 1f737c51df0aa9ef372f6b4343f91b797b6ddae5058b858f4f30f34e73b81224
-      url: https://raw.githubusercontent.com/zschwendi/dark-eco/6e28cce750406037c4a325ce7fc18c377b575e97/GOALPad/Assets.xcassets/AppIcon.solidimagestack/Front.solidimagestacklayer/Content.imageset/AppIcon-build134-visionOS-front-transparent-1024.png
+      url: https://raw.githubusercontent.com/zschwendi/dark-eco/f4be973817c26257ff638a1ebd43ede23f96f8a7/GOALPad/Assets.xcassets/AppIcon.solidimagestack/Front.solidimagestacklayer/Content.imageset/AppIcon-build134-visionOS-front-transparent-1024.png
       width: 1024
   screenshots:
   - alt: Jak 1 immersive gameplay recorded by Zach on Apple Vision Pro
@@ -263,7 +263,7 @@ dark-eco:
     format: gif
     height: 360
     sha256: 95ed31e3215c1af7f28359dc2d893799fa9294a1ba3942747bedba98d1d8e68e
-    url: https://raw.githubusercontent.com/zschwendi/dark-eco/6e28cce750406037c4a325ce7fc18c377b575e97/docs/media/dark-eco-vision-pro.gif
+    url: https://raw.githubusercontent.com/zschwendi/dark-eco/f4be973817c26257ff638a1ebd43ede23f96f8a7/docs/media/dark-eco-vision-pro.gif
     width: 640
   skipped: []
   source: readme
@@ -575,8 +575,8 @@ portal-2-vr:
   source: readme
 revc-visionos:
   choice: ab060d8c909256ae
-  collected_at: '2026-11-02T22:41:32Z'
-  commit: c0ddb43a395beb14ffd195cfe9f98bb8aa5c874c
+  collected_at: '2026-11-16T20:27:24Z'
+  commit: e1810d7c63c0275ce72269803bf850b9ed5c93dc
   icon:
     kind: layered
     layers:
@@ -585,21 +585,21 @@ revc-visionos:
       height: 1024
       layer: back
       sha256: 287f3eb1d47b5cf90db0c473ecd3cca1ea01123ababb7e814f457b48bbd73619
-      url: https://raw.githubusercontent.com/LowRiderXR/revc-visionos-app/c0ddb43a395beb14ffd195cfe9f98bb8aa5c874c/AvpViceCity/Assets.xcassets/AppIcon.solidimagestack/Back.solidimagestacklayer/Content.imageset/Back.png
+      url: https://raw.githubusercontent.com/LowRiderXR/revc-visionos-app/e1810d7c63c0275ce72269803bf850b9ed5c93dc/AvpViceCity/Assets.xcassets/AppIcon.solidimagestack/Back.solidimagestacklayer/Content.imageset/Back.png
       width: 1024
     - bytes: 146493
       format: png
       height: 1024
       layer: middle
       sha256: 648bcacc2460fee90debe2aab47e23f83853a44e775af9ce450e6f719886b247
-      url: https://raw.githubusercontent.com/LowRiderXR/revc-visionos-app/c0ddb43a395beb14ffd195cfe9f98bb8aa5c874c/AvpViceCity/Assets.xcassets/AppIcon.solidimagestack/Middle.solidimagestacklayer/Content.imageset/Middle.png
+      url: https://raw.githubusercontent.com/LowRiderXR/revc-visionos-app/e1810d7c63c0275ce72269803bf850b9ed5c93dc/AvpViceCity/Assets.xcassets/AppIcon.solidimagestack/Middle.solidimagestacklayer/Content.imageset/Middle.png
       width: 1024
     - bytes: 75860
       format: png
       height: 1024
       layer: front
       sha256: c94912d2d5fa53dbd1303b16c26f9b4d0e47eba4506c2c9b46e58f1679c561a9
-      url: https://raw.githubusercontent.com/LowRiderXR/revc-visionos-app/c0ddb43a395beb14ffd195cfe9f98bb8aa5c874c/AvpViceCity/Assets.xcassets/AppIcon.solidimagestack/Front.solidimagestacklayer/Content.imageset/Front.png
+      url: https://raw.githubusercontent.com/LowRiderXR/revc-visionos-app/e1810d7c63c0275ce72269803bf850b9ed5c93dc/AvpViceCity/Assets.xcassets/AppIcon.solidimagestack/Front.solidimagestacklayer/Content.imageset/Front.png
       width: 1024
   screenshots: []
   skipped: []
