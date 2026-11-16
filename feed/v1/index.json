@@ -2,7 +2,7 @@
   "$schema": "https://raw.githubusercontent.com/edgytoast/avp-ports-index/main/schema/feed-v1.schema.json",
   "schema_version": "1.6.0",
   "identifier": "com.trevorbilt.avp-ports-index",
-  "generated_at": "2026-11-16T21:12:22Z",
+  "generated_at": "2026-11-16T21:17:38Z",
   "publisher": {
     "name": "trevorbilt",
     "curator": "Trevor \"Toast\"",
@@ -277,6 +277,134 @@
               "layer": "front",
               "sha256": "c94912d2d5fa53dbd1303b16c26f9b4d0e47eba4506c2c9b46e58f1679c561a9",
               "url": "https://raw.githubusercontent.com/LowRiderXR/revc-visionos-app/e1810d7c63c0275ce72269803bf850b9ed5c93dc/AvpViceCity/Assets.xcassets/AppIcon.solidimagestack/Front.solidimagestacklayer/Content.imageset/Front.png",
+              "width": 1024
+            }
+          ]
+        },
+        "screenshots": []
+      }
+    },
+    {
+      "id": "mountain-64",
+      "name": "Mountain 64",
+      "game": {
+        "title": "Celeste 64: Fragments of the Mountain",
+        "original_platform": "pc",
+        "original_release_year": 2024
+      },
+      "repo_url": "https://github.com/LowRiderXR/mountain64-visionos-app",
+      "source_ref": null,
+      "source_url": "https://github.com/LowRiderXR/mountain64-visionos-app/tree/2955eba09694581c2c45fce1febac103d18be8c8",
+      "install_doc_url": "https://github.com/LowRiderXR/mountain64-visionos-app/blob/2955eba09694581c2c45fce1febac103d18be8c8/AVP-INSTALL.md",
+      "install_guide": "AVP-INSTALL.md",
+      "developer": {
+        "name": null,
+        "github": "LowRiderXR",
+        "url": null,
+        "github_verified": true
+      },
+      "credits": [
+        {
+          "name": "Maddy Makes Games and EXOK",
+          "role": "Celeste 64, the original game and its source",
+          "url": "https://github.com/EXOK/Celeste64"
+        },
+        {
+          "name": "Noel Berry",
+          "role": "Foster framework",
+          "url": "https://github.com/FosterFramework/Foster"
+        },
+        {
+          "name": "SDL",
+          "role": "Input, windowing and GPU",
+          "url": "https://github.com/libsdl-org/SDL"
+        },
+        {
+          "name": "FMOD Studio by Firelight Technologies",
+          "role": "Audio",
+          "url": null
+        }
+      ],
+      "upstream": [
+        "https://github.com/EXOK/Celeste64",
+        "https://github.com/LowRiderXR/foster-visionos",
+        "https://github.com/LowRiderXR/sdl-visionos"
+      ],
+      "self_reported_status": "working",
+      "status_notes": "Unofficial, free fan port, not made or endorsed by the Celeste team. The developer also offers it on TestFlight. Building from source needs your own FMOD Engine download from fmod.com. Not tested by the curator.",
+      "owner_verified": {
+        "verified": false,
+        "verified_on": null,
+        "verified_commit": null
+      },
+      "trust_tier": "working",
+      "curator_own": false,
+      "health": {
+        "status": "ok",
+        "failing_since": null
+      },
+      "scanned_commit": "2955eba09694581c2c45fce1febac103d18be8c8",
+      "scanned_at": "2026-11-16T21:17:34Z",
+      "scan_kind": "automated",
+      "commits_since_scan": 0,
+      "scan_state": "current",
+      "archived": false,
+      "last_commit_date": "2026-11-16T20:59:40Z",
+      "license": {
+        "kind": "custom",
+        "spdx": null
+      },
+      "visionos_min": "27.0",
+      "input": [
+        "game-controller"
+      ],
+      "experiences": [
+        "6dof-immersive"
+      ],
+      "install": [
+        "build"
+      ],
+      "tags": [
+        "celeste",
+        "celeste-64",
+        "platformer",
+        "3d",
+        "vr",
+        "source-port"
+      ],
+      "description": "Native Vision Pro port of Celeste 64, the free 3D Celeste platformer released with its source: the mountain in stereo in a full immersive space, with head tracking and game-controller input. The game content comes from the official source release.",
+      "page_url": "https://github.com/edgytoast/avp-ports-index/blob/main/ports/mountain-64.md",
+      "media": {
+        "commit": "2955eba09694581c2c45fce1febac103d18be8c8",
+        "source": "readme",
+        "icon": {
+          "kind": "layered",
+          "layers": [
+            {
+              "bytes": 7969,
+              "format": "png",
+              "height": 1024,
+              "layer": "back",
+              "sha256": "7ae8ac96fd1e5fb76d3fdd0dd476d1b31cecffd45c0344d1bf1fcf79775b4fbf",
+              "url": "https://raw.githubusercontent.com/LowRiderXR/mountain64-visionos-app/2955eba09694581c2c45fce1febac103d18be8c8/AvpCeleste64/Assets.xcassets/AppIcon.solidimagestack/Back.solidimagestacklayer/Content.imageset/Back.png",
+              "width": 1024
+            },
+            {
+              "bytes": 9395,
+              "format": "png",
+              "height": 1024,
+              "layer": "middle",
+              "sha256": "0442f54d5a33c20ab9bee81717225de180bdc8cfcb9500eb3cb293de764c5942",
+              "url": "https://raw.githubusercontent.com/LowRiderXR/mountain64-visionos-app/2955eba09694581c2c45fce1febac103d18be8c8/AvpCeleste64/Assets.xcassets/AppIcon.solidimagestack/Middle.solidimagestacklayer/Content.imageset/Middle.png",
+              "width": 1024
+            },
+            {
+              "bytes": 8155,
+              "format": "png",
+              "height": 1024,
+              "layer": "front",
+              "sha256": "e76827417fa2212495c812205638f8a0a842b3281f540b7a5446c8cd6468e144",
+              "url": "https://raw.githubusercontent.com/LowRiderXR/mountain64-visionos-app/2955eba09694581c2c45fce1febac103d18be8c8/AvpCeleste64/Assets.xcassets/AppIcon.solidimagestack/Front.solidimagestacklayer/Content.imageset/Front.png",
               "width": 1024
             }
           ]

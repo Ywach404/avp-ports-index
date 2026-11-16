@@ -449,6 +449,36 @@ macnativegames-totk:
   scanned_at: '2026-11-16T21:12:19Z'
   scanned_commit: 31aa41b4101a413f69113985120ba095e1c9586f
   warnings: []
+mountain-64:
+  archived: false
+  commits_since_scan: 0
+  consecutive_failures: 0
+  curator_own: false
+  decay_reset_at: '2026-11-16T21:17:34Z'
+  failing_since: null
+  failures: []
+  flagged_commit: null
+  flagged_files: []
+  github_verified: true
+  health: ok
+  last_checked: null
+  last_commit_date: '2026-11-16T20:59:40Z'
+  license:
+    kind: custom
+    spdx: null
+  outreach_issue_url: null
+  outreach_opened_at: null
+  rescan_after: null
+  rescan_hold: false
+  routes: []
+  scan_confidence: 95
+  scan_declines: 0
+  scan_kind: automated
+  scan_refused: false
+  scan_state: current
+  scanned_at: '2026-11-16T21:17:34Z'
+  scanned_commit: 2955eba09694581c2c45fce1febac103d18be8c8
+  warnings: []
 perfect-dark:
   archived: false
   commits_since_scan: 0

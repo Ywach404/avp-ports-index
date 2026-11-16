@@ -466,6 +466,37 @@ macnativegames-totk:
   - reason: not this repo's file or a GitHub attachment
     src: https://api.star-history.com/chart?repos=ly05010419/MacNativeGames&type=date&legend=bottom-right
   source: readme
+mountain-64:
+  choice: e3b26766f743ea45
+  collected_at: '2026-11-16T21:17:38Z'
+  commit: 2955eba09694581c2c45fce1febac103d18be8c8
+  icon:
+    kind: layered
+    layers:
+    - bytes: 7969
+      format: png
+      height: 1024
+      layer: back
+      sha256: 7ae8ac96fd1e5fb76d3fdd0dd476d1b31cecffd45c0344d1bf1fcf79775b4fbf
+      url: https://raw.githubusercontent.com/LowRiderXR/mountain64-visionos-app/2955eba09694581c2c45fce1febac103d18be8c8/AvpCeleste64/Assets.xcassets/AppIcon.solidimagestack/Back.solidimagestacklayer/Content.imageset/Back.png
+      width: 1024
+    - bytes: 9395
+      format: png
+      height: 1024
+      layer: middle
+      sha256: 0442f54d5a33c20ab9bee81717225de180bdc8cfcb9500eb3cb293de764c5942
+      url: https://raw.githubusercontent.com/LowRiderXR/mountain64-visionos-app/2955eba09694581c2c45fce1febac103d18be8c8/AvpCeleste64/Assets.xcassets/AppIcon.solidimagestack/Middle.solidimagestacklayer/Content.imageset/Middle.png
+      width: 1024
+    - bytes: 8155
+      format: png
+      height: 1024
+      layer: front
+      sha256: e76827417fa2212495c812205638f8a0a842b3281f540b7a5446c8cd6468e144
+      url: https://raw.githubusercontent.com/LowRiderXR/mountain64-visionos-app/2955eba09694581c2c45fce1febac103d18be8c8/AvpCeleste64/Assets.xcassets/AppIcon.solidimagestack/Front.solidimagestacklayer/Content.imageset/Front.png
+      width: 1024
+  screenshots: []
+  skipped: []
+  source: readme
 perfect-dark:
   choice: null
   collected_at: '2026-11-14T18:28:53Z'
