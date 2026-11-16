@@ -2,7 +2,7 @@
   "$schema": "https://raw.githubusercontent.com/edgytoast/avp-ports-index/main/schema/feed-v1.schema.json",
   "schema_version": "1.5.0",
   "identifier": "com.trevorbilt.avp-ports-index",
-  "generated_at": "2026-11-16T02:41:25Z",
+  "generated_at": "2026-11-16T06:47:20Z",
   "publisher": {
     "name": "trevorbilt",
     "curator": "Trevor \"Toast\"",
@@ -74,10 +74,10 @@
       "scanned_commit": "9687cf8b540f36e8e81938148e86264ee44bc924",
       "scanned_at": "2026-11-13T21:10:44Z",
       "scan_kind": "automated",
-      "commits_since_scan": 157,
+      "commits_since_scan": 170,
       "scan_state": "behind",
       "archived": false,
-      "last_commit_date": "2026-11-15T04:19:26Z",
+      "last_commit_date": "2026-11-16T03:02:03Z",
       "license": {
         "kind": "open-source",
         "spdx": "Apache-2.0"
@@ -218,10 +218,10 @@
       "scanned_commit": "c0ddb43a395beb14ffd195cfe9f98bb8aa5c874c",
       "scanned_at": "2026-11-02T22:41:25Z",
       "scan_kind": "automated",
-      "commits_since_scan": 0,
-      "scan_state": "current",
+      "commits_since_scan": 1,
+      "scan_state": "behind",
       "archived": false,
-      "last_commit_date": "2026-10-31T14:17:15Z",
+      "last_commit_date": "2026-11-15T20:45:53Z",
       "license": {
         "kind": "custom",
         "spdx": null
@@ -457,10 +457,10 @@
       "scanned_commit": "c036b4e4b3580c5ee5442540f0d14b912153c584",
       "scanned_at": "2026-11-15T16:31:17Z",
       "scan_kind": "automated",
-      "commits_since_scan": 14,
+      "commits_since_scan": 41,
       "scan_state": "behind",
       "archived": false,
-      "last_commit_date": "2026-11-15T16:27:16Z",
+      "last_commit_date": "2026-11-15T16:59:25Z",
       "license": {
         "kind": "open-source",
         "spdx": "MIT"
@@ -518,6 +518,143 @@
               "layer": "front",
               "sha256": "480c8be77d0972a459e58365546b3c64b22027d594cdc7515833175627d76b65",
               "url": "https://raw.githubusercontent.com/gseddon/Skyrim-VR-Vision-Pro/c036b4e4b3580c5ee5442540f0d14b912153c584/VXRuntime/xros/app/Icon/Assets.xcassets/AppIcon.solidimagestack/Front.solidimagestacklayer/Content.imageset/Front.png",
+              "width": 1024
+            }
+          ]
+        },
+        "screenshots": []
+      }
+    },
+    {
+      "id": "voxelnative",
+      "name": "VoxelNative",
+      "game": {
+        "title": "Luanti",
+        "original_platform": "pc",
+        "original_release_year": 2010
+      },
+      "repo_url": "https://github.com/edgytoast/voxelnative",
+      "source_ref": null,
+      "source_url": "https://github.com/edgytoast/voxelnative/tree/4e83af388f9461075d41ab2d7e49be47f2e33303",
+      "install_doc_url": "https://github.com/edgytoast/voxelnative/blob/4e83af388f9461075d41ab2d7e49be47f2e33303/AVP-INSTALL.md",
+      "developer": {
+        "name": null,
+        "github": "bettse",
+        "url": null,
+        "github_verified": false
+      },
+      "credits": [
+        {
+          "name": "bettse",
+          "role": "VoxelNative, the Apple Vision Pro client",
+          "url": "https://github.com/bettse/voxelnative"
+        },
+        {
+          "name": "Trevorbilt",
+          "role": "Install guide and AVP Ports Index listing",
+          "url": "https://trevorbilt.com"
+        },
+        {
+          "name": "Luanti",
+          "role": "The engine whose network protocol this client reimplements",
+          "url": "https://github.com/luanti-org/luanti"
+        },
+        {
+          "name": "VoxeLibre",
+          "role": "The game it's built and tested against",
+          "url": "https://github.com/VoxeLibre/VoxeLibre"
+        },
+        {
+          "name": "BigInt",
+          "role": "Third-party code (MIT)",
+          "url": "https://github.com/attaswift/BigInt"
+        },
+        {
+          "name": "Luanti contributors",
+          "role": "Original game",
+          "url": null
+        }
+      ],
+      "upstream": [
+        "https://github.com/bettse/voxelnative",
+        "https://github.com/luanti-org/luanti"
+      ],
+      "self_reported_status": "working",
+      "status_notes": "Joining a server and playing works in the headset, with VoxeLibre as the daily driver. The README calls it a work in progress, rough in places.",
+      "owner_verified": {
+        "verified": false,
+        "verified_on": null,
+        "verified_commit": null
+      },
+      "trust_tier": "working",
+      "curator_own": false,
+      "health": {
+        "status": "ok",
+        "failing_since": null
+      },
+      "scanned_commit": "4e83af388f9461075d41ab2d7e49be47f2e33303",
+      "scanned_at": "2026-11-15T06:39:19Z",
+      "scan_kind": "automated",
+      "commits_since_scan": 0,
+      "scan_state": "current",
+      "archived": false,
+      "last_commit_date": "2026-11-15T06:32:10Z",
+      "license": {
+        "kind": "custom",
+        "spdx": null
+      },
+      "visionos_min": "26.0",
+      "input": [
+        "game-controller"
+      ],
+      "experiences": [
+        "6dof-immersive"
+      ],
+      "install": [
+        "build"
+      ],
+      "tags": [
+        "luanti",
+        "minetest",
+        "voxelibre",
+        "voxel",
+        "sandbox",
+        "vr",
+        "6dof"
+      ],
+      "description": "A native Swift and Metal Luanti (Minetest) client for Apple Vision Pro. It speaks the Luanti protocol to any server and renders the world per eye in full immersion; walk, dig, place and craft with PS VR2 Sense controllers or a Bluetooth keyboard. Listed from a copy with an install guide.",
+      "page_url": "https://github.com/edgytoast/avp-ports-index/blob/main/ports/voxelnative.md",
+      "media": {
+        "commit": "4e83af388f9461075d41ab2d7e49be47f2e33303",
+        "source": "readme",
+        "icon": {
+          "kind": "layered",
+          "layers": [
+            {
+              "bytes": 76708,
+              "format": "png",
+              "height": 1024,
+              "layer": "back",
+              "sha256": "943263a819496a9eb0887d4524d5b91f7577c563a19cabf952108f07f28289a7",
+              "url": "https://raw.githubusercontent.com/edgytoast/voxelnative/4e83af388f9461075d41ab2d7e49be47f2e33303/native/Sources/Assets.xcassets/AppIcon.solidimagestack/Back.solidimagestacklayer/Content.imageset/icon_back.png",
+              "width": 1024
+            },
+            {
+              "bytes": 6556,
+              "format": "png",
+              "height": 1024,
+              "layer": "middle",
+              "sha256": "86a4380e78c0d24d66bf590bfd51a3d81e4824aa566028419db4b96745cf1f8d",
+              "url": "https://raw.githubusercontent.com/edgytoast/voxelnative/4e83af388f9461075d41ab2d7e49be47f2e33303/native/Sources/Assets.xcassets/AppIcon.solidimagestack/Middle.solidimagestacklayer/Content.imageset/icon_middle.png",
+              "width": 1024
+            },
+            {
+              "bytes": 39994,
+              "format": "png",
+              "height": 1024,
+              "layer": "front",
+              "sha256": "a2356b0fb96058dac64c723e4476fc34aac3803a73e991b4e3d922f9dde868f0",
+              "url": "https://raw.githubusercontent.com/edgytoast/voxelnative/4e83af388f9461075d41ab2d7e49be47f2e33303/native/Sources/Assets.xcassets/AppIcon.solidimagestack/Front.solidimagestacklayer/Content.imageset/icon_front.png",
               "width": 1024
             }
           ]
@@ -622,143 +759,6 @@
       "description": "Portal 2 in VR on Apple Vision Pro, from the Nintendo Switch version: stereo 3D, head tracking, and your hand aims the portal gun while Joy-Cons walk. Built on nxnative from your own Switch dump. Listed from a copy with an install guide.",
       "page_url": "https://github.com/edgytoast/avp-ports-index/blob/main/ports/portal-2-vr.md",
       "media": null
-    },
-    {
-      "id": "voxelnative",
-      "name": "VoxelNative",
-      "game": {
-        "title": "Luanti",
-        "original_platform": "pc",
-        "original_release_year": 2010
-      },
-      "repo_url": "https://github.com/edgytoast/voxelnative",
-      "source_ref": null,
-      "source_url": "https://github.com/edgytoast/voxelnative/tree/4e83af388f9461075d41ab2d7e49be47f2e33303",
-      "install_doc_url": "https://github.com/edgytoast/voxelnative/blob/4e83af388f9461075d41ab2d7e49be47f2e33303/AVP-INSTALL.md",
-      "developer": {
-        "name": null,
-        "github": "bettse",
-        "url": null,
-        "github_verified": false
-      },
-      "credits": [
-        {
-          "name": "bettse",
-          "role": "VoxelNative, the Apple Vision Pro client",
-          "url": "https://github.com/bettse/voxelnative"
-        },
-        {
-          "name": "Trevorbilt",
-          "role": "Install guide and AVP Ports Index listing",
-          "url": "https://trevorbilt.com"
-        },
-        {
-          "name": "Luanti",
-          "role": "The engine whose network protocol this client reimplements",
-          "url": "https://github.com/luanti-org/luanti"
-        },
-        {
-          "name": "VoxeLibre",
-          "role": "The game it's built and tested against",
-          "url": "https://github.com/VoxeLibre/VoxeLibre"
-        },
-        {
-          "name": "BigInt",
-          "role": "Third-party code (MIT)",
-          "url": "https://github.com/attaswift/BigInt"
-        },
-        {
-          "name": "Luanti contributors",
-          "role": "Original game",
-          "url": null
-        }
-      ],
-      "upstream": [
-        "https://github.com/bettse/voxelnative",
-        "https://github.com/luanti-org/luanti"
-      ],
-      "self_reported_status": "working",
-      "status_notes": "Joining a server and playing works in the headset, with VoxeLibre as the daily driver. The README calls it a work in progress, rough in places.",
-      "owner_verified": {
-        "verified": false,
-        "verified_on": null,
-        "verified_commit": null
-      },
-      "trust_tier": "working",
-      "curator_own": false,
-      "health": {
-        "status": "ok",
-        "failing_since": null
-      },
-      "scanned_commit": "4e83af388f9461075d41ab2d7e49be47f2e33303",
-      "scanned_at": "2026-11-15T06:39:19Z",
-      "scan_kind": "automated",
-      "commits_since_scan": 0,
-      "scan_state": "current",
-      "archived": false,
-      "last_commit_date": "2026-11-14T06:32:12Z",
-      "license": {
-        "kind": "custom",
-        "spdx": null
-      },
-      "visionos_min": "26.0",
-      "input": [
-        "game-controller"
-      ],
-      "experiences": [
-        "6dof-immersive"
-      ],
-      "install": [
-        "build"
-      ],
-      "tags": [
-        "luanti",
-        "minetest",
-        "voxelibre",
-        "voxel",
-        "sandbox",
-        "vr",
-        "6dof"
-      ],
-      "description": "A native Swift and Metal Luanti (Minetest) client for Apple Vision Pro. It speaks the Luanti protocol to any server and renders the world per eye in full immersion; walk, dig, place and craft with PS VR2 Sense controllers or a Bluetooth keyboard. Listed from a copy with an install guide.",
-      "page_url": "https://github.com/edgytoast/avp-ports-index/blob/main/ports/voxelnative.md",
-      "media": {
-        "commit": "4e83af388f9461075d41ab2d7e49be47f2e33303",
-        "source": "readme",
-        "icon": {
-          "kind": "layered",
-          "layers": [
-            {
-              "bytes": 76708,
-              "format": "png",
-              "height": 1024,
-              "layer": "back",
-              "sha256": "943263a819496a9eb0887d4524d5b91f7577c563a19cabf952108f07f28289a7",
-              "url": "https://raw.githubusercontent.com/edgytoast/voxelnative/4e83af388f9461075d41ab2d7e49be47f2e33303/native/Sources/Assets.xcassets/AppIcon.solidimagestack/Back.solidimagestacklayer/Content.imageset/icon_back.png",
-              "width": 1024
-            },
-            {
-              "bytes": 6556,
-              "format": "png",
-              "height": 1024,
-              "layer": "middle",
-              "sha256": "86a4380e78c0d24d66bf590bfd51a3d81e4824aa566028419db4b96745cf1f8d",
-              "url": "https://raw.githubusercontent.com/edgytoast/voxelnative/4e83af388f9461075d41ab2d7e49be47f2e33303/native/Sources/Assets.xcassets/AppIcon.solidimagestack/Middle.solidimagestacklayer/Content.imageset/icon_middle.png",
-              "width": 1024
-            },
-            {
-              "bytes": 39994,
-              "format": "png",
-              "height": 1024,
-              "layer": "front",
-              "sha256": "a2356b0fb96058dac64c723e4476fc34aac3803a73e991b4e3d922f9dde868f0",
-              "url": "https://raw.githubusercontent.com/edgytoast/voxelnative/4e83af388f9461075d41ab2d7e49be47f2e33303/native/Sources/Assets.xcassets/AppIcon.solidimagestack/Front.solidimagestacklayer/Content.imageset/icon_front.png",
-              "width": 1024
-            }
-          ]
-        },
-        "screenshots": []
-      }
     },
     {
       "id": "wiicompiled-vr",
@@ -3624,6 +3624,117 @@
       }
     },
     {
+      "id": "dark-eco",
+      "name": "Dark Eco",
+      "game": {
+        "title": "Jak and Daxter",
+        "original_platform": null,
+        "original_release_year": null
+      },
+      "repo_url": "https://github.com/zschwendi/dark-eco",
+      "source_ref": "v2.0",
+      "source_url": "https://github.com/zschwendi/dark-eco/tree/6e28cce750406037c4a325ce7fc18c377b575e97",
+      "install_doc_url": "https://github.com/zschwendi/dark-eco/blob/6e28cce750406037c4a325ce7fc18c377b575e97/AVP-INSTALL.md",
+      "developer": {
+        "name": "Zach Schwendiman",
+        "github": "zschwendi",
+        "url": null,
+        "github_verified": true
+      },
+      "credits": [
+        {
+          "name": "OpenGOAL",
+          "role": "GOAL language tools, reconstructed game code and runtime",
+          "url": "https://github.com/open-goal/jak-project"
+        },
+        {
+          "name": "jak-pad",
+          "role": "Pinned Apple-platform OpenGOAL engine fork",
+          "url": "https://github.com/zschwendi/jak-pad"
+        }
+      ],
+      "upstream": [
+        "https://github.com/open-goal/jak-project",
+        "https://github.com/zschwendi/jak-pad"
+      ],
+      "self_reported_status": "partially-working",
+      "status_notes": "Windowed Jak and Daxter is stable per the developer. This public v2.0 source exposes 2D Comfort mode. The separate experimental immersive build has remaining bugs and is not included in this entry.",
+      "owner_verified": {
+        "verified": false,
+        "verified_on": null,
+        "verified_commit": null
+      },
+      "trust_tier": "partially-working",
+      "curator_own": false,
+      "health": {
+        "status": "ok",
+        "failing_since": null
+      },
+      "scanned_commit": "6e28cce750406037c4a325ce7fc18c377b575e97",
+      "scanned_at": "2026-11-02T07:32:53Z",
+      "scan_kind": "automated",
+      "commits_since_scan": 8,
+      "scan_state": "behind",
+      "archived": false,
+      "last_commit_date": "2026-11-15T08:53:47Z",
+      "license": {
+        "kind": "none",
+        "spdx": null
+      },
+      "visionos_min": "26.5",
+      "input": [
+        "game-controller"
+      ],
+      "experiences": [
+        "2d"
+      ],
+      "install": [
+        "build",
+        "sideload"
+      ],
+      "tags": [],
+      "description": "Native Apple OpenGOAL port with a Dark Eco launcher, on-device import of user-supplied Jak and Daxter data, Metal graphics and controller support. This entry covers the public windowed Vision Pro build.",
+      "page_url": "https://github.com/edgytoast/avp-ports-index/blob/main/ports/dark-eco.md",
+      "media": {
+        "commit": "6e28cce750406037c4a325ce7fc18c377b575e97",
+        "source": "readme",
+        "icon": {
+          "kind": "layered",
+          "layers": [
+            {
+              "bytes": 1486282,
+              "format": "png",
+              "height": 1024,
+              "layer": "back",
+              "sha256": "cc602a0aefc0506d3010c4b3dd73592caa1f2da96f9e440c9294fc568d6da192",
+              "url": "https://raw.githubusercontent.com/zschwendi/dark-eco/6e28cce750406037c4a325ce7fc18c377b575e97/GOALPad/Assets.xcassets/AppIcon.solidimagestack/Back.solidimagestacklayer/Content.imageset/AppIcon-build134-visionOS-1024.png",
+              "width": 1024
+            },
+            {
+              "bytes": 448,
+              "format": "png",
+              "height": 1024,
+              "layer": "front",
+              "sha256": "1f737c51df0aa9ef372f6b4343f91b797b6ddae5058b858f4f30f34e73b81224",
+              "url": "https://raw.githubusercontent.com/zschwendi/dark-eco/6e28cce750406037c4a325ce7fc18c377b575e97/GOALPad/Assets.xcassets/AppIcon.solidimagestack/Front.solidimagestacklayer/Content.imageset/AppIcon-build134-visionOS-front-transparent-1024.png",
+              "width": 1024
+            }
+          ]
+        },
+        "screenshots": [
+          {
+            "alt": "Jak 1 immersive gameplay recorded by Zach on Apple Vision Pro",
+            "bytes": 3382412,
+            "format": "gif",
+            "height": 360,
+            "sha256": "95ed31e3215c1af7f28359dc2d893799fa9294a1ba3942747bedba98d1d8e68e",
+            "url": "https://raw.githubusercontent.com/zschwendi/dark-eco/6e28cce750406037c4a325ce7fc18c377b575e97/docs/media/dark-eco-vision-pro.gif",
+            "width": 640
+          }
+        ]
+      }
+    },
+    {
       "id": "ctrpad",
       "name": "CTRPad for Vision Pro",
       "game": {
@@ -3940,117 +4051,6 @@
             "sha256": "465d80df2afae0ccf7d500440c3fbfb0ccb398ea22c615880bc0a5a6fe04fb11",
             "url": "https://raw.githubusercontent.com/edgytoast/gen1recomp/bbe5f881c7b070233f724ba6927b82666e54568c/.github/resources/altstore-badge.png",
             "width": 1299
-          }
-        ]
-      }
-    },
-    {
-      "id": "dark-eco",
-      "name": "Dark Eco",
-      "game": {
-        "title": "Jak and Daxter",
-        "original_platform": null,
-        "original_release_year": null
-      },
-      "repo_url": "https://github.com/zschwendi/dark-eco",
-      "source_ref": "v2.0",
-      "source_url": "https://github.com/zschwendi/dark-eco/tree/6e28cce750406037c4a325ce7fc18c377b575e97",
-      "install_doc_url": "https://github.com/zschwendi/dark-eco/blob/6e28cce750406037c4a325ce7fc18c377b575e97/AVP-INSTALL.md",
-      "developer": {
-        "name": "Zach Schwendiman",
-        "github": "zschwendi",
-        "url": null,
-        "github_verified": true
-      },
-      "credits": [
-        {
-          "name": "OpenGOAL",
-          "role": "GOAL language tools, reconstructed game code and runtime",
-          "url": "https://github.com/open-goal/jak-project"
-        },
-        {
-          "name": "jak-pad",
-          "role": "Pinned Apple-platform OpenGOAL engine fork",
-          "url": "https://github.com/zschwendi/jak-pad"
-        }
-      ],
-      "upstream": [
-        "https://github.com/open-goal/jak-project",
-        "https://github.com/zschwendi/jak-pad"
-      ],
-      "self_reported_status": "partially-working",
-      "status_notes": "Windowed Jak and Daxter is stable per the developer. This public v2.0 source exposes 2D Comfort mode. The separate experimental immersive build has remaining bugs and is not included in this entry.",
-      "owner_verified": {
-        "verified": false,
-        "verified_on": null,
-        "verified_commit": null
-      },
-      "trust_tier": "partially-working",
-      "curator_own": false,
-      "health": {
-        "status": "ok",
-        "failing_since": null
-      },
-      "scanned_commit": "6e28cce750406037c4a325ce7fc18c377b575e97",
-      "scanned_at": "2026-11-02T07:32:53Z",
-      "scan_kind": "automated",
-      "commits_since_scan": 0,
-      "scan_state": "current",
-      "archived": false,
-      "last_commit_date": "2026-11-02T03:07:20Z",
-      "license": {
-        "kind": "none",
-        "spdx": null
-      },
-      "visionos_min": "26.5",
-      "input": [
-        "game-controller"
-      ],
-      "experiences": [
-        "2d"
-      ],
-      "install": [
-        "build",
-        "sideload"
-      ],
-      "tags": [],
-      "description": "Native Apple OpenGOAL port with a Dark Eco launcher, on-device import of user-supplied Jak and Daxter data, Metal graphics and controller support. This entry covers the public windowed Vision Pro build.",
-      "page_url": "https://github.com/edgytoast/avp-ports-index/blob/main/ports/dark-eco.md",
-      "media": {
-        "commit": "6e28cce750406037c4a325ce7fc18c377b575e97",
-        "source": "readme",
-        "icon": {
-          "kind": "layered",
-          "layers": [
-            {
-              "bytes": 1486282,
-              "format": "png",
-              "height": 1024,
-              "layer": "back",
-              "sha256": "cc602a0aefc0506d3010c4b3dd73592caa1f2da96f9e440c9294fc568d6da192",
-              "url": "https://raw.githubusercontent.com/zschwendi/dark-eco/6e28cce750406037c4a325ce7fc18c377b575e97/GOALPad/Assets.xcassets/AppIcon.solidimagestack/Back.solidimagestacklayer/Content.imageset/AppIcon-build134-visionOS-1024.png",
-              "width": 1024
-            },
-            {
-              "bytes": 448,
-              "format": "png",
-              "height": 1024,
-              "layer": "front",
-              "sha256": "1f737c51df0aa9ef372f6b4343f91b797b6ddae5058b858f4f30f34e73b81224",
-              "url": "https://raw.githubusercontent.com/zschwendi/dark-eco/6e28cce750406037c4a325ce7fc18c377b575e97/GOALPad/Assets.xcassets/AppIcon.solidimagestack/Front.solidimagestacklayer/Content.imageset/AppIcon-build134-visionOS-front-transparent-1024.png",
-              "width": 1024
-            }
-          ]
-        },
-        "screenshots": [
-          {
-            "alt": "Jak 1 immersive gameplay recorded by Zach on Apple Vision Pro",
-            "bytes": 3382412,
-            "format": "gif",
-            "height": 360,
-            "sha256": "95ed31e3215c1af7f28359dc2d893799fa9294a1ba3942747bedba98d1d8e68e",
-            "url": "https://raw.githubusercontent.com/zschwendi/dark-eco/6e28cce750406037c4a325ce7fc18c377b575e97/docs/media/dark-eco-vision-pro.gif",
-            "width": 640
           }
         ]
       }

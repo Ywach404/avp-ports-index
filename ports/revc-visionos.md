@@ -17,12 +17,12 @@ Then follow the [install guide](https://github.com/LowRiderXR/revc-visionos-app/
 | Status | Developer-verified: Own code \(launcher, renderer\) is MIT; the reVC engine itself has no license and is published as-is. Requires the player's own classic PC copy of Vice City \(not the Definitive Edition\). Tested on Apple Vision Pro M2 and M5. |
 | Plays as | 6DoF immersive |
 | Health | OK |
-| Scan | Scanned 2026-11-02 · 0 commits since |
+| Scan | Scanned 2026-11-02 · 1 commit since |
 | Source (scanned) | [LowRiderXR/revc-visionos-app at c0ddb43a395b](https://github.com/LowRiderXR/revc-visionos-app/tree/c0ddb43a395beb14ffd195cfe9f98bb8aa5c874c) |
 | Install guide | [AVP-INSTALL.md at c0ddb43a395b](https://github.com/LowRiderXR/revc-visionos-app/blob/c0ddb43a395beb14ffd195cfe9f98bb8aa5c874c/AVP-INSTALL.md) |
 | Repo | [LowRiderXR/revc-visionos-app](https://github.com/LowRiderXR/revc-visionos-app) |
 | License | Custom license |
-| Last commit | 2026-10-31 |
+| Last commit | 2026-11-15 |
 | visionOS | 27.0 or later |
 | Input | game controller |
 | Tags | gta, vice-city, vr, decompilation |

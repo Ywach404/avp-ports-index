@@ -22,7 +22,7 @@ Then follow the [install guide](https://github.com/edgytoast/voxelnative/blob/4e
 | Install guide | [AVP-INSTALL.md at 4e83af388f94](https://github.com/edgytoast/voxelnative/blob/4e83af388f9461075d41ab2d7e49be47f2e33303/AVP-INSTALL.md) |
 | Repo | [edgytoast/voxelnative](https://github.com/edgytoast/voxelnative) |
 | License | Custom license |
-| Last commit | 2026-11-14 |
+| Last commit | 2026-11-15 |
 | visionOS | 26.0 or later |
 | Input | game controller |
 | Tags | luanti, minetest, voxelibre, voxel, sandbox, vr, 6dof |

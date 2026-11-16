@@ -17,7 +17,7 @@ Then follow the [install guide](https://github.com/gseddon/Skyrim-VR-Vision-Pro/
 | Status | Working: The developer reports it plays well on the headset: about 35 fps redrawn at 100 Hz, Sense controllers, sound, menus, saves and SKSE mods. Connect both controllers before pressing Start. Needs a paid Apple Developer account. Not tested by the curator. |
 | Plays as | 6DoF immersive |
 | Health | OK |
-| Scan | Scanned 2026-11-15 · 14 commits since |
+| Scan | Scanned 2026-11-15 · 41 commits since |
 | Source (scanned) | [gseddon/Skyrim-VR-Vision-Pro at c036b4e4b358](https://github.com/gseddon/Skyrim-VR-Vision-Pro/tree/c036b4e4b3580c5ee5442540f0d14b912153c584) |
 | Install guide | [AVP-INSTALL.md at c036b4e4b358](https://github.com/gseddon/Skyrim-VR-Vision-Pro/blob/c036b4e4b3580c5ee5442540f0d14b912153c584/AVP-INSTALL.md) |
 | Repo | [gseddon/Skyrim-VR-Vision-Pro](https://github.com/gseddon/Skyrim-VR-Vision-Pro) |
