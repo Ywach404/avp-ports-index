@@ -1,0 +1,93 @@
+{
+ "taken": "2026-11-16",
+ "window_days": 14,
+ "referrers": [
+  {
+   "referrer": "github.com",
+   "count": 17,
+   "uniques": 9
+  },
+  {
+   "referrer": "reddit.com",
+   "count": 15,
+   "uniques": 15
+  },
+  {
+   "referrer": "Google",
+   "count": 5,
+   "uniques": 4
+  },
+  {
+   "referrer": "com.reddit.frontpage",
+   "count": 5,
+   "uniques": 2
+  },
+  {
+   "referrer": "DuckDuckGo",
+   "count": 4,
+   "uniques": 2
+  }
+ ],
+ "paths": [
+  {
+   "path": "/edgytoast/avp-ports-index",
+   "title": "Overview",
+   "count": 131,
+   "uniques": 74
+  },
+  {
+   "path": "/edgytoast/avp-ports-index/pulls",
+   "title": "/pulls",
+   "count": 18,
+   "uniques": 7
+  },
+  {
+   "path": "/edgytoast/avp-ports-index/issues",
+   "title": "/issues",
+   "count": 9,
+   "uniques": 5
+  },
+  {
+   "path": "/edgytoast/avp-ports-index/blob/main/ports/galaxyvision.md",
+   "title": "/blob/main/ports/galaxyvision.md",
+   "count": 7,
+   "uniques": 6
+  },
+  {
+   "path": "/edgytoast/avp-ports-index/blob/main/ports/avp-craft.md",
+   "title": "/blob/main/ports/avp-craft.md",
+   "count": 6,
+   "uniques": 4
+  },
+  {
+   "path": "/edgytoast/avp-ports-index/blob/main/ports/twilight-princess-vr.md",
+   "title": "/blob/main/ports/twilight-princess-vr.md",
+   "count": 5,
+   "uniques": 5
+  },
+  {
+   "path": "/edgytoast/avp-ports-index/tree/main",
+   "title": "/tree/main",
+   "count": 5,
+   "uniques": 4
+  },
+  {
+   "path": "/edgytoast/avp-ports-index/blob/main/ports/half-life-alyx.md",
+   "title": "/blob/main/ports/half-life-alyx.md",
+   "count": 5,
+   "uniques": 3
+  },
+  {
+   "path": "/edgytoast/avp-ports-index/pull/17",
+   "title": "/pull/17",
+   "count": 5,
+   "uniques": 3
+  },
+  {
+   "path": "/edgytoast/avp-ports-index/actions",
+   "title": "/actions",
+   "count": 4,
+   "uniques": 1
+  }
+ ]
+}
