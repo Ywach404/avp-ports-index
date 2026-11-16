@@ -138,6 +138,16 @@ luigis-mansion-vr:
   status: listed
   submitted_by: edgytoast
   submitted_by_id: 146565462
+macnativegames-totk:
+  by: merge
+  changed_at: '2026-11-16T21:12:19Z'
+  listed_at: '2026-11-16T21:12:19Z'
+  owner_approved: true
+  repo: https://github.com/ly05010419/MacNativeGames
+  repo_id: 1423689866
+  status: listed
+  submitted_by: edgytoast
+  submitted_by_id: 146565462
 perfect-dark:
   by: merge
   changed_at: '2026-11-14T18:28:51Z'

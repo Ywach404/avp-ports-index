@@ -456,6 +456,16 @@ luigis-mansion-vr:
   - reason: not this repo's file or a GitHub attachment
     src: https://img.shields.io/badge/AVP_Ports_Index-listed-0A84FF
   source: readme
+macnativegames-totk:
+  choice: null
+  collected_at: '2026-11-16T21:12:22Z'
+  commit: 31aa41b4101a413f69113985120ba095e1c9586f
+  icon: null
+  screenshots: []
+  skipped:
+  - reason: not this repo's file or a GitHub attachment
+    src: https://api.star-history.com/chart?repos=ly05010419/MacNativeGames&type=date&legend=bottom-right
+  source: readme
 perfect-dark:
   choice: null
   collected_at: '2026-11-14T18:28:53Z'

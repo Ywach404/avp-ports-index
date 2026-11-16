@@ -419,6 +419,36 @@ luigis-mansion-vr:
   scanned_commit: c238bbc386b1a4433d31d9f016234492016c415a
   warnings:
   - S1-10
+macnativegames-totk:
+  archived: false
+  commits_since_scan: 0
+  consecutive_failures: 0
+  curator_own: false
+  decay_reset_at: '2026-11-16T21:12:19Z'
+  failing_since: null
+  failures: []
+  flagged_commit: null
+  flagged_files: []
+  github_verified: true
+  health: ok
+  last_checked: null
+  last_commit_date: '2026-11-16T17:29:13Z'
+  license:
+    kind: open-source
+    spdx: MIT
+  outreach_issue_url: null
+  outreach_opened_at: null
+  rescan_after: null
+  rescan_hold: false
+  routes: []
+  scan_confidence: null
+  scan_declines: 0
+  scan_kind: curator-reviewed
+  scan_refused: false
+  scan_state: current
+  scanned_at: '2026-11-16T21:12:19Z'
+  scanned_commit: 31aa41b4101a413f69113985120ba095e1c9586f
+  warnings: []
 perfect-dark:
   archived: false
   commits_since_scan: 0

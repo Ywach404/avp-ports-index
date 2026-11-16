@@ -2,7 +2,7 @@
   "$schema": "https://raw.githubusercontent.com/edgytoast/avp-ports-index/main/schema/feed-v1.schema.json",
   "schema_version": "1.6.0",
   "identifier": "com.trevorbilt.avp-ports-index",
-  "generated_at": "2026-11-16T20:27:25Z",
+  "generated_at": "2026-11-16T21:12:22Z",
   "publisher": {
     "name": "trevorbilt",
     "curator": "Trevor \"Toast\"",
@@ -3532,6 +3532,89 @@
           }
         ]
       }
+    },
+    {
+      "id": "macnativegames-totk",
+      "name": "MacNativeGames",
+      "game": {
+        "title": "The Legend of Zelda: Tears of the Kingdom",
+        "original_platform": "other",
+        "original_release_year": 2023
+      },
+      "repo_url": "https://github.com/ly05010419/MacNativeGames",
+      "source_ref": null,
+      "source_url": "https://github.com/ly05010419/MacNativeGames/tree/31aa41b4101a413f69113985120ba095e1c9586f",
+      "install_doc_url": "https://github.com/ly05010419/MacNativeGames/blob/31aa41b4101a413f69113985120ba095e1c9586f/docs/install.md",
+      "install_guide": "docs/install.md",
+      "developer": {
+        "name": null,
+        "github": "ly05010419",
+        "url": null,
+        "github_verified": true
+      },
+      "credits": [
+        {
+          "name": "ly05010419",
+          "role": "MacNativeGames, including the visionOS build",
+          "url": "https://github.com/ly05010419/MacNativeGames"
+        },
+        {
+          "name": "Ryujinx",
+          "role": "The shader translator and a reference for system services",
+          "url": null
+        },
+        {
+          "name": "Nintendo",
+          "role": "Original game",
+          "url": null
+        }
+      ],
+      "upstream": [],
+      "self_reported_status": "partially-working",
+      "status_notes": "Early Vision Pro support: Tears of the Kingdom in a 16:9 window with a controller, not VR. In the guide, read What you need and Build the app first; Xcode, Apple ID and 7-day signing are under iPhone and iPad. Not tested by the curator.",
+      "owner_verified": {
+        "verified": false,
+        "verified_on": null,
+        "verified_commit": null
+      },
+      "trust_tier": "partially-working",
+      "curator_own": false,
+      "health": {
+        "status": "ok",
+        "failing_since": null
+      },
+      "scanned_commit": "31aa41b4101a413f69113985120ba095e1c9586f",
+      "scanned_at": "2026-11-16T21:12:19Z",
+      "scan_kind": "curator-reviewed",
+      "commits_since_scan": 0,
+      "scan_state": "current",
+      "archived": false,
+      "last_commit_date": "2026-11-16T17:29:13Z",
+      "license": {
+        "kind": "open-source",
+        "spdx": "MIT"
+      },
+      "visionos_min": "26.0",
+      "input": [
+        "game-controller"
+      ],
+      "experiences": [
+        "2d"
+      ],
+      "install": [
+        "build"
+      ],
+      "tags": [
+        "zelda",
+        "tears-of-the-kingdom",
+        "switch",
+        "window",
+        "metal",
+        "native-port"
+      ],
+      "description": "Tears of the Kingdom in a window on Apple Vision Pro, with the game's own ARM64 code running directly on Apple silicon and its graphics rebuilt on Metal. Not an emulator. Needs your own game files and keys.",
+      "page_url": "https://github.com/edgytoast/avp-ports-index/blob/main/ports/macnativegames-totk.md",
+      "media": null
     },
     {
       "id": "vxpro",
