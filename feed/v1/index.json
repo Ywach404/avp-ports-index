@@ -2,7 +2,7 @@
   "$schema": "https://raw.githubusercontent.com/edgytoast/avp-ports-index/main/schema/feed-v1.schema.json",
   "schema_version": "1.5.0",
   "identifier": "com.trevorbilt.avp-ports-index",
-  "generated_at": "2026-11-15T17:29:52Z",
+  "generated_at": "2026-11-16T00:45:52Z",
   "publisher": {
     "name": "trevorbilt",
     "curator": "Trevor \"Toast\"",
@@ -3396,6 +3396,121 @@
             "width": 1600
           }
         ]
+      }
+    },
+    {
+      "id": "vxpro",
+      "name": "VXpro",
+      "game": {
+        "title": "Cyberpunk 2077",
+        "original_platform": "pc",
+        "original_release_year": 2020
+      },
+      "repo_url": "https://github.com/Ag3497120/VXpro",
+      "source_ref": null,
+      "source_url": "https://github.com/Ag3497120/VXpro/tree/4498bec05b35fa290e55663f798cab6c85f5595c",
+      "install_doc_url": "https://github.com/Ag3497120/VXpro/blob/4498bec05b35fa290e55663f798cab6c85f5595c/AVP-INSTALL.md",
+      "developer": {
+        "name": null,
+        "github": "Ag3497120",
+        "url": null,
+        "github_verified": true
+      },
+      "credits": [
+        {
+          "name": "Ag3497120",
+          "role": "VXpro, the visionOS port",
+          "url": "https://github.com/Ag3497120/VXpro"
+        },
+        {
+          "name": "CD PROJEKT RED",
+          "role": "Original game",
+          "url": null
+        }
+      ],
+      "upstream": [],
+      "self_reported_status": "partially-working",
+      "status_notes": "An experimental preview, per the developer: stereo VR on an M2 headset at about 37 fps, reprojected. Borders can show in some vehicle and story scenes; only English voice on 2.5.0. Needs 85 to 160 GB free on the headset. Not tested by the curator.",
+      "owner_verified": {
+        "verified": false,
+        "verified_on": null,
+        "verified_commit": null
+      },
+      "trust_tier": "partially-working",
+      "curator_own": false,
+      "health": {
+        "status": "ok",
+        "failing_since": null
+      },
+      "scanned_commit": "4498bec05b35fa290e55663f798cab6c85f5595c",
+      "scanned_at": "2026-11-16T00:45:49Z",
+      "scan_kind": "automated",
+      "commits_since_scan": 0,
+      "scan_state": "current",
+      "archived": false,
+      "last_commit_date": "2026-11-16T00:14:20Z",
+      "license": {
+        "kind": "open-source",
+        "spdx": "MIT"
+      },
+      "visionos_min": null,
+      "input": [
+        "game-controller",
+        "hand-tracking"
+      ],
+      "experiences": [
+        "6dof-immersive"
+      ],
+      "install": [
+        "build"
+      ],
+      "tags": [
+        "cyberpunk-2077",
+        "vr",
+        "6dof",
+        "first-person",
+        "open-world",
+        "mac-app-store",
+        "hand-tracking"
+      ],
+      "description": "Cyberpunk 2077's Mac App Store edition in stereo VR on Apple Vision Pro, running on the headset with no streaming. Your Mac prepares and installs your own copy; Joy-Cons and tracked wrists move the in-game arms and weapons.",
+      "page_url": "https://github.com/edgytoast/avp-ports-index/blob/main/ports/vxpro.md",
+      "media": {
+        "commit": "4498bec05b35fa290e55663f798cab6c85f5595c",
+        "source": "readme",
+        "icon": {
+          "kind": "layered",
+          "layers": [
+            {
+              "bytes": 172271,
+              "format": "png",
+              "height": 1024,
+              "layer": "back",
+              "sha256": "0162873ef9b550af036da1fd508bd93daf7a2176e3dfff451f44b62131e6a12d",
+              "url": "https://raw.githubusercontent.com/Ag3497120/VXpro/4498bec05b35fa290e55663f798cab6c85f5595c/app/Assets.xcassets/AppIcon.solidimagestack/Back.solidimagestacklayer/Content.imageset/back.png",
+              "width": 1024
+            },
+            {
+              "bytes": 252376,
+              "format": "png",
+              "height": 1024,
+              "layer": "middle",
+              "sha256": "484e617fd4dd2f44b5ed16d5160d064ee04aeeb22792ab2bbf379382939b7e84",
+              "url": "https://raw.githubusercontent.com/Ag3497120/VXpro/4498bec05b35fa290e55663f798cab6c85f5595c/app/Assets.xcassets/AppIcon.solidimagestack/Middle.solidimagestacklayer/Content.imageset/middle.png",
+              "width": 1024
+            },
+            {
+              "bytes": 75515,
+              "format": "png",
+              "height": 1024,
+              "layer": "front",
+              "sha256": "67b6d661e1551fa99004124066a3d57abb06363bd07e9f1999d310f7e64e654f",
+              "url": "https://raw.githubusercontent.com/Ag3497120/VXpro/4498bec05b35fa290e55663f798cab6c85f5595c/app/Assets.xcassets/AppIcon.solidimagestack/Front.solidimagestacklayer/Content.imageset/front.png",
+              "width": 1024
+            }
+          ]
+        },
+        "screenshots": []
       }
     },
     {

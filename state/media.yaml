@@ -967,6 +967,39 @@ voxelnative:
   - reason: not this repo's file or a GitHub attachment
     src: https://img.shields.io/badge/TestFlight-Join_the_beta-0D96F6?style=for-the-badge&logo=apple&logoColor=white
   source: readme
+vxpro:
+  choice: null
+  collected_at: '2026-11-16T00:45:52Z'
+  commit: 4498bec05b35fa290e55663f798cab6c85f5595c
+  icon:
+    kind: layered
+    layers:
+    - bytes: 172271
+      format: png
+      height: 1024
+      layer: back
+      sha256: 0162873ef9b550af036da1fd508bd93daf7a2176e3dfff451f44b62131e6a12d
+      url: https://raw.githubusercontent.com/Ag3497120/VXpro/4498bec05b35fa290e55663f798cab6c85f5595c/app/Assets.xcassets/AppIcon.solidimagestack/Back.solidimagestacklayer/Content.imageset/back.png
+      width: 1024
+    - bytes: 252376
+      format: png
+      height: 1024
+      layer: middle
+      sha256: 484e617fd4dd2f44b5ed16d5160d064ee04aeeb22792ab2bbf379382939b7e84
+      url: https://raw.githubusercontent.com/Ag3497120/VXpro/4498bec05b35fa290e55663f798cab6c85f5595c/app/Assets.xcassets/AppIcon.solidimagestack/Middle.solidimagestacklayer/Content.imageset/middle.png
+      width: 1024
+    - bytes: 75515
+      format: png
+      height: 1024
+      layer: front
+      sha256: 67b6d661e1551fa99004124066a3d57abb06363bd07e9f1999d310f7e64e654f
+      url: https://raw.githubusercontent.com/Ag3497120/VXpro/4498bec05b35fa290e55663f798cab6c85f5595c/app/Assets.xcassets/AppIcon.solidimagestack/Front.solidimagestacklayer/Content.imageset/front.png
+      width: 1024
+  screenshots: []
+  skipped:
+  - reason: over 8 MB
+    src: https://raw.githubusercontent.com/Ag3497120/VXpro/4498bec05b35fa290e55663f798cab6c85f5595c/docs/media/vision-pro-gameplay.gif
+  source: readme
 wiicompiled-vr:
   choice: null
   collected_at: '2026-11-14T21:32:25Z'

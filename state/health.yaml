@@ -839,6 +839,36 @@ voxelnative:
   scanned_at: '2026-11-15T06:39:19Z'
   scanned_commit: 4e83af388f9461075d41ab2d7e49be47f2e33303
   warnings: []
+vxpro:
+  archived: false
+  commits_since_scan: 0
+  consecutive_failures: 0
+  curator_own: false
+  decay_reset_at: '2026-11-16T00:45:49Z'
+  failing_since: null
+  failures: []
+  flagged_commit: null
+  flagged_files: []
+  github_verified: true
+  health: ok
+  last_checked: null
+  last_commit_date: '2026-11-16T00:14:20Z'
+  license:
+    kind: open-source
+    spdx: MIT
+  outreach_issue_url: null
+  outreach_opened_at: null
+  rescan_after: null
+  rescan_hold: false
+  routes: []
+  scan_confidence: 96
+  scan_declines: 0
+  scan_kind: automated
+  scan_refused: false
+  scan_state: current
+  scanned_at: '2026-11-16T00:45:49Z'
+  scanned_commit: 4498bec05b35fa290e55663f798cab6c85f5595c
+  warnings: []
 wiicompiled-vr:
   archived: false
   commits_since_scan: 0

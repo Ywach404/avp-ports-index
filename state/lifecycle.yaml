@@ -278,6 +278,16 @@ voxelnative:
   status: listed
   submitted_by: edgytoast
   submitted_by_id: 146565462
+vxpro:
+  by: merge
+  changed_at: '2026-11-16T00:45:49Z'
+  listed_at: '2026-11-16T00:45:49Z'
+  owner_approved: false
+  repo: https://github.com/Ag3497120/VXpro
+  repo_id: 1440610684
+  status: listed
+  submitted_by: edgytoast
+  submitted_by_id: 146565462
 wiicompiled-vr:
   by: merge
   changed_at: '2026-11-14T21:32:22Z'
