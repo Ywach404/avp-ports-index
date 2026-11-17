@@ -614,6 +614,58 @@ portal-2-vr:
   screenshots: []
   skipped: []
   source: readme
+quakeavp:
+  choice: de172951a687c788
+  collected_at: '2026-11-17T21:10:18Z'
+  commit: d953ffee02c39307e1f56e0f622830ec489ca7d3
+  icon:
+    kind: layered
+    layers:
+    - bytes: 74301
+      format: png
+      height: 1024
+      layer: back
+      sha256: 6bbc573ec65d6fb00fc1c29404841862860d253e133ff693fb8a28a0dfca3e04
+      url: https://raw.githubusercontent.com/Ywach404/QuakeAVP/d953ffee02c39307e1f56e0f622830ec489ca7d3/App/Resources/Assets.xcassets/AppIcon.solidimagestack/Back.solidimagestacklayer/Content.imageset/Back.png
+      width: 1024
+    - bytes: 238146
+      format: png
+      height: 1024
+      layer: middle
+      sha256: 1f088f7759652105998d8910fa58756170c0a9fafc8280319995b086c2f4cd7c
+      url: https://raw.githubusercontent.com/Ywach404/QuakeAVP/d953ffee02c39307e1f56e0f622830ec489ca7d3/App/Resources/Assets.xcassets/AppIcon.solidimagestack/Middle.solidimagestacklayer/Content.imageset/Middle.png
+      width: 1024
+    - bytes: 53703
+      format: png
+      height: 1024
+      layer: front
+      sha256: 09a381d2fe4f7bf8cf9dfe9049912bf9405550baf3fffe3e8e147d18aa610683
+      url: https://raw.githubusercontent.com/Ywach404/QuakeAVP/d953ffee02c39307e1f56e0f622830ec489ca7d3/App/Resources/Assets.xcassets/AppIcon.solidimagestack/Front.solidimagestacklayer/Content.imageset/Front.png
+      width: 1024
+  screenshots:
+  - alt: null
+    bytes: 6119756
+    format: gif
+    height: 270
+    sha256: 7831c0ec0c01c6f2d751728925a2eb8ccf7165cf2bcdc22182fd650750ce180a
+    url: https://raw.githubusercontent.com/Ywach404/QuakeAVP/d953ffee02c39307e1f56e0f622830ec489ca7d3/docs/media/weapon-wheel.gif
+    width: 480
+  - alt: null
+    bytes: 6665485
+    format: gif
+    height: 270
+    sha256: 543a0af4410d8e2c96fdeae93e8525447852dccca48bd960cd64b73e9c4edb83
+    url: https://raw.githubusercontent.com/Ywach404/QuakeAVP/d953ffee02c39307e1f56e0f622830ec489ca7d3/docs/media/hand-viewing-modes.gif
+    width: 480
+  - alt: null
+    bytes: 7109022
+    format: gif
+    height: 270
+    sha256: 34bc8b13b7bfd86c2d6328e7b84902618299899d1982533fe5785b3680661ef4
+    url: https://raw.githubusercontent.com/Ywach404/QuakeAVP/d953ffee02c39307e1f56e0f622830ec489ca7d3/docs/media/phaseout-occlusion.gif
+    width: 480
+  skipped: []
+  source: entry
 revc-visionos:
   choice: ab060d8c909256ae
   collected_at: '2026-11-17T06:34:40Z'

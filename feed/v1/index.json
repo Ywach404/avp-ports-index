@@ -2,7 +2,7 @@
   "$schema": "https://raw.githubusercontent.com/edgytoast/avp-ports-index/main/schema/feed-v1.schema.json",
   "schema_version": "1.6.0",
   "identifier": "com.trevorbilt.avp-ports-index",
-  "generated_at": "2026-11-17T06:34:42Z",
+  "generated_at": "2026-11-17T21:10:19Z",
   "publisher": {
     "name": "trevorbilt",
     "curator": "Trevor \"Toast\"",
@@ -12,6 +12,168 @@
   },
   "license": "CC0-1.0",
   "entries": [
+    {
+      "id": "quakeavp",
+      "name": "QuakeAVP",
+      "game": {
+        "title": "Quake",
+        "original_platform": "pc",
+        "original_release_year": 1996
+      },
+      "repo_url": "https://github.com/Ywach404/QuakeAVP",
+      "source_ref": null,
+      "source_url": "https://github.com/Ywach404/QuakeAVP/tree/d953ffee02c39307e1f56e0f622830ec489ca7d3",
+      "install_doc_url": "https://github.com/Ywach404/QuakeAVP/blob/d953ffee02c39307e1f56e0f622830ec489ca7d3/AVP-INSTALL.md",
+      "install_guide": "AVP-INSTALL.md",
+      "developer": {
+        "name": "A.Cervantez",
+        "github": "Ywach404",
+        "url": null,
+        "github_verified": true
+      },
+      "credits": [
+        {
+          "name": "Watch the devlog, the port running on a real Vision Pro",
+          "role": "Video",
+          "url": "https://www.youtube.com/watch?v=-G4lDuGikJI"
+        },
+        {
+          "name": "A.Cervantez",
+          "role": "The Apple Vision Pro port, the Metal renderer and the hand tracking",
+          "url": "https://github.com/Ywach404/QuakeAVP"
+        },
+        {
+          "name": "QuakeSpasm",
+          "role": "The engine core",
+          "url": "https://github.com/sezero/quakespasm"
+        },
+        {
+          "name": "XcodeGen",
+          "role": "Xcode project generation",
+          "url": "https://github.com/yonaskolb/XcodeGen"
+        },
+        {
+          "name": "id Software",
+          "role": "Original game",
+          "url": null
+        }
+      ],
+      "upstream": [
+        "https://github.com/sezero/quakespasm"
+      ],
+      "self_reported_status": "developer-verified",
+      "status_notes": "Bare hands or PSVR2 Sense, in a full immersive space. id1 and the two mission packs play; the 2021 rerelease episodes do not load yet. Bring your own pak files.",
+      "owner_verified": {
+        "verified": false,
+        "verified_on": null,
+        "verified_commit": null
+      },
+      "trust_tier": "developer-verified",
+      "curator_own": false,
+      "health": {
+        "status": "ok",
+        "failing_since": null
+      },
+      "scanned_commit": "d953ffee02c39307e1f56e0f622830ec489ca7d3",
+      "scanned_at": "2026-11-17T21:10:13Z",
+      "scan_kind": "automated",
+      "commits_since_scan": 0,
+      "scan_state": "current",
+      "archived": false,
+      "last_commit_date": "2026-11-17T20:25:26Z",
+      "license": {
+        "kind": "open-source",
+        "spdx": "GPL-2.0"
+      },
+      "visionos_min": "26.0",
+      "input": [
+        "hand-tracking",
+        "game-controller"
+      ],
+      "experiences": [
+        "6dof-immersive"
+      ],
+      "install": [
+        "build"
+      ],
+      "tags": [
+        "fps",
+        "first-person",
+        "vr",
+        "6dof",
+        "quakespasm",
+        "id-tech-1",
+        "source-port",
+        "hand-tracking"
+      ],
+      "description": "Quake built for Apple Vision Pro rather than ported onto it: QuakeSpasm's engine core with a native Metal renderer, single-pass foveated stereo, and hand tracking as a first-class input, so the whole game plays with no controller at all. Bring your own pak files.",
+      "page_url": "https://github.com/edgytoast/avp-ports-index/blob/main/ports/quakeavp.md",
+      "media": {
+        "commit": "d953ffee02c39307e1f56e0f622830ec489ca7d3",
+        "source": "entry",
+        "icon": {
+          "kind": "layered",
+          "layers": [
+            {
+              "bytes": 74301,
+              "format": "png",
+              "height": 1024,
+              "layer": "back",
+              "sha256": "6bbc573ec65d6fb00fc1c29404841862860d253e133ff693fb8a28a0dfca3e04",
+              "url": "https://raw.githubusercontent.com/Ywach404/QuakeAVP/d953ffee02c39307e1f56e0f622830ec489ca7d3/App/Resources/Assets.xcassets/AppIcon.solidimagestack/Back.solidimagestacklayer/Content.imageset/Back.png",
+              "width": 1024
+            },
+            {
+              "bytes": 238146,
+              "format": "png",
+              "height": 1024,
+              "layer": "middle",
+              "sha256": "1f088f7759652105998d8910fa58756170c0a9fafc8280319995b086c2f4cd7c",
+              "url": "https://raw.githubusercontent.com/Ywach404/QuakeAVP/d953ffee02c39307e1f56e0f622830ec489ca7d3/App/Resources/Assets.xcassets/AppIcon.solidimagestack/Middle.solidimagestacklayer/Content.imageset/Middle.png",
+              "width": 1024
+            },
+            {
+              "bytes": 53703,
+              "format": "png",
+              "height": 1024,
+              "layer": "front",
+              "sha256": "09a381d2fe4f7bf8cf9dfe9049912bf9405550baf3fffe3e8e147d18aa610683",
+              "url": "https://raw.githubusercontent.com/Ywach404/QuakeAVP/d953ffee02c39307e1f56e0f622830ec489ca7d3/App/Resources/Assets.xcassets/AppIcon.solidimagestack/Front.solidimagestacklayer/Content.imageset/Front.png",
+              "width": 1024
+            }
+          ]
+        },
+        "screenshots": [
+          {
+            "alt": null,
+            "bytes": 6119756,
+            "format": "gif",
+            "height": 270,
+            "sha256": "7831c0ec0c01c6f2d751728925a2eb8ccf7165cf2bcdc22182fd650750ce180a",
+            "url": "https://raw.githubusercontent.com/Ywach404/QuakeAVP/d953ffee02c39307e1f56e0f622830ec489ca7d3/docs/media/weapon-wheel.gif",
+            "width": 480
+          },
+          {
+            "alt": null,
+            "bytes": 6665485,
+            "format": "gif",
+            "height": 270,
+            "sha256": "543a0af4410d8e2c96fdeae93e8525447852dccca48bd960cd64b73e9c4edb83",
+            "url": "https://raw.githubusercontent.com/Ywach404/QuakeAVP/d953ffee02c39307e1f56e0f622830ec489ca7d3/docs/media/hand-viewing-modes.gif",
+            "width": 480
+          },
+          {
+            "alt": null,
+            "bytes": 7109022,
+            "format": "gif",
+            "height": 270,
+            "sha256": "34bc8b13b7bfd86c2d6328e7b84902618299899d1982533fe5785b3680661ef4",
+            "url": "https://raw.githubusercontent.com/Ywach404/QuakeAVP/d953ffee02c39307e1f56e0f622830ec489ca7d3/docs/media/phaseout-occlusion.gif",
+            "width": 480
+          }
+        ]
+      }
+    },
     {
       "id": "visr",
       "name": "VISR",
