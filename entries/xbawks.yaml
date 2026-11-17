@@ -1,6 +1,7 @@
 schema_version: 1
 id: xbawks
 name: "Xbawks"
+kind: emulator
 game:
   title: "Original Xbox games"
   original_platform: xbox
