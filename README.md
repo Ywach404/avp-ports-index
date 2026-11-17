@@ -88,6 +88,14 @@ Everything below "Verified by trevorbilt" is self-reported by whoever submitted 
 | Minecraft: Java Edition | [AVPcraft](ports/avp-craft.md) | Zach Schwendiman ([@zschwendi](https://github.com/zschwendi)) | 2D, 6DoF immersive | Partially working | OK | MIT | 2026-11-01 | Scanned 2026-11-02 · 0 commits since | [AVP-INSTALL.md](https://github.com/zschwendi/avp-craft/blob/f2e37d355aa472b360bf88f355c8214f40ab5434/AVP-INSTALL.md) |  |
 | Halo: Combat Evolved | [117](ports/117-vision.md) | Zach Schwendiman ([@zschwendi](https://github.com/zschwendi)) | 2D, 6DoF immersive | Partially working | OK | MIT | 2026-10-30 | Scanned 2026-10-30 · 0 commits since | [AVP-INSTALL.md](https://github.com/zschwendi/117-vision/blob/ab3dad0f33c6175f391ed5ed27556a8706832b62/AVP-INSTALL.md) · prebuilt app (not safety-checked) |  |
 
+## Emulators
+
+Emulators that run on the headset and play a console's own games. They're held to the same checks as the ports above. You supply your own console files and games, and the install guide says which ones.
+
+| Plays | Emulator | Developer | Plays as | Trust | Health | License | Last commit | Scan | Install guide | TestFlight |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Original Xbox games | [Xbawks](ports/xbawks.md) | A.Cervantez ([@Ywach404](https://github.com/Ywach404)) | 2D | Partially working | OK | GPL-2.0 | 2026-11-17 | Reviewed by the curator 2026-11-17 · 0 commits since | [AVP-INSTALL.md](https://github.com/Ywach404/xbawks-avp/blob/d2a673d06191b74f0290516108a27a39ea676031/AVP-INSTALL.md) |  |
+
 ## Developers: get your port listed
 
 Read [CONTRIBUTING.md](CONTRIBUTING.md), or give your coding agent the [avp-index-submit skill](skills/avp-index-submit/SKILL.md). Clean submissions merge on their own after a queued safety check.

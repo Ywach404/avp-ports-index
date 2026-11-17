@@ -1094,3 +1094,33 @@ wind-waker-vr:
   scanned_commit: a1fcc30a3b8ee86eeff204b58a642b77d4aaa25c
   testflight: null
   warnings: []
+xbawks:
+  archived: false
+  commits_since_scan: 0
+  consecutive_failures: 0
+  curator_own: false
+  decay_reset_at: '2026-11-17T23:35:33Z'
+  failing_since: null
+  failures: []
+  flagged_commit: null
+  flagged_files: []
+  github_verified: true
+  health: ok
+  last_checked: null
+  last_commit_date: '2026-11-17T20:23:17Z'
+  license:
+    kind: open-source
+    spdx: GPL-2.0
+  outreach_issue_url: null
+  outreach_opened_at: null
+  rescan_after: null
+  rescan_hold: false
+  routes: []
+  scan_confidence: null
+  scan_declines: 0
+  scan_kind: curator-reviewed
+  scan_refused: false
+  scan_state: current
+  scanned_at: '2026-11-17T23:35:32Z'
+  scanned_commit: d2a673d06191b74f0290516108a27a39ea676031
+  warnings: []
