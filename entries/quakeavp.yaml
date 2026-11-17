@@ -1,0 +1,42 @@
+schema_version: 1
+id: quakeavp
+name: QuakeAVP
+game:
+  title: "Quake"
+  original_platform: pc
+  original_release_year: 1996
+repo: https://github.com/Ywach404/QuakeAVP
+developer:
+  github: Ywach404
+  name: "A.Cervantez"
+status: developer-verified
+status_notes: "Bare hands or PSVR2 Sense, in a full immersive space. id1 and the two mission packs play; the 2021 rerelease episodes do not load yet. Bring your own pak files."
+visionos_min: "26.0"
+input: [hand-tracking, game-controller]
+experiences: [6dof-immersive]
+install: [build]
+description: "Quake built for Apple Vision Pro rather than ported onto it: QuakeSpasm's engine core with a native Metal renderer, single-pass foveated stereo, and hand tracking as a first-class input, so the whole game plays with no controller at all. Bring your own pak files."
+tags: [fps, first-person, vr, 6dof, quakespasm, id-tech-1, source-port, hand-tracking]
+media:
+  screenshots:
+    - docs/media/weapon-wheel.gif
+    - docs/media/hand-viewing-modes.gif
+    - docs/media/phaseout-occlusion.gif
+  icon: App/Resources/Assets.xcassets/AppIcon.solidimagestack
+credits:
+  - name: Watch the devlog, the port running on a real Vision Pro
+    role: Video
+    url: https://www.youtube.com/watch?v=-G4lDuGikJI
+  - name: A.Cervantez
+    role: The Apple Vision Pro port, the Metal renderer and the hand tracking
+    url: https://github.com/Ywach404/QuakeAVP
+  - name: QuakeSpasm
+    role: The engine core
+    url: https://github.com/sezero/quakespasm
+  - name: XcodeGen
+    role: Xcode project generation
+    url: https://github.com/yonaskolb/XcodeGen
+  - name: id Software
+    role: Original game
+upstream:
+  - https://github.com/sezero/quakespasm
