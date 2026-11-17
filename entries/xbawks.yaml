@@ -1,0 +1,35 @@
+schema_version: 1
+id: xbawks
+name: "Xbawks"
+kind: emulator
+game:
+  title: "Original Xbox games"
+  original_platform: xbox
+  original_release_year: 2001
+repo: https://github.com/Ywach404/xbawks-avp
+developer:
+  github: Ywach404
+  name: "A.Cervantez"
+status: partially-working
+status_notes: "Original Xbox emulator (xemu port) running on the headset. Needs Apparition on a Mac at every launch for JIT. Many titles play; see the compatibility table."
+visionos_min: "26.0"
+input: [game-controller]
+experiences: [2d]
+install: [build]
+description: "Original Xbox emulator for Apple Vision Pro, running on the headset itself. A port of xemu with a visionOS shell, JIT through Apparition, and PSVR2 Sense or PS4 controller input."
+tags: [emulator]
+media:
+  screenshots:
+    - docs/media/promo.gif
+    - docs/media/dashboard.gif
+    - docs/media/gameplay.gif
+  icon: tools/xros/Assets.xcassets/AppIcon.solidimagestack
+credits:
+  - name: "xemu"
+    role: "Emulator core"
+    url: https://github.com/xemu-project/xemu
+  - name: "zlixas/xemu (Apple Silicon fork)"
+    role: "Metal-compatible Vulkan path, IOSurface display"
+    url: https://github.com/zlixas/xemu
+upstream:
+  - https://github.com/xemu-project/xemu
