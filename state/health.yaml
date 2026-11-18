@@ -644,7 +644,7 @@ revc-visionos:
     spdx: null
   outreach_issue_url: null
   outreach_opened_at: null
-  rescan_after: null
+  rescan_after: '2026-11-19T06:55:42Z'
   rescan_hold: false
   routes:
   - S1-11d
