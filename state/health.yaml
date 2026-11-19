@@ -627,7 +627,7 @@ quakeavp:
   warnings: []
 revc-visionos:
   archived: false
-  commits_since_scan: 5
+  commits_since_scan: 0
   consecutive_failures: 0
   curator_own: false
   decay_reset_at: '2026-11-02T22:41:26Z'
@@ -644,7 +644,7 @@ revc-visionos:
     spdx: null
   outreach_issue_url: null
   outreach_opened_at: null
-  rescan_after: '2026-11-19T06:55:42Z'
+  rescan_after: null
   rescan_hold: false
   routes:
   - S1-11d
@@ -652,9 +652,9 @@ revc-visionos:
   scan_declines: 0
   scan_kind: automated
   scan_refused: false
-  scan_state: behind
-  scanned_at: '2026-11-16T23:58:23Z'
-  scanned_commit: 762925082b7f2eb90f4e6ff02e2e15500c4efc84
+  scan_state: current
+  scanned_at: '2026-11-19T07:01:25Z'
+  scanned_commit: 9d5c1ae0a7ec61d1d387b42ea396ef50e265816c
   testflight: null
   warnings: []
 rtcw-avp:
