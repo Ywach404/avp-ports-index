@@ -2,7 +2,7 @@
   "$schema": "https://raw.githubusercontent.com/edgytoast/avp-ports-index/main/schema/feed-v1.schema.json",
   "schema_version": "1.8.0",
   "identifier": "com.trevorbilt.avp-ports-index",
-  "generated_at": "2026-11-19T17:47:41Z",
+  "generated_at": "2026-11-19T20:53:40Z",
   "publisher": {
     "name": "trevorbilt",
     "curator": "Trevor \"Toast\"",
@@ -12,6 +12,163 @@
   },
   "license": "CC0-1.0",
   "entries": [
+    {
+      "id": "sheikahvision",
+      "name": "SheikahVision",
+      "kind": "port",
+      "game": {
+        "title": "The Legend of Zelda: Breath of the Wild",
+        "original_platform": "other",
+        "original_release_year": 2017
+      },
+      "repo_url": "https://github.com/zlinoliver/BotW-SheikahVision",
+      "source_ref": null,
+      "source_url": "https://github.com/zlinoliver/BotW-SheikahVision/tree/d5a8f69f355a129c02580bd4c95a0791822c6bec",
+      "install_doc_url": "https://github.com/zlinoliver/BotW-SheikahVision/blob/d5a8f69f355a129c02580bd4c95a0791822c6bec/AVP-INSTALL.md",
+      "install_guide": "AVP-INSTALL.md",
+      "developer": {
+        "name": null,
+        "github": "zlinoliver",
+        "url": "https://sheikahvision.com",
+        "github_verified": true
+      },
+      "credits": [
+        {
+          "name": "zlinoliver",
+          "role": "SheikahVision, the visionOS port and Mac installer",
+          "url": "https://github.com/zlinoliver/BotW-SheikahVision"
+        },
+        {
+          "name": "Crementif",
+          "role": "BetterVR, the PC VR mod whose methods and research the VR layer follows",
+          "url": "https://github.com/Crementif/BotW-BetterVR"
+        },
+        {
+          "name": "Ishaan Kalra",
+          "role": "BotWRecomp, the static recompilation this port is built on",
+          "url": "https://github.com/IshaanKalra2103/BotWRecomp"
+        },
+        {
+          "name": "Cemu",
+          "role": "Latte, the graphics layer, running on Metal",
+          "url": "https://github.com/cemu-project/Cemu"
+        },
+        {
+          "name": "Glovebox",
+          "role": "Glovebox, the Mac installer SheikahVision's installer is modelled on",
+          "url": "https://github.com/glovebox-vr/glovebox"
+        },
+        {
+          "name": "Nintendo",
+          "role": "Original game",
+          "url": null
+        }
+      ],
+      "upstream": [
+        "https://github.com/IshaanKalra2103/BotWRecomp",
+        "https://github.com/Crementif/BotW-BetterVR"
+      ],
+      "self_reported_status": "developer-verified",
+      "status_notes": "Beta. The developer plays it through end to end on Apple Vision Pro (M5, visionOS 27); M2 untested. Needs PS VR2 Sense controllers. The Mac installer in Releases builds the app on your Mac from your own game files; it holds no game data and no prebuilt Vision Pro app.",
+      "owner_verified": {
+        "verified": false,
+        "verified_on": null,
+        "verified_commit": null
+      },
+      "trust_tier": "developer-verified",
+      "curator_own": false,
+      "health": {
+        "status": "ok",
+        "failing_since": null
+      },
+      "scanned_commit": "d5a8f69f355a129c02580bd4c95a0791822c6bec",
+      "scanned_at": "2026-11-19T20:53:35Z",
+      "scan_kind": "automated",
+      "commits_since_scan": 0,
+      "scan_state": "current",
+      "archived": false,
+      "last_commit_date": "2026-11-19T16:13:30Z",
+      "license": {
+        "kind": "custom",
+        "spdx": null
+      },
+      "visionos_min": "26.0",
+      "input": [
+        "game-controller"
+      ],
+      "experiences": [
+        "6dof-immersive"
+      ],
+      "install": [
+        "build"
+      ],
+      "tags": [
+        "zelda",
+        "breath-of-the-wild",
+        "wiiu",
+        "vr",
+        "static-recompilation",
+        "motion-controls"
+      ],
+      "description": "Breath of the Wild in first-person VR on Apple Vision Pro, running natively on the headset: the Wii U executable is statically recompiled on your Mac, graphics run on Metal, motion controls follow BetterVR. No emulator, no PC, no streaming.",
+      "page_url": "https://github.com/edgytoast/avp-ports-index/blob/main/ports/sheikahvision.md",
+      "media": {
+        "commit": "d5a8f69f355a129c02580bd4c95a0791822c6bec",
+        "source": "readme",
+        "icon": {
+          "kind": "layered",
+          "layers": [
+            {
+              "bytes": 1113176,
+              "format": "png",
+              "height": 1024,
+              "layer": "back",
+              "sha256": "2e3f0df4029f3c5dd72792457bf61f1c2f077f12a1975406ce4ebec65d399271",
+              "url": "https://raw.githubusercontent.com/zlinoliver/BotW-SheikahVision/d5a8f69f355a129c02580bd4c95a0791822c6bec/ios/assets/Vision.xcassets/AppIcon.solidimagestack/Back.solidimagestacklayer/Content.imageset/back.png",
+              "width": 1024
+            },
+            {
+              "bytes": 80739,
+              "format": "png",
+              "height": 1024,
+              "layer": "middle",
+              "sha256": "68a83fc722eefbd5b5e34ef3d8daa66452eb0afd8c6e45ed14e67bbeffe3736e",
+              "url": "https://raw.githubusercontent.com/zlinoliver/BotW-SheikahVision/d5a8f69f355a129c02580bd4c95a0791822c6bec/ios/assets/Vision.xcassets/AppIcon.solidimagestack/Middle.solidimagestacklayer/Content.imageset/middle.png",
+              "width": 1024
+            },
+            {
+              "bytes": 22076,
+              "format": "png",
+              "height": 1024,
+              "layer": "front",
+              "sha256": "b3587dc16376f9f64fbafab445c07ae9d81bdad9dec35277c0e3bd4fd112b98d",
+              "url": "https://raw.githubusercontent.com/zlinoliver/BotW-SheikahVision/d5a8f69f355a129c02580bd4c95a0791822c6bec/ios/assets/Vision.xcassets/AppIcon.solidimagestack/Front.solidimagestacklayer/Content.imageset/front.png",
+              "width": 1024
+            }
+          ]
+        },
+        "screenshots": [
+          {
+            "alt": "Controls: both PS VR2 Sense controllers and the body gestures",
+            "bytes": 963782,
+            "format": "png",
+            "height": 2520,
+            "sha256": "f29cdbee87e49f704ca8a1a049b6dc20dab5f3a3c62601a733a89159c1fc551f",
+            "url": "https://raw.githubusercontent.com/zlinoliver/BotW-SheikahVision/d5a8f69f355a129c02580bd4c95a0791822c6bec/docs/images/controls.png",
+            "width": 3600
+          },
+          {
+            "alt": "Architecture: static recompilation on the Mac, then the VR layer, game logic, Wii U runtime, graphics and visionOS on the headset",
+            "bytes": 408225,
+            "format": "png",
+            "height": 2172,
+            "sha256": "452623270daa909e8de99833e253d124d87bb1dd1df97e2a060dcd87791cb6e1",
+            "url": "https://raw.githubusercontent.com/zlinoliver/BotW-SheikahVision/d5a8f69f355a129c02580bd4c95a0791822c6bec/docs/images/architecture.png",
+            "width": 3200
+          }
+        ]
+      }
+    },
     {
       "id": "visr",
       "name": "VISR",

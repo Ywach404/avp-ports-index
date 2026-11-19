@@ -764,6 +764,55 @@ shar-visionos:
   - reason: not a PNG, JPEG, GIF or WebP
     src: https://raw.githubusercontent.com/edgytoast/shar-visionos/8c1f827f67c5c18950fc00f9f3dc58c4cf58284f/docs/images/hands/hand-swing-right.svg
   source: readme
+sheikahvision:
+  choice: null
+  collected_at: '2026-11-19T20:53:40Z'
+  commit: d5a8f69f355a129c02580bd4c95a0791822c6bec
+  icon:
+    kind: layered
+    layers:
+    - bytes: 1113176
+      format: png
+      height: 1024
+      layer: back
+      sha256: 2e3f0df4029f3c5dd72792457bf61f1c2f077f12a1975406ce4ebec65d399271
+      url: https://raw.githubusercontent.com/zlinoliver/BotW-SheikahVision/d5a8f69f355a129c02580bd4c95a0791822c6bec/ios/assets/Vision.xcassets/AppIcon.solidimagestack/Back.solidimagestacklayer/Content.imageset/back.png
+      width: 1024
+    - bytes: 80739
+      format: png
+      height: 1024
+      layer: middle
+      sha256: 68a83fc722eefbd5b5e34ef3d8daa66452eb0afd8c6e45ed14e67bbeffe3736e
+      url: https://raw.githubusercontent.com/zlinoliver/BotW-SheikahVision/d5a8f69f355a129c02580bd4c95a0791822c6bec/ios/assets/Vision.xcassets/AppIcon.solidimagestack/Middle.solidimagestacklayer/Content.imageset/middle.png
+      width: 1024
+    - bytes: 22076
+      format: png
+      height: 1024
+      layer: front
+      sha256: b3587dc16376f9f64fbafab445c07ae9d81bdad9dec35277c0e3bd4fd112b98d
+      url: https://raw.githubusercontent.com/zlinoliver/BotW-SheikahVision/d5a8f69f355a129c02580bd4c95a0791822c6bec/ios/assets/Vision.xcassets/AppIcon.solidimagestack/Front.solidimagestacklayer/Content.imageset/front.png
+      width: 1024
+  screenshots:
+  - alt: 'Controls: both PS VR2 Sense controllers and the body gestures'
+    bytes: 963782
+    format: png
+    height: 2520
+    sha256: f29cdbee87e49f704ca8a1a049b6dc20dab5f3a3c62601a733a89159c1fc551f
+    url: https://raw.githubusercontent.com/zlinoliver/BotW-SheikahVision/d5a8f69f355a129c02580bd4c95a0791822c6bec/docs/images/controls.png
+    width: 3600
+  - alt: 'Architecture: static recompilation on the Mac, then the VR layer, game logic, Wii U runtime, graphics and visionOS on the headset'
+    bytes: 408225
+    format: png
+    height: 2172
+    sha256: 452623270daa909e8de99833e253d124d87bb1dd1df97e2a060dcd87791cb6e1
+    url: https://raw.githubusercontent.com/zlinoliver/BotW-SheikahVision/d5a8f69f355a129c02580bd4c95a0791822c6bec/docs/images/architecture.png
+    width: 3200
+  skipped:
+  - reason: over 8 MB
+    src: https://raw.githubusercontent.com/zlinoliver/BotW-SheikahVision/d5a8f69f355a129c02580bd4c95a0791822c6bec/docs/images/bokoblin-axe-fight.gif
+  - reason: over 8 MB
+    src: https://raw.githubusercontent.com/zlinoliver/BotW-SheikahVision/d5a8f69f355a129c02580bd4c95a0791822c6bec/docs/images/magnesis-boulder-lift.gif
+  source: readme
 ship-of-harkinian:
   choice: null
   collected_at: '2026-11-14T00:40:31Z'

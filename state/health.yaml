@@ -749,6 +749,36 @@ shar-visionos:
   scanned_commit: 8c1f827f67c5c18950fc00f9f3dc58c4cf58284f
   testflight: null
   warnings: []
+sheikahvision:
+  archived: false
+  commits_since_scan: 0
+  consecutive_failures: 0
+  curator_own: false
+  decay_reset_at: '2026-11-19T20:53:35Z'
+  failing_since: null
+  failures: []
+  flagged_commit: null
+  flagged_files: []
+  github_verified: true
+  health: ok
+  last_checked: null
+  last_commit_date: '2026-11-19T16:13:30Z'
+  license:
+    kind: custom
+    spdx: null
+  outreach_issue_url: null
+  outreach_opened_at: null
+  rescan_after: null
+  rescan_hold: false
+  routes: []
+  scan_confidence: 96
+  scan_declines: 0
+  scan_kind: automated
+  scan_refused: false
+  scan_state: current
+  scanned_at: '2026-11-19T20:53:35Z'
+  scanned_commit: d5a8f69f355a129c02580bd4c95a0791822c6bec
+  warnings: []
 ship-of-harkinian:
   archived: false
   commits_since_scan: 0

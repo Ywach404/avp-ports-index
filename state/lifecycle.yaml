@@ -239,6 +239,16 @@ shar-visionos:
   status: listed
   submitted_by: edgytoast
   submitted_by_id: 146565462
+sheikahvision:
+  by: merge
+  changed_at: '2026-11-19T20:53:35Z'
+  listed_at: '2026-11-19T20:53:35Z'
+  owner_approved: false
+  repo: https://github.com/zlinoliver/BotW-SheikahVision
+  repo_id: 1442566711
+  status: listed
+  submitted_by: zlinoliver
+  submitted_by_id: 907831
 ship-of-harkinian:
   by: merge
   changed_at: '2026-11-14T00:40:28Z'
