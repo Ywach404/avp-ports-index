@@ -17,12 +17,12 @@ Then follow the [install guide](https://github.com/Ywach404/xbawks-avp/blob/6cb0
 | Status | Partially working: Original Xbox emulator \(xemu port\) running on the headset. Needs Apparition on a Mac at every launch for JIT. Many titles play; see the compatibility table. |
 | Plays as | 2D |
 | Health | OK |
-| Scan | Scanned 2026-11-18 · 0 commits since |
+| Scan | Scanned 2026-11-18 · 10 commits since |
 | Source (scanned) | [Ywach404/xbawks-avp at 6cb031a7b523](https://github.com/Ywach404/xbawks-avp/tree/6cb031a7b523a9950f58c6881850e18bdfaad88c) |
 | Install guide | [AVP-INSTALL.md at 6cb031a7b523](https://github.com/Ywach404/xbawks-avp/blob/6cb031a7b523a9950f58c6881850e18bdfaad88c/AVP-INSTALL.md) |
 | Repo | [Ywach404/xbawks-avp](https://github.com/Ywach404/xbawks-avp) |
 | License | GPL-2.0 |
-| Last commit | 2026-11-18 |
+| Last commit | 2026-11-19 |
 | visionOS | 26.0 or later |
 | Input | game controller |
 | Tags | emulator |
@@ -31,10 +31,10 @@ Original Xbox emulator for Apple Vision Pro, running on the headset itself. A po
 
 ## Screenshots
 
-From the port's repo at d2a673d06191.
+From the port's repo at 6cb031a7b523.
 
-<img src="https://raw.githubusercontent.com/Ywach404/xbawks-avp/d2a673d06191b74f0290516108a27a39ea676031/docs/media/dashboard.gif" alt="Screenshot of Xbawks" width="400">
-<img src="https://raw.githubusercontent.com/Ywach404/xbawks-avp/d2a673d06191b74f0290516108a27a39ea676031/docs/media/gameplay.gif" alt="Screenshot of Xbawks" width="400">
+<img src="https://raw.githubusercontent.com/Ywach404/xbawks-avp/6cb031a7b523a9950f58c6881850e18bdfaad88c/docs/media/dashboard.gif" alt="Screenshot of Xbawks" width="400">
+<img src="https://raw.githubusercontent.com/Ywach404/xbawks-avp/6cb031a7b523a9950f58c6881850e18bdfaad88c/docs/media/gameplay.gif" alt="Screenshot of Xbawks" width="400">
 
 ## Credits
 
