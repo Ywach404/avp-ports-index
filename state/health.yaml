@@ -1098,7 +1098,7 @@ wind-waker-vr:
   warnings: []
 xbawks:
   archived: false
-  commits_since_scan: 10
+  commits_since_scan: 0
   consecutive_failures: 0
   curator_own: false
   decay_reset_at: '2026-11-17T23:35:33Z'
@@ -1118,12 +1118,12 @@ xbawks:
   rescan_after: null
   rescan_hold: false
   routes: []
-  scan_confidence: 96
+  scan_confidence: 92
   scan_declines: 0
   scan_kind: automated
   scan_refused: false
-  scan_state: behind
-  scanned_at: '2026-11-18T07:05:57Z'
-  scanned_commit: 6cb031a7b523a9950f58c6881850e18bdfaad88c
+  scan_state: current
+  scanned_at: '2026-11-19T06:57:05Z'
+  scanned_commit: 2339dbcb441917cbe7fe10c33969da9b1a5726d0
   testflight: null
   warnings: []
