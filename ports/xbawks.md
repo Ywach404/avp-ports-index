@@ -31,10 +31,10 @@ Original Xbox emulator for Apple Vision Pro, running on the headset itself. A po
 
 ## Screenshots
 
-From the port's repo at 6cb031a7b523.
+From the port's repo at 2339dbcb4419.
 
-<img src="https://raw.githubusercontent.com/Ywach404/xbawks-avp/6cb031a7b523a9950f58c6881850e18bdfaad88c/docs/media/dashboard.gif" alt="Screenshot of Xbawks" width="400">
-<img src="https://raw.githubusercontent.com/Ywach404/xbawks-avp/6cb031a7b523a9950f58c6881850e18bdfaad88c/docs/media/gameplay.gif" alt="Screenshot of Xbawks" width="400">
+<img src="https://raw.githubusercontent.com/Ywach404/xbawks-avp/2339dbcb441917cbe7fe10c33969da9b1a5726d0/docs/media/dashboard.gif" alt="Screenshot of Xbawks" width="400">
+<img src="https://raw.githubusercontent.com/Ywach404/xbawks-avp/2339dbcb441917cbe7fe10c33969da9b1a5726d0/docs/media/gameplay.gif" alt="Screenshot of Xbawks" width="400">
 
 ## Credits
 

@@ -668,8 +668,8 @@ quakeavp:
   source: entry
 revc-visionos:
   choice: ab060d8c909256ae
-  collected_at: '2026-11-17T06:34:40Z'
-  commit: 762925082b7f2eb90f4e6ff02e2e15500c4efc84
+  collected_at: '2026-11-19T15:16:35Z'
+  commit: 9d5c1ae0a7ec61d1d387b42ea396ef50e265816c
   icon:
     kind: layered
     layers:
@@ -678,21 +678,21 @@ revc-visionos:
       height: 1024
       layer: back
       sha256: 287f3eb1d47b5cf90db0c473ecd3cca1ea01123ababb7e814f457b48bbd73619
-      url: https://raw.githubusercontent.com/LowRiderXR/revc-visionos-app/762925082b7f2eb90f4e6ff02e2e15500c4efc84/AvpViceCity/Assets.xcassets/AppIcon.solidimagestack/Back.solidimagestacklayer/Content.imageset/Back.png
+      url: https://raw.githubusercontent.com/LowRiderXR/revc-visionos-app/9d5c1ae0a7ec61d1d387b42ea396ef50e265816c/AvpViceCity/Assets.xcassets/AppIcon.solidimagestack/Back.solidimagestacklayer/Content.imageset/Back.png
       width: 1024
     - bytes: 146493
       format: png
       height: 1024
       layer: middle
       sha256: 648bcacc2460fee90debe2aab47e23f83853a44e775af9ce450e6f719886b247
-      url: https://raw.githubusercontent.com/LowRiderXR/revc-visionos-app/762925082b7f2eb90f4e6ff02e2e15500c4efc84/AvpViceCity/Assets.xcassets/AppIcon.solidimagestack/Middle.solidimagestacklayer/Content.imageset/Middle.png
+      url: https://raw.githubusercontent.com/LowRiderXR/revc-visionos-app/9d5c1ae0a7ec61d1d387b42ea396ef50e265816c/AvpViceCity/Assets.xcassets/AppIcon.solidimagestack/Middle.solidimagestacklayer/Content.imageset/Middle.png
       width: 1024
     - bytes: 75860
       format: png
       height: 1024
       layer: front
       sha256: c94912d2d5fa53dbd1303b16c26f9b4d0e47eba4506c2c9b46e58f1679c561a9
-      url: https://raw.githubusercontent.com/LowRiderXR/revc-visionos-app/762925082b7f2eb90f4e6ff02e2e15500c4efc84/AvpViceCity/Assets.xcassets/AppIcon.solidimagestack/Front.solidimagestacklayer/Content.imageset/Front.png
+      url: https://raw.githubusercontent.com/LowRiderXR/revc-visionos-app/9d5c1ae0a7ec61d1d387b42ea396ef50e265816c/AvpViceCity/Assets.xcassets/AppIcon.solidimagestack/Front.solidimagestacklayer/Content.imageset/Front.png
       width: 1024
   screenshots: []
   skipped: []
@@ -1218,8 +1218,8 @@ wind-waker-vr:
   source: readme
 xbawks:
   choice: bf9c59b9045caec0
-  collected_at: '2026-11-19T06:34:45Z'
-  commit: 6cb031a7b523a9950f58c6881850e18bdfaad88c
+  collected_at: '2026-11-19T15:16:36Z'
+  commit: 2339dbcb441917cbe7fe10c33969da9b1a5726d0
   icon:
     kind: layered
     layers:
@@ -1228,21 +1228,21 @@ xbawks:
       height: 1024
       layer: back
       sha256: 7656c65111af62db03d5d1013862351dc2b0f18bb30f4b317b8400e10d67e62a
-      url: https://raw.githubusercontent.com/Ywach404/xbawks-avp/6cb031a7b523a9950f58c6881850e18bdfaad88c/tools/xros/Assets.xcassets/AppIcon.solidimagestack/Back.solidimagestacklayer/Content.imageset/Back.png
+      url: https://raw.githubusercontent.com/Ywach404/xbawks-avp/2339dbcb441917cbe7fe10c33969da9b1a5726d0/tools/xros/Assets.xcassets/AppIcon.solidimagestack/Back.solidimagestacklayer/Content.imageset/Back.png
       width: 1024
     - bytes: 17757
       format: png
       height: 1024
       layer: middle
       sha256: 24bb31e51369ec2515e74bbd4de60e32c3a27ce90b5a9331c30954004e396144
-      url: https://raw.githubusercontent.com/Ywach404/xbawks-avp/6cb031a7b523a9950f58c6881850e18bdfaad88c/tools/xros/Assets.xcassets/AppIcon.solidimagestack/Middle.solidimagestacklayer/Content.imageset/Middle.png
+      url: https://raw.githubusercontent.com/Ywach404/xbawks-avp/2339dbcb441917cbe7fe10c33969da9b1a5726d0/tools/xros/Assets.xcassets/AppIcon.solidimagestack/Middle.solidimagestacklayer/Content.imageset/Middle.png
       width: 1024
     - bytes: 72391
       format: png
       height: 1024
       layer: front
       sha256: c18db22bf2b6a83882e8b3d742ec2fb4a00360d0c1a05884681bb6dcf274bede
-      url: https://raw.githubusercontent.com/Ywach404/xbawks-avp/6cb031a7b523a9950f58c6881850e18bdfaad88c/tools/xros/Assets.xcassets/AppIcon.solidimagestack/Front.solidimagestacklayer/Content.imageset/Front.png
+      url: https://raw.githubusercontent.com/Ywach404/xbawks-avp/2339dbcb441917cbe7fe10c33969da9b1a5726d0/tools/xros/Assets.xcassets/AppIcon.solidimagestack/Front.solidimagestacklayer/Content.imageset/Front.png
       width: 1024
   screenshots:
   - alt: null
@@ -1250,16 +1250,16 @@ xbawks:
     format: gif
     height: 338
     sha256: 1a3ee7878127bd00a0450548b673825bd39a205542ca7ae6af64f0c650f0615a
-    url: https://raw.githubusercontent.com/Ywach404/xbawks-avp/6cb031a7b523a9950f58c6881850e18bdfaad88c/docs/media/dashboard.gif
+    url: https://raw.githubusercontent.com/Ywach404/xbawks-avp/2339dbcb441917cbe7fe10c33969da9b1a5726d0/docs/media/dashboard.gif
     width: 600
   - alt: null
     bytes: 7490340
     format: gif
     height: 338
     sha256: 6cd018636cc17ec7936812c52f90d704c620fcb9d4f8a8662d9d25e3c11afa84
-    url: https://raw.githubusercontent.com/Ywach404/xbawks-avp/6cb031a7b523a9950f58c6881850e18bdfaad88c/docs/media/gameplay.gif
+    url: https://raw.githubusercontent.com/Ywach404/xbawks-avp/2339dbcb441917cbe7fe10c33969da9b1a5726d0/docs/media/gameplay.gif
     width: 600
   skipped:
   - reason: over 8 MB
-    src: https://raw.githubusercontent.com/Ywach404/xbawks-avp/6cb031a7b523a9950f58c6881850e18bdfaad88c/docs/media/promo.gif
+    src: https://raw.githubusercontent.com/Ywach404/xbawks-avp/2339dbcb441917cbe7fe10c33969da9b1a5726d0/docs/media/promo.gif
   source: entry
