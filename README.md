@@ -84,7 +84,6 @@ Everything below "Verified by trevorbilt" is self-reported by whoever submitted 
 | Jak and Daxter | [Dark Eco](ports/dark-eco.md) | Zach Schwendiman ([@zschwendi](https://github.com/zschwendi)) | 2D | Partially working | OK | No license stated | 2026-11-15 | Scanned 2026-11-16 · 0 commits since | [AVP-INSTALL.md](https://github.com/zschwendi/dark-eco/blob/f4be973817c26257ff638a1ebd43ede23f96f8a7/AVP-INSTALL.md) · prebuilt app (not safety-checked) |  |
 | Crash Team Racing | [CTRPad for Vision Pro](ports/ctrpad.md) | [@eurobob](https://github.com/eurobob) | 2D, 3D immersive, 6DoF immersive | Partially working | OK | Custom license | 2026-11-13 | Scanned 2026-11-14 · 0 commits since | [AVP-INSTALL.md](https://github.com/edgytoast/ctrpad/blob/df1d0671ed8d540b695113f1cc28e9fb26e570e9/AVP-INSTALL.md) |  |
 | Pokémon Red, Blue and Yellow | [Gen1 Vision](ports/pokemon-gen1recomp.md) | [@myMartek](https://github.com/myMartek) | 2D | Partially working | OK | MIT | 2026-11-13 | Scanned 2026-11-13 · 0 commits since | [AVP-INSTALL.md](https://github.com/edgytoast/gen1recomp/blob/bbe5f881c7b070233f724ba6927b82666e54568c/AVP-INSTALL.md) |  |
-| Grand Theft Auto V | [V](ports/santosvision.md) | Zach Schwendiman ([@zschwendi](https://github.com/zschwendi)) | 2D, 6DoF immersive | Partially working | ⚠ May have issues | GPL-3.0 | 2026-11-01 | Scanned 2026-11-02 · 0 commits since | [AVP-INSTALL.md](https://github.com/zschwendi/SantosVision/blob/941b9b27bc99a42f32d8a08db7ffb7b7ec728fe5/AVP-INSTALL.md) · prebuilt app (not safety-checked) |  |
 | Minecraft: Java Edition | [AVPcraft](ports/avp-craft.md) | Zach Schwendiman ([@zschwendi](https://github.com/zschwendi)) | 2D, 6DoF immersive | Partially working | OK | MIT | 2026-11-01 | Scanned 2026-11-02 · 0 commits since | [AVP-INSTALL.md](https://github.com/zschwendi/avp-craft/blob/f2e37d355aa472b360bf88f355c8214f40ab5434/AVP-INSTALL.md) |  |
 | Halo: Combat Evolved | [117](ports/117-vision.md) | Zach Schwendiman ([@zschwendi](https://github.com/zschwendi)) | 2D, 6DoF immersive | Partially working | OK | MIT | 2026-10-30 | Scanned 2026-10-30 · 0 commits since | [AVP-INSTALL.md](https://github.com/zschwendi/117-vision/blob/ab3dad0f33c6175f391ed5ed27556a8706832b62/AVP-INSTALL.md) · prebuilt app (not safety-checked) |  |
 
@@ -95,6 +94,14 @@ Emulators that run on the headset and play a console's own games. They're held t
 | Plays | Emulator | Developer | Plays as | Trust | Health | License | Last commit | Scan | Install guide | TestFlight |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Original Xbox games | [Xbawks](ports/xbawks.md) | A.Cervantez ([@Ywach404](https://github.com/Ywach404)) | 2D | Partially working | OK | GPL-2.0 | 2026-11-19 | Scanned 2026-11-19 · 0 commits since | [AVP-INSTALL.md](https://github.com/Ywach404/xbawks-avp/blob/2339dbcb441917cbe7fe10c33969da9b1a5726d0/AVP-INSTALL.md) |  |
+
+## Unavailable ports
+
+These ports were listed here and are no longer available. They're kept as a record that the work existed, so nobody has to wonder whether a game was ported before. There are no links and no copies. If a port comes back, it moves back up.
+
+| Game | Port | Developer | Credits | Listed | Unavailable since | Reason | Last scanned commit |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Grand Theft Auto V | V | Zach Schwendiman (@zschwendi) | Muguet (Native WASM runtime foundation) | 2026-10-29 | 2026-11-19 | Repo blocked for legal reasons (HTTP 451). Takedown inferred; no notice seen | 941b9b27bc99a42f32d8a08db7ffb7b7ec728fe5 |
 
 ## Developers: get your port listed
 
