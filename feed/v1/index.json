@@ -2,7 +2,7 @@
   "$schema": "https://raw.githubusercontent.com/edgytoast/avp-ports-index/main/schema/feed-v1.schema.json",
   "schema_version": "1.8.0",
   "identifier": "com.trevorbilt.avp-ports-index",
-  "generated_at": "2026-11-20T21:07:42Z",
+  "generated_at": "2026-11-20T21:55:41Z",
   "publisher": {
     "name": "trevorbilt",
     "curator": "Trevor \"Toast\"",
@@ -4018,8 +4018,8 @@
       },
       "repo_url": "https://github.com/Ywach404/xbawks-avp",
       "source_ref": null,
-      "source_url": "https://github.com/Ywach404/xbawks-avp/tree/6157cc7b42ffbf70ca6538a8730098399e1c12f8",
-      "install_doc_url": "https://github.com/Ywach404/xbawks-avp/blob/6157cc7b42ffbf70ca6538a8730098399e1c12f8/AVP-INSTALL.md",
+      "source_url": "https://github.com/Ywach404/xbawks-avp/tree/855c63478b676743795a64c93b22138589ba85db",
+      "install_doc_url": "https://github.com/Ywach404/xbawks-avp/blob/855c63478b676743795a64c93b22138589ba85db/AVP-INSTALL.md",
       "install_guide": "AVP-INSTALL.md",
       "developer": {
         "name": "A.Cervantez",
@@ -4055,11 +4055,11 @@
         "status": "ok",
         "failing_since": null
       },
-      "scanned_commit": "6157cc7b42ffbf70ca6538a8730098399e1c12f8",
-      "scanned_at": "2026-11-20T21:07:38Z",
-      "scan_kind": "curator-reviewed",
-      "commits_since_scan": 5,
-      "scan_state": "behind",
+      "scanned_commit": "855c63478b676743795a64c93b22138589ba85db",
+      "scanned_at": "2026-11-20T21:55:41Z",
+      "scan_kind": "automated",
+      "commits_since_scan": 0,
+      "scan_state": "current",
       "archived": false,
       "last_commit_date": "2026-11-20T07:18:02Z",
       "license": {
