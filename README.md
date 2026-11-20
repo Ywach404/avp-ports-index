@@ -94,7 +94,7 @@ Emulators that run on the headset and play a console's own games. They're held t
 
 | Plays | Emulator | Developer | Plays as | Trust | Health | License | Last commit | Scan | Install guide | TestFlight |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Original Xbox games | [Xbawks](ports/xbawks.md) | A.Cervantez ([@Ywach404](https://github.com/Ywach404)) | 2D | Partially working | OK | GPL-2.0 | 2026-11-20 | Scanned 2026-11-19 · 4 commits since | [AVP-INSTALL.md](https://github.com/Ywach404/xbawks-avp/blob/2339dbcb441917cbe7fe10c33969da9b1a5726d0/AVP-INSTALL.md) |  |
+| Original Xbox games | [Xbawks](ports/xbawks.md) | A.Cervantez ([@Ywach404](https://github.com/Ywach404)) | 2D | Partially working | OK | GPL-2.0 | 2026-11-20 | Reviewed by the curator 2026-11-20 · 5 commits since | [AVP-INSTALL.md](https://github.com/Ywach404/xbawks-avp/blob/6157cc7b42ffbf70ca6538a8730098399e1c12f8/AVP-INSTALL.md) |  |
 
 ## Unavailable ports
 

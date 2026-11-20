@@ -1130,7 +1130,7 @@ wind-waker-vr:
   warnings: []
 xbawks:
   archived: false
-  commits_since_scan: 4
+  commits_since_scan: 5
   consecutive_failures: 0
   curator_own: false
   decay_reset_at: '2026-11-17T23:35:33Z'
@@ -1141,21 +1141,21 @@ xbawks:
   github_verified: true
   health: ok
   last_checked: '2026-11-20T06:30:18Z'
-  last_commit_date: '2026-11-20T06:12:18Z'
+  last_commit_date: '2026-11-20T07:18:02Z'
   license:
     kind: open-source
     spdx: GPL-2.0
   outreach_issue_url: null
   outreach_opened_at: null
-  rescan_after: '2026-11-21T06:51:26Z'
+  rescan_after: null
   rescan_hold: false
   routes: []
-  scan_confidence: 92
+  scan_confidence: null
   scan_declines: 0
-  scan_kind: automated
+  scan_kind: curator-reviewed
   scan_refused: false
   scan_state: behind
-  scanned_at: '2026-11-19T06:57:05Z'
-  scanned_commit: 2339dbcb441917cbe7fe10c33969da9b1a5726d0
+  scanned_at: '2026-11-20T21:07:38Z'
+  scanned_commit: 6157cc7b42ffbf70ca6538a8730098399e1c12f8
   testflight: null
   warnings: []
