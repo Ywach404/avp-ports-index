@@ -17,12 +17,12 @@ Then follow the [install guide](https://github.com/Ywach404/xbawks-avp/blob/2339
 | Status | Partially working: Original Xbox emulator \(xemu port\) running on the headset. Needs Apparition on a Mac at every launch for JIT. Many titles play; see the compatibility table. |
 | Plays as | 2D |
 | Health | OK |
-| Scan | Scanned 2026-11-19 · 0 commits since |
+| Scan | Scanned 2026-11-19 · 4 commits since |
 | Source (scanned) | [Ywach404/xbawks-avp at 2339dbcb4419](https://github.com/Ywach404/xbawks-avp/tree/2339dbcb441917cbe7fe10c33969da9b1a5726d0) |
 | Install guide | [AVP-INSTALL.md at 2339dbcb4419](https://github.com/Ywach404/xbawks-avp/blob/2339dbcb441917cbe7fe10c33969da9b1a5726d0/AVP-INSTALL.md) |
 | Repo | [Ywach404/xbawks-avp](https://github.com/Ywach404/xbawks-avp) |
 | License | GPL-2.0 |
-| Last commit | 2026-11-19 |
+| Last commit | 2026-11-20 |
 | visionOS | 26.0 or later |
 | Input | game controller |
 | Tags | emulator |
