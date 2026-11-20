@@ -1147,7 +1147,7 @@ xbawks:
     spdx: GPL-2.0
   outreach_issue_url: null
   outreach_opened_at: null
-  rescan_after: null
+  rescan_after: '2026-11-21T06:51:26Z'
   rescan_hold: false
   routes: []
   scan_confidence: 92
