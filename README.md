@@ -94,6 +94,7 @@ Emulators that run on the headset and play a console's own games. They're held t
 
 | Plays | Emulator | Developer | Plays as | Trust | Health | License | Last commit | Scan | Install guide | TestFlight |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Xbox 360 games | [720](ports/720.md) | A.Cervantez ([@Ywach404](https://github.com/Ywach404)) | 2D | Partially working | OK | Custom license | 2026-11-22 | Scanned 2026-11-22 · 0 commits since | [AVP-INSTALL.md](https://github.com/Ywach404/720-avp/blob/3be515c076b32b9ddc077c87ef6e49867e6ef52c/AVP-INSTALL.md) |  |
 | Original Xbox games | [Xbawks](ports/xbawks.md) | A.Cervantez ([@Ywach404](https://github.com/Ywach404)) | 2D | Partially working | OK | GPL-2.0 | 2026-11-21 | Scanned 2026-11-20 · 4 commits since | [AVP-INSTALL.md](https://github.com/Ywach404/xbawks-avp/blob/855c63478b676743795a64c93b22138589ba85db/AVP-INSTALL.md) |  |
 
 ## Unavailable ports

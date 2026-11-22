@@ -18,6 +18,16 @@
   status: listed
   submitted_by: edgytoast
   submitted_by_id: 146565462
+'720':
+  by: merge
+  changed_at: '2026-11-22T06:55:54Z'
+  listed_at: '2026-11-22T06:55:54Z'
+  owner_approved: false
+  repo: https://github.com/Ywach404/720-avp
+  repo_id: 1466909548
+  status: listed
+  submitted_by: Ywach404
+  submitted_by_id: 155030226
 animal-crossing-vr:
   by: merge
   changed_at: '2026-10-10T15:56:01Z'

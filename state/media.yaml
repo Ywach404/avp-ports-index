@@ -81,6 +81,58 @@
     width: 2560
   skipped: []
   source: readme
+'720':
+  choice: 299c923dff676d8c
+  collected_at: '2026-11-22T06:55:58Z'
+  commit: 3be515c076b32b9ddc077c87ef6e49867e6ef52c
+  icon:
+    kind: layered
+    layers:
+    - bytes: 1087475
+      format: png
+      height: 1024
+      layer: back
+      sha256: d9bb346acc31e380b383134cc2c7192d852287abc13e96dfcbcd8912a02cd7bd
+      url: https://raw.githubusercontent.com/Ywach404/720-avp/3be515c076b32b9ddc077c87ef6e49867e6ef52c/tools/xros/Assets.xcassets/AppIcon.solidimagestack/Back.solidimagestacklayer/Content.imageset/Back.png
+      width: 1024
+    - bytes: 192496
+      format: png
+      height: 1024
+      layer: middle
+      sha256: a6be19caafbef503d7a98f6d7734f41b9295376f8d26757632c28048022502bf
+      url: https://raw.githubusercontent.com/Ywach404/720-avp/3be515c076b32b9ddc077c87ef6e49867e6ef52c/tools/xros/Assets.xcassets/AppIcon.solidimagestack/Middle.solidimagestacklayer/Content.imageset/Middle.png
+      width: 1024
+    - bytes: 81588
+      format: png
+      height: 1024
+      layer: front
+      sha256: 26c88108eff9d5cfaaa2ad7049234041faa455a4ffe76f77ab2018ce09c5c766
+      url: https://raw.githubusercontent.com/Ywach404/720-avp/3be515c076b32b9ddc077c87ef6e49867e6ef52c/tools/xros/Assets.xcassets/AppIcon.solidimagestack/Front.solidimagestacklayer/Content.imageset/Front.png
+      width: 1024
+  screenshots:
+  - alt: null
+    bytes: 7537913
+    format: gif
+    height: 428
+    sha256: 5f8742a75c11913742b8fa0faa7f76a79ef4becca46b3fb4dd90a10278983abb
+    url: https://raw.githubusercontent.com/Ywach404/720-avp/3be515c076b32b9ddc077c87ef6e49867e6ef52c/docs/media/dashboard.gif
+    width: 760
+  - alt: null
+    bytes: 7846174
+    format: gif
+    height: 406
+    sha256: 82d69ab9b38838fca4c8a23057e4a286a5d433e6e2303d7d81d01f4e03d9e48a
+    url: https://raw.githubusercontent.com/Ywach404/720-avp/3be515c076b32b9ddc077c87ef6e49867e6ef52c/docs/media/halo3.gif
+    width: 720
+  - alt: null
+    bytes: 7574425
+    format: gif
+    height: 406
+    sha256: 7bf0649c7db6a5ccde853b47d709490b8f8604cb046e3dc9e9746679596ace20
+    url: https://raw.githubusercontent.com/Ywach404/720-avp/3be515c076b32b9ddc077c87ef6e49867e6ef52c/docs/media/marble-blast.gif
+    width: 720
+  skipped: []
+  source: entry
 animal-crossing-vr:
   choice: null
   collected_at: '2026-10-10T15:56:05Z'
