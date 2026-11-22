@@ -9,7 +9,7 @@ repo: https://github.com/Ywach404/embrace
 developer:
   github: Ywach404
   name: "A. Cervantez"
-status: working
+status: developer-verified
 status_notes: "Plays in full-view 6DoF stereo with a Metal renderer, head look, hand-aimed weapons and tracked PS VR2 Sense controllers."
 visionos_min: "27.0"
 input: [game-controller]
