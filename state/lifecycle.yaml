@@ -78,6 +78,16 @@ dark-eco:
   status: listed
   submitted_by: zschwendi
   submitted_by_id: 139005358
+embrace:
+  by: merge
+  changed_at: '2026-11-22T08:30:19Z'
+  listed_at: '2026-11-22T08:30:19Z'
+  owner_approved: false
+  repo: https://github.com/Ywach404/embrace
+  repo_id: 1467333886
+  status: listed
+  submitted_by: Ywach404
+  submitted_by_id: 155030226
 galaxyvision:
   by: merge
   changed_at: '2026-10-30T16:05:41Z'

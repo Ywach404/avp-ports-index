@@ -246,6 +246,37 @@ dark-eco:
   scanned_commit: f4be973817c26257ff638a1ebd43ede23f96f8a7
   testflight: null
   warnings: []
+embrace:
+  archived: false
+  commits_since_scan: 1
+  consecutive_failures: 0
+  curator_own: false
+  decay_reset_at: '2026-11-22T08:30:19Z'
+  failing_since: null
+  failures: []
+  flagged_commit: null
+  flagged_files: []
+  github_verified: true
+  health: ok
+  last_checked: null
+  last_commit_date: '2026-11-22T08:08:40Z'
+  license:
+    kind: open-source
+    spdx: MIT
+  outreach_issue_url: null
+  outreach_opened_at: null
+  rescan_after: null
+  rescan_hold: false
+  routes: []
+  scan_confidence: 97
+  scan_declines: 0
+  scan_errors: 0
+  scan_kind: automated
+  scan_refused: false
+  scan_state: behind
+  scanned_at: '2026-11-22T08:30:19Z'
+  scanned_commit: 86f41edf8dd616e1109a93a6a997495ea67a9390
+  warnings: []
 galaxyvision:
   archived: false
   commits_since_scan: 0
