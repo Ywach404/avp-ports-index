@@ -1209,12 +1209,12 @@ xbawks:
     spdx: GPL-2.0
   outreach_issue_url: null
   outreach_opened_at: null
-  rescan_after: '2026-11-22T12:26:35Z'
+  rescan_after: '2026-11-23T12:56:39Z'
   rescan_hold: false
   routes: []
   scan_confidence: 95
   scan_declines: 0
-  scan_errors: 3
+  scan_errors: 4
   scan_kind: automated
   scan_refused: false
   scan_state: behind
