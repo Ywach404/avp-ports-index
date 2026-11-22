@@ -1,0 +1,45 @@
+schema_version: 1
+id: embrace
+name: "Embrace"
+game:
+  title: "Vampire: The Masquerade, Bloodlines"
+  original_platform: pc
+  original_release_year: 2004
+repo: https://github.com/Ywach404/embrace
+developer:
+  github: Ywach404
+  name: "A. Cervantez"
+status: working
+status_notes: "Plays in full-view 6DoF stereo with a Metal renderer, head look, hand-aimed weapons and tracked PS VR2 Sense controllers."
+visionos_min: "27.0"
+input: [game-controller]
+experiences: [6dof-immersive, 3d-immersive, 2d]
+description: "A native visionOS port of Vampire: The Masquerade, Bloodlines by A. Cervantez, in full-view stereo with your head as the camera and weapons aimed by hand."
+tags: [rpg, first-person, metal]
+media:
+  screenshots:
+    - docs/media/embrace-downtown.gif
+    - docs/media/hand-aimed-rifle.jpg
+    - docs/media/third-person-street.jpg
+  icon: docs/media/icon.png
+credits:
+  - name: "Bloodlines Porter"
+    role: "Native runtime and recompiler toolchain (MIT)"
+    url: https://github.com/OlehPetrykUA/bloodlines-porter
+  - name: "DXVK (jm2 fork)"
+    role: "D3D9 shader front end (Zlib)"
+    url: https://github.com/jm2/dxvk
+  - name: "dxbc-spirv"
+    role: "Shader bytecode to SPIR-V (MIT)"
+    url: https://github.com/doitsujin/dxbc-spirv
+  - name: "SPIRV-Cross"
+    role: "SPIR-V to Metal Shading Language (Apache-2.0)"
+    url: https://github.com/KhronosGroup/SPIRV-Cross
+  - name: "SDL"
+    role: "Platform layer (Zlib)"
+    url: https://github.com/libsdl-org/SDL
+  - name: "FFmpeg"
+    role: "Bink movie playback (LGPL-2.1-or-later)"
+    url: https://github.com/FFmpeg/FFmpeg
+upstream:
+  - https://github.com/OlehPetrykUA/bloodlines-porter
