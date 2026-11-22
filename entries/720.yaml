@@ -1,0 +1,35 @@
+schema_version: 1
+id: "720"
+name: "720"
+kind: emulator
+game:
+  title: "Xbox 360 games"
+  original_platform: other
+  original_release_year: 2005
+repo: https://github.com/Ywach404/720-avp
+developer:
+  github: Ywach404
+  name: "A.Cervantez"
+status: partially-working
+status_notes: "Xbox 360 emulator (XeniOS port) on the headset. Needs Apparition on a Mac at every launch for JIT and a paid developer account. Marble Blast Ultra and Beautiful Katamari at about 60 fps, Halo 3 about 30 once shaders are cached, Fable II 25 to 29 with rendering faults."
+visionos_min: "26.0"
+input: [game-controller]
+experiences: [2d]
+install: [build]
+description: "As far as I can find, the first standalone, JIT based Xbox 360 emulator on Apple Vision Pro, and a sibling to Xbawks, my original Xbox emulator. A port of XeniOS with a visionOS shell: the game on a big screen in your room, JIT through Apparition, Sense or gamepad input. Bring your own games."
+tags: [emulator, xbox-360]
+media:
+  screenshots:
+    - docs/media/dashboard.gif
+    - docs/media/halo3.gif
+    - docs/media/marble-blast.gif
+  icon: tools/xros/Assets.xcassets/AppIcon.solidimagestack
+credits:
+  - name: "XeniOS"
+    role: "Emulator core"
+    url: https://github.com/xenios-jp/XeniOS
+  - name: "Xenia"
+    role: "The emulator XeniOS is built on"
+    url: https://xenia.jp
+upstream:
+  - https://github.com/xenios-jp/XeniOS
