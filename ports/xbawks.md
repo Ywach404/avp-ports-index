@@ -17,7 +17,7 @@ Then follow the [install guide](https://github.com/Ywach404/xbawks-avp/blob/855c
 | Status | Partially working: Original Xbox emulator \(xemu port\) running on the headset. Needs Apparition on a Mac at every launch for JIT. Many titles play; see the compatibility table. |
 | Plays as | 2D |
 | Health | OK |
-| Scan | Scanned 2026-11-20 · 2 commits since |
+| Scan | Scanned 2026-11-20 · 4 commits since |
 | Source (scanned) | [Ywach404/xbawks-avp at 855c63478b67](https://github.com/Ywach404/xbawks-avp/tree/855c63478b676743795a64c93b22138589ba85db) |
 | Install guide | [AVP-INSTALL.md at 855c63478b67](https://github.com/Ywach404/xbawks-avp/blob/855c63478b676743795a64c93b22138589ba85db/AVP-INSTALL.md) |
 | Repo | [Ywach404/xbawks-avp](https://github.com/Ywach404/xbawks-avp) |
