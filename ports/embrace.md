@@ -6,10 +6,10 @@ Port by A. Cervantez ([@Ywach404](https://github.com/Ywach404))
 Start with this command, which gets exactly the code that was scanned:
 
 ```
-git clone https://github.com/Ywach404/embrace && cd embrace && git checkout 86f41edf8dd616e1109a93a6a997495ea67a9390 && git submodule update --init --recursive
+git clone https://github.com/Ywach404/embrace && cd embrace && git checkout ac513afb89c4e922ef2ab08de55e20397c22ba4b && git submodule update --init --recursive
 ```
 
-Then follow the [install guide](https://github.com/Ywach404/embrace/blob/86f41edf8dd616e1109a93a6a997495ea67a9390/AVP-INSTALL.md) from its build steps. Skip only its step that clones or downloads this repo, which would fetch newer code that may not have been scanned; keep every other step, including dependency downloads.
+Then follow the [install guide](https://github.com/Ywach404/embrace/blob/ac513afb89c4e922ef2ab08de55e20397c22ba4b/AVP-INSTALL.md) from its build steps. Skip only its step that clones or downloads this repo, which would fetch newer code that may not have been scanned; keep every other step, including dependency downloads.
 
 | | |
 | --- | --- |
@@ -17,9 +17,9 @@ Then follow the [install guide](https://github.com/Ywach404/embrace/blob/86f41ed
 | Status | Developer-verified: Plays in full-view 6DoF stereo with a Metal renderer, head look, hand-aimed weapons and tracked PS VR2 Sense controllers. |
 | Plays as | 2D, 3D immersive, 6DoF immersive |
 | Health | OK |
-| Scan | Scanned 2026-11-22 · 1 commit since |
-| Source (scanned) | [Ywach404/embrace at 86f41edf8dd6](https://github.com/Ywach404/embrace/tree/86f41edf8dd616e1109a93a6a997495ea67a9390) |
-| Install guide | [AVP-INSTALL.md at 86f41edf8dd6](https://github.com/Ywach404/embrace/blob/86f41edf8dd616e1109a93a6a997495ea67a9390/AVP-INSTALL.md) |
+| Scan | Scanned 2026-11-22 · 0 commits since |
+| Source (scanned) | [Ywach404/embrace at ac513afb89c4](https://github.com/Ywach404/embrace/tree/ac513afb89c4e922ef2ab08de55e20397c22ba4b) |
+| Install guide | [AVP-INSTALL.md at ac513afb89c4](https://github.com/Ywach404/embrace/blob/ac513afb89c4e922ef2ab08de55e20397c22ba4b/AVP-INSTALL.md) |
 | Repo | [Ywach404/embrace](https://github.com/Ywach404/embrace) |
 | License | MIT |
 | Last commit | 2026-11-22 |

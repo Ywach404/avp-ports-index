@@ -248,7 +248,7 @@ dark-eco:
   warnings: []
 embrace:
   archived: false
-  commits_since_scan: 1
+  commits_since_scan: 0
   consecutive_failures: 0
   curator_own: false
   decay_reset_at: '2026-11-22T08:30:19Z'
@@ -268,14 +268,14 @@ embrace:
   rescan_after: null
   rescan_hold: false
   routes: []
-  scan_confidence: 97
+  scan_confidence: 98
   scan_declines: 0
   scan_errors: 0
   scan_kind: automated
   scan_refused: false
-  scan_state: behind
-  scanned_at: '2026-11-22T08:30:19Z'
-  scanned_commit: 86f41edf8dd616e1109a93a6a997495ea67a9390
+  scan_state: current
+  scanned_at: '2026-11-22T09:05:21Z'
+  scanned_commit: ac513afb89c4e922ef2ab08de55e20397c22ba4b
   warnings: []
 galaxyvision:
   archived: false

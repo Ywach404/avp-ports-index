@@ -2,7 +2,7 @@
   "$schema": "https://raw.githubusercontent.com/edgytoast/avp-ports-index/main/schema/feed-v1.schema.json",
   "schema_version": "1.8.0",
   "identifier": "com.trevorbilt.avp-ports-index",
-  "generated_at": "2026-11-22T08:30:23Z",
+  "generated_at": "2026-11-22T09:05:22Z",
   "publisher": {
     "name": "trevorbilt",
     "curator": "Trevor \"Toast\"",
@@ -23,8 +23,8 @@
       },
       "repo_url": "https://github.com/Ywach404/embrace",
       "source_ref": null,
-      "source_url": "https://github.com/Ywach404/embrace/tree/86f41edf8dd616e1109a93a6a997495ea67a9390",
-      "install_doc_url": "https://github.com/Ywach404/embrace/blob/86f41edf8dd616e1109a93a6a997495ea67a9390/AVP-INSTALL.md",
+      "source_url": "https://github.com/Ywach404/embrace/tree/ac513afb89c4e922ef2ab08de55e20397c22ba4b",
+      "install_doc_url": "https://github.com/Ywach404/embrace/blob/ac513afb89c4e922ef2ab08de55e20397c22ba4b/AVP-INSTALL.md",
       "install_guide": "AVP-INSTALL.md",
       "developer": {
         "name": "A. Cervantez",
@@ -80,11 +80,11 @@
         "status": "ok",
         "failing_since": null
       },
-      "scanned_commit": "86f41edf8dd616e1109a93a6a997495ea67a9390",
-      "scanned_at": "2026-11-22T08:30:19Z",
+      "scanned_commit": "ac513afb89c4e922ef2ab08de55e20397c22ba4b",
+      "scanned_at": "2026-11-22T09:05:21Z",
       "scan_kind": "automated",
-      "commits_since_scan": 1,
-      "scan_state": "behind",
+      "commits_since_scan": 0,
+      "scan_state": "current",
       "archived": false,
       "last_commit_date": "2026-11-22T08:08:40Z",
       "license": {
