@@ -2,7 +2,7 @@
   "$schema": "https://raw.githubusercontent.com/edgytoast/avp-ports-index/main/schema/feed-v1.schema.json",
   "schema_version": "1.8.0",
   "identifier": "com.trevorbilt.avp-ports-index",
-  "generated_at": "2026-11-23T06:56:42Z",
+  "generated_at": "2026-11-23T07:04:45Z",
   "publisher": {
     "name": "trevorbilt",
     "curator": "Trevor \"Toast\"",
@@ -4243,8 +4243,8 @@
       },
       "repo_url": "https://github.com/Ywach404/720-avp",
       "source_ref": null,
-      "source_url": "https://github.com/Ywach404/720-avp/tree/3be515c076b32b9ddc077c87ef6e49867e6ef52c",
-      "install_doc_url": "https://github.com/Ywach404/720-avp/blob/3be515c076b32b9ddc077c87ef6e49867e6ef52c/AVP-INSTALL.md",
+      "source_url": "https://github.com/Ywach404/720-avp/tree/3cfa4f2305c4f1eb2b4b1958f9d89f03b994da82",
+      "install_doc_url": "https://github.com/Ywach404/720-avp/blob/3cfa4f2305c4f1eb2b4b1958f9d89f03b994da82/AVP-INSTALL.md",
       "install_guide": "AVP-INSTALL.md",
       "developer": {
         "name": "A.Cervantez",
@@ -4280,11 +4280,11 @@
         "status": "ok",
         "failing_since": null
       },
-      "scanned_commit": "3be515c076b32b9ddc077c87ef6e49867e6ef52c",
-      "scanned_at": "2026-11-22T06:55:54Z",
+      "scanned_commit": "3cfa4f2305c4f1eb2b4b1958f9d89f03b994da82",
+      "scanned_at": "2026-11-23T07:04:44Z",
       "scan_kind": "automated",
-      "commits_since_scan": 1,
-      "scan_state": "behind",
+      "commits_since_scan": 0,
+      "scan_state": "current",
       "archived": false,
       "last_commit_date": "2026-11-22T19:27:11Z",
       "license": {

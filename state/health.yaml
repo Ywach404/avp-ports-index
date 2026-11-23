@@ -63,7 +63,7 @@
   warnings: []
 '720':
   archived: false
-  commits_since_scan: 1
+  commits_since_scan: 0
   consecutive_failures: 0
   curator_own: false
   decay_reset_at: '2026-11-22T06:55:54Z'
@@ -83,14 +83,14 @@
   rescan_after: null
   rescan_hold: false
   routes: []
-  scan_confidence: 95
+  scan_confidence: 98
   scan_declines: 0
   scan_errors: 0
   scan_kind: automated
   scan_refused: false
-  scan_state: behind
-  scanned_at: '2026-11-22T06:55:54Z'
-  scanned_commit: 3be515c076b32b9ddc077c87ef6e49867e6ef52c
+  scan_state: current
+  scanned_at: '2026-11-23T07:04:44Z'
+  scanned_commit: 3cfa4f2305c4f1eb2b4b1958f9d89f03b994da82
   testflight: null
   warnings: []
 animal-crossing-vr:
