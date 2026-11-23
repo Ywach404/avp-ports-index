@@ -815,7 +815,7 @@ shar-visionos:
   warnings: []
 sheikahvision:
   archived: false
-  commits_since_scan: 8
+  commits_since_scan: 0
   consecutive_failures: 0
   curator_own: false
   decay_reset_at: '2026-11-19T20:53:35Z'
@@ -836,13 +836,14 @@ sheikahvision:
   rescan_hold: false
   routes:
   - S1-11d
-  scan_confidence: 96
+  scan_confidence: 98
   scan_declines: 0
+  scan_errors: 0
   scan_kind: automated
   scan_refused: false
-  scan_state: behind
-  scanned_at: '2026-11-19T20:53:35Z'
-  scanned_commit: d5a8f69f355a129c02580bd4c95a0791822c6bec
+  scan_state: current
+  scanned_at: '2026-11-23T06:56:41Z'
+  scanned_commit: 3a39c9171af84d6008dd57e02b7fd6fd3ec56e8e
   testflight: null
   warnings: []
 ship-of-harkinian:
