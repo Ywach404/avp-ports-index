@@ -17,13 +17,13 @@ Then follow the [install guide](https://github.com/zlinoliver/BotW-SheikahVision
 | Status | Developer-verified: Beta. The developer plays it through end to end on Apple Vision Pro \(M5, visionOS 27\); M2 untested. Needs PS VR2 Sense controllers. The Mac installer in Releases builds the app on your Mac from your own game files; it holds no game data and no prebuilt Vision Pro app. |
 | Plays as | 6DoF immersive |
 | Health | OK |
-| Scan | Scanned 2026-11-19 · 0 commits since |
+| Scan | Scanned 2026-11-19 · 8 commits since |
 | Source (scanned) | [zlinoliver/BotW-SheikahVision at d5a8f69f355a](https://github.com/zlinoliver/BotW-SheikahVision/tree/d5a8f69f355a129c02580bd4c95a0791822c6bec) |
 | Install guide | [AVP-INSTALL.md at d5a8f69f355a](https://github.com/zlinoliver/BotW-SheikahVision/blob/d5a8f69f355a129c02580bd4c95a0791822c6bec/AVP-INSTALL.md) |
 | Repo | [zlinoliver/BotW-SheikahVision](https://github.com/zlinoliver/BotW-SheikahVision) |
 | Developer site | <https://sheikahvision.com> |
 | License | Custom license |
-| Last commit | 2026-11-19 |
+| Last commit | 2026-11-23 |
 | visionOS | 26.0 or later |
 | Input | game controller |
 | Tags | zelda, breath-of-the-wild, wiiu, vr, static-recompilation, motion-controls |
