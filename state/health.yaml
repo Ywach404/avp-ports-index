@@ -1084,11 +1084,12 @@ voxelnative:
     spdx: null
   outreach_issue_url: null
   outreach_opened_at: null
-  rescan_after: null
+  rescan_after: '2026-11-24T08:39:36Z'
   rescan_hold: false
   routes: []
   scan_confidence: 96
   scan_declines: 0
+  scan_errors: 1
   scan_kind: automated
   scan_refused: false
   scan_state: behind
