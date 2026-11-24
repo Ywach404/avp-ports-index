@@ -14,7 +14,7 @@ Then follow the [install guide](https://github.com/zlinoliver/BotW-SheikahVision
 | | |
 | --- | --- |
 | Trust | Developer-verified |
-| Status | Developer-verified: Beta. The developer plays it through end to end on Apple Vision Pro \(M5, visionOS 27\); M2 untested. Needs PS VR2 Sense controllers. The Mac installer in Releases builds the app on your Mac from your own game files; it holds no game data and no prebuilt Vision Pro app. |
+| Status | Developer-verified: Beta. Played end to end on Apple Vision Pro M5 \(visionOS 27\), recommended. M2: playable at about 30 fps, 22.5 once warm \(hardware limit\), community-tested. Needs PS VR2 Sense controllers. The Mac installer builds the app from your own game files; no game data or prebuilt app. |
 | Plays as | 6DoF immersive |
 | Health | OK |
 | Scan | Scanned 2026-11-23 · 0 commits since |

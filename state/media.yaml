@@ -1161,8 +1161,8 @@ visr:
   source: readme
 voxelnative:
   choice: null
-  collected_at: '2026-11-19T06:34:43Z'
-  commit: ac1cbfa3a76cc5ecf0b5e5ce982a0f142902c8c7
+  collected_at: '2026-11-24T16:58:53Z'
+  commit: 8b5acb824e807bf448bf795c0a5477d0b306b1d8
   icon:
     kind: layered
     layers:
@@ -1171,21 +1171,21 @@ voxelnative:
       height: 1024
       layer: back
       sha256: 943263a819496a9eb0887d4524d5b91f7577c563a19cabf952108f07f28289a7
-      url: https://raw.githubusercontent.com/edgytoast/voxelnative/ac1cbfa3a76cc5ecf0b5e5ce982a0f142902c8c7/native/Sources/Assets.xcassets/AppIcon.solidimagestack/Back.solidimagestacklayer/Content.imageset/icon_back.png
+      url: https://raw.githubusercontent.com/edgytoast/voxelnative/8b5acb824e807bf448bf795c0a5477d0b306b1d8/native/Sources/Assets.xcassets/AppIcon.solidimagestack/Back.solidimagestacklayer/Content.imageset/icon_back.png
       width: 1024
     - bytes: 6556
       format: png
       height: 1024
       layer: middle
       sha256: 86a4380e78c0d24d66bf590bfd51a3d81e4824aa566028419db4b96745cf1f8d
-      url: https://raw.githubusercontent.com/edgytoast/voxelnative/ac1cbfa3a76cc5ecf0b5e5ce982a0f142902c8c7/native/Sources/Assets.xcassets/AppIcon.solidimagestack/Middle.solidimagestacklayer/Content.imageset/icon_middle.png
+      url: https://raw.githubusercontent.com/edgytoast/voxelnative/8b5acb824e807bf448bf795c0a5477d0b306b1d8/native/Sources/Assets.xcassets/AppIcon.solidimagestack/Middle.solidimagestacklayer/Content.imageset/icon_middle.png
       width: 1024
     - bytes: 39994
       format: png
       height: 1024
       layer: front
       sha256: a2356b0fb96058dac64c723e4476fc34aac3803a73e991b4e3d922f9dde868f0
-      url: https://raw.githubusercontent.com/edgytoast/voxelnative/ac1cbfa3a76cc5ecf0b5e5ce982a0f142902c8c7/native/Sources/Assets.xcassets/AppIcon.solidimagestack/Front.solidimagestacklayer/Content.imageset/icon_front.png
+      url: https://raw.githubusercontent.com/edgytoast/voxelnative/8b5acb824e807bf448bf795c0a5477d0b306b1d8/native/Sources/Assets.xcassets/AppIcon.solidimagestack/Front.solidimagestacklayer/Content.imageset/icon_front.png
       width: 1024
   screenshots: []
   skipped:
