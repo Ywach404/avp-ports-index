@@ -1067,7 +1067,7 @@ visr:
   warnings: []
 voxelnative:
   archived: false
-  commits_since_scan: 2
+  commits_since_scan: 0
   consecutive_failures: 0
   curator_own: false
   decay_reset_at: '2026-11-14T02:35:02Z'
@@ -1084,17 +1084,17 @@ voxelnative:
     spdx: null
   outreach_issue_url: null
   outreach_opened_at: null
-  rescan_after: '2026-11-24T08:39:36Z'
+  rescan_after: null
   rescan_hold: false
   routes: []
-  scan_confidence: 96
+  scan_confidence: 95
   scan_declines: 0
-  scan_errors: 1
+  scan_errors: 0
   scan_kind: automated
   scan_refused: false
-  scan_state: behind
-  scanned_at: '2026-11-18T08:27:57Z'
-  scanned_commit: ac1cbfa3a76cc5ecf0b5e5ce982a0f142902c8c7
+  scan_state: current
+  scanned_at: '2026-11-24T08:55:34Z'
+  scanned_commit: 8b5acb824e807bf448bf795c0a5477d0b306b1d8
   testflight:
     app: VoxelNative
     source: edgytoast/voxelnative README.md
