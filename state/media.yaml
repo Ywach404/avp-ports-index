@@ -83,8 +83,8 @@
   source: readme
 '720':
   choice: 299c923dff676d8c
-  collected_at: '2026-11-22T06:55:58Z'
-  commit: 3be515c076b32b9ddc077c87ef6e49867e6ef52c
+  collected_at: '2026-11-24T06:34:55Z'
+  commit: 3cfa4f2305c4f1eb2b4b1958f9d89f03b994da82
   icon:
     kind: layered
     layers:
@@ -93,21 +93,21 @@
       height: 1024
       layer: back
       sha256: d9bb346acc31e380b383134cc2c7192d852287abc13e96dfcbcd8912a02cd7bd
-      url: https://raw.githubusercontent.com/Ywach404/720-avp/3be515c076b32b9ddc077c87ef6e49867e6ef52c/tools/xros/Assets.xcassets/AppIcon.solidimagestack/Back.solidimagestacklayer/Content.imageset/Back.png
+      url: https://raw.githubusercontent.com/Ywach404/720-avp/3cfa4f2305c4f1eb2b4b1958f9d89f03b994da82/tools/xros/Assets.xcassets/AppIcon.solidimagestack/Back.solidimagestacklayer/Content.imageset/Back.png
       width: 1024
     - bytes: 192496
       format: png
       height: 1024
       layer: middle
       sha256: a6be19caafbef503d7a98f6d7734f41b9295376f8d26757632c28048022502bf
-      url: https://raw.githubusercontent.com/Ywach404/720-avp/3be515c076b32b9ddc077c87ef6e49867e6ef52c/tools/xros/Assets.xcassets/AppIcon.solidimagestack/Middle.solidimagestacklayer/Content.imageset/Middle.png
+      url: https://raw.githubusercontent.com/Ywach404/720-avp/3cfa4f2305c4f1eb2b4b1958f9d89f03b994da82/tools/xros/Assets.xcassets/AppIcon.solidimagestack/Middle.solidimagestacklayer/Content.imageset/Middle.png
       width: 1024
     - bytes: 81588
       format: png
       height: 1024
       layer: front
       sha256: 26c88108eff9d5cfaaa2ad7049234041faa455a4ffe76f77ab2018ce09c5c766
-      url: https://raw.githubusercontent.com/Ywach404/720-avp/3be515c076b32b9ddc077c87ef6e49867e6ef52c/tools/xros/Assets.xcassets/AppIcon.solidimagestack/Front.solidimagestacklayer/Content.imageset/Front.png
+      url: https://raw.githubusercontent.com/Ywach404/720-avp/3cfa4f2305c4f1eb2b4b1958f9d89f03b994da82/tools/xros/Assets.xcassets/AppIcon.solidimagestack/Front.solidimagestacklayer/Content.imageset/Front.png
       width: 1024
   screenshots:
   - alt: null
@@ -115,21 +115,21 @@
     format: gif
     height: 428
     sha256: 5f8742a75c11913742b8fa0faa7f76a79ef4becca46b3fb4dd90a10278983abb
-    url: https://raw.githubusercontent.com/Ywach404/720-avp/3be515c076b32b9ddc077c87ef6e49867e6ef52c/docs/media/dashboard.gif
+    url: https://raw.githubusercontent.com/Ywach404/720-avp/3cfa4f2305c4f1eb2b4b1958f9d89f03b994da82/docs/media/dashboard.gif
     width: 760
   - alt: null
     bytes: 7846174
     format: gif
     height: 406
     sha256: 82d69ab9b38838fca4c8a23057e4a286a5d433e6e2303d7d81d01f4e03d9e48a
-    url: https://raw.githubusercontent.com/Ywach404/720-avp/3be515c076b32b9ddc077c87ef6e49867e6ef52c/docs/media/halo3.gif
+    url: https://raw.githubusercontent.com/Ywach404/720-avp/3cfa4f2305c4f1eb2b4b1958f9d89f03b994da82/docs/media/halo3.gif
     width: 720
   - alt: null
     bytes: 7574425
     format: gif
     height: 406
     sha256: 7bf0649c7db6a5ccde853b47d709490b8f8604cb046e3dc9e9746679596ace20
-    url: https://raw.githubusercontent.com/Ywach404/720-avp/3be515c076b32b9ddc077c87ef6e49867e6ef52c/docs/media/marble-blast.gif
+    url: https://raw.githubusercontent.com/Ywach404/720-avp/3cfa4f2305c4f1eb2b4b1958f9d89f03b994da82/docs/media/marble-blast.gif
     width: 720
   skipped: []
   source: entry
@@ -854,8 +854,8 @@ shar-visionos:
   source: readme
 sheikahvision:
   choice: null
-  collected_at: '2026-11-19T20:53:40Z'
-  commit: d5a8f69f355a129c02580bd4c95a0791822c6bec
+  collected_at: '2026-11-24T06:34:57Z'
+  commit: 3a39c9171af84d6008dd57e02b7fd6fd3ec56e8e
   icon:
     kind: layered
     layers:
@@ -864,21 +864,21 @@ sheikahvision:
       height: 1024
       layer: back
       sha256: 2e3f0df4029f3c5dd72792457bf61f1c2f077f12a1975406ce4ebec65d399271
-      url: https://raw.githubusercontent.com/zlinoliver/BotW-SheikahVision/d5a8f69f355a129c02580bd4c95a0791822c6bec/ios/assets/Vision.xcassets/AppIcon.solidimagestack/Back.solidimagestacklayer/Content.imageset/back.png
+      url: https://raw.githubusercontent.com/zlinoliver/BotW-SheikahVision/3a39c9171af84d6008dd57e02b7fd6fd3ec56e8e/ios/assets/Vision.xcassets/AppIcon.solidimagestack/Back.solidimagestacklayer/Content.imageset/back.png
       width: 1024
     - bytes: 80739
       format: png
       height: 1024
       layer: middle
       sha256: 68a83fc722eefbd5b5e34ef3d8daa66452eb0afd8c6e45ed14e67bbeffe3736e
-      url: https://raw.githubusercontent.com/zlinoliver/BotW-SheikahVision/d5a8f69f355a129c02580bd4c95a0791822c6bec/ios/assets/Vision.xcassets/AppIcon.solidimagestack/Middle.solidimagestacklayer/Content.imageset/middle.png
+      url: https://raw.githubusercontent.com/zlinoliver/BotW-SheikahVision/3a39c9171af84d6008dd57e02b7fd6fd3ec56e8e/ios/assets/Vision.xcassets/AppIcon.solidimagestack/Middle.solidimagestacklayer/Content.imageset/middle.png
       width: 1024
     - bytes: 22076
       format: png
       height: 1024
       layer: front
       sha256: b3587dc16376f9f64fbafab445c07ae9d81bdad9dec35277c0e3bd4fd112b98d
-      url: https://raw.githubusercontent.com/zlinoliver/BotW-SheikahVision/d5a8f69f355a129c02580bd4c95a0791822c6bec/ios/assets/Vision.xcassets/AppIcon.solidimagestack/Front.solidimagestacklayer/Content.imageset/front.png
+      url: https://raw.githubusercontent.com/zlinoliver/BotW-SheikahVision/3a39c9171af84d6008dd57e02b7fd6fd3ec56e8e/ios/assets/Vision.xcassets/AppIcon.solidimagestack/Front.solidimagestacklayer/Content.imageset/front.png
       width: 1024
   screenshots:
   - alt: 'Controls: both PS VR2 Sense controllers and the body gestures'
@@ -886,20 +886,22 @@ sheikahvision:
     format: png
     height: 2520
     sha256: f29cdbee87e49f704ca8a1a049b6dc20dab5f3a3c62601a733a89159c1fc551f
-    url: https://raw.githubusercontent.com/zlinoliver/BotW-SheikahVision/d5a8f69f355a129c02580bd4c95a0791822c6bec/docs/images/controls.png
+    url: https://raw.githubusercontent.com/zlinoliver/BotW-SheikahVision/3a39c9171af84d6008dd57e02b7fd6fd3ec56e8e/docs/images/controls.png
     width: 3600
   - alt: 'Architecture: static recompilation on the Mac, then the VR layer, game logic, Wii U runtime, graphics and visionOS on the headset'
     bytes: 408225
     format: png
     height: 2172
     sha256: 452623270daa909e8de99833e253d124d87bb1dd1df97e2a060dcd87791cb6e1
-    url: https://raw.githubusercontent.com/zlinoliver/BotW-SheikahVision/d5a8f69f355a129c02580bd4c95a0791822c6bec/docs/images/architecture.png
+    url: https://raw.githubusercontent.com/zlinoliver/BotW-SheikahVision/3a39c9171af84d6008dd57e02b7fd6fd3ec56e8e/docs/images/architecture.png
     width: 3200
   skipped:
+  - reason: not this repo's file or a GitHub attachment
+    src: https://img.shields.io/badge/AVP_Ports_Index-listed-0A84FF
   - reason: over 8 MB
-    src: https://raw.githubusercontent.com/zlinoliver/BotW-SheikahVision/d5a8f69f355a129c02580bd4c95a0791822c6bec/docs/images/bokoblin-axe-fight.gif
+    src: https://raw.githubusercontent.com/zlinoliver/BotW-SheikahVision/3a39c9171af84d6008dd57e02b7fd6fd3ec56e8e/docs/images/bokoblin-axe-fight.gif
   - reason: over 8 MB
-    src: https://raw.githubusercontent.com/zlinoliver/BotW-SheikahVision/d5a8f69f355a129c02580bd4c95a0791822c6bec/docs/images/magnesis-boulder-lift.gif
+    src: https://raw.githubusercontent.com/zlinoliver/BotW-SheikahVision/3a39c9171af84d6008dd57e02b7fd6fd3ec56e8e/docs/images/magnesis-boulder-lift.gif
   source: readme
 ship-of-harkinian:
   choice: null
@@ -1324,8 +1326,8 @@ wind-waker-vr:
   source: readme
 xbawks:
   choice: bf9c59b9045caec0
-  collected_at: '2026-11-21T06:31:19Z'
-  commit: 855c63478b676743795a64c93b22138589ba85db
+  collected_at: '2026-11-24T06:34:59Z'
+  commit: f14f038c214f3e875b5d92f665397931e95408d5
   icon:
     kind: layered
     layers:
@@ -1334,21 +1336,21 @@ xbawks:
       height: 1024
       layer: back
       sha256: 7656c65111af62db03d5d1013862351dc2b0f18bb30f4b317b8400e10d67e62a
-      url: https://raw.githubusercontent.com/Ywach404/xbawks-avp/855c63478b676743795a64c93b22138589ba85db/tools/xros/Assets.xcassets/AppIcon.solidimagestack/Back.solidimagestacklayer/Content.imageset/Back.png
+      url: https://raw.githubusercontent.com/Ywach404/xbawks-avp/f14f038c214f3e875b5d92f665397931e95408d5/tools/xros/Assets.xcassets/AppIcon.solidimagestack/Back.solidimagestacklayer/Content.imageset/Back.png
       width: 1024
     - bytes: 17757
       format: png
       height: 1024
       layer: middle
       sha256: 24bb31e51369ec2515e74bbd4de60e32c3a27ce90b5a9331c30954004e396144
-      url: https://raw.githubusercontent.com/Ywach404/xbawks-avp/855c63478b676743795a64c93b22138589ba85db/tools/xros/Assets.xcassets/AppIcon.solidimagestack/Middle.solidimagestacklayer/Content.imageset/Middle.png
+      url: https://raw.githubusercontent.com/Ywach404/xbawks-avp/f14f038c214f3e875b5d92f665397931e95408d5/tools/xros/Assets.xcassets/AppIcon.solidimagestack/Middle.solidimagestacklayer/Content.imageset/Middle.png
       width: 1024
     - bytes: 72391
       format: png
       height: 1024
       layer: front
       sha256: c18db22bf2b6a83882e8b3d742ec2fb4a00360d0c1a05884681bb6dcf274bede
-      url: https://raw.githubusercontent.com/Ywach404/xbawks-avp/855c63478b676743795a64c93b22138589ba85db/tools/xros/Assets.xcassets/AppIcon.solidimagestack/Front.solidimagestacklayer/Content.imageset/Front.png
+      url: https://raw.githubusercontent.com/Ywach404/xbawks-avp/f14f038c214f3e875b5d92f665397931e95408d5/tools/xros/Assets.xcassets/AppIcon.solidimagestack/Front.solidimagestacklayer/Content.imageset/Front.png
       width: 1024
   screenshots:
   - alt: null
@@ -1356,21 +1358,21 @@ xbawks:
     format: gif
     height: 506
     sha256: 01dca4c151bfdd793a48bf35aa1142ad0429df8b7317759734cbbd49c0fff683
-    url: https://raw.githubusercontent.com/Ywach404/xbawks-avp/855c63478b676743795a64c93b22138589ba85db/docs/media/promo.gif
+    url: https://raw.githubusercontent.com/Ywach404/xbawks-avp/f14f038c214f3e875b5d92f665397931e95408d5/docs/media/promo.gif
     width: 900
   - alt: null
     bytes: 6741993
     format: gif
     height: 338
     sha256: 1a3ee7878127bd00a0450548b673825bd39a205542ca7ae6af64f0c650f0615a
-    url: https://raw.githubusercontent.com/Ywach404/xbawks-avp/855c63478b676743795a64c93b22138589ba85db/docs/media/dashboard.gif
+    url: https://raw.githubusercontent.com/Ywach404/xbawks-avp/f14f038c214f3e875b5d92f665397931e95408d5/docs/media/dashboard.gif
     width: 600
   - alt: null
     bytes: 7490340
     format: gif
     height: 338
     sha256: 6cd018636cc17ec7936812c52f90d704c620fcb9d4f8a8662d9d25e3c11afa84
-    url: https://raw.githubusercontent.com/Ywach404/xbawks-avp/855c63478b676743795a64c93b22138589ba85db/docs/media/gameplay.gif
+    url: https://raw.githubusercontent.com/Ywach404/xbawks-avp/f14f038c214f3e875b5d92f665397931e95408d5/docs/media/gameplay.gif
     width: 600
   skipped: []
   source: entry

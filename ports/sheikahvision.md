@@ -32,10 +32,10 @@ Breath of the Wild in first-person VR on Apple Vision Pro, running natively on t
 
 ## Screenshots
 
-From the port's README at d5a8f69f355a.
+From the port's README at 3a39c9171af8.
 
-<img src="https://raw.githubusercontent.com/zlinoliver/BotW-SheikahVision/d5a8f69f355a129c02580bd4c95a0791822c6bec/docs/images/controls.png" alt="Controls: both PS VR2 Sense controllers and the body gestures" width="400">
-<img src="https://raw.githubusercontent.com/zlinoliver/BotW-SheikahVision/d5a8f69f355a129c02580bd4c95a0791822c6bec/docs/images/architecture.png" alt="Architecture: static recompilation on the Mac, then the VR layer, game logic, Wii U runtime, graphics and visionOS on the headset" width="400">
+<img src="https://raw.githubusercontent.com/zlinoliver/BotW-SheikahVision/3a39c9171af84d6008dd57e02b7fd6fd3ec56e8e/docs/images/controls.png" alt="Controls: both PS VR2 Sense controllers and the body gestures" width="400">
+<img src="https://raw.githubusercontent.com/zlinoliver/BotW-SheikahVision/3a39c9171af84d6008dd57e02b7fd6fd3ec56e8e/docs/images/architecture.png" alt="Architecture: static recompilation on the Mac, then the VR layer, game logic, Wii U runtime, graphics and visionOS on the headset" width="400">
 
 ## Credits
 
